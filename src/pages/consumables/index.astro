@@ -1,0 +1,34 @@
+---
+import Base from "../../layouts/Base.astro";
+import DataTable from "../../components/DataTable.astro";
+import consumables from "../../data/vrising_consumables.json";
+
+const types = new Map<string, number>();
+for (const c of consumables) {
+  const t = String(c.item_type || "Other");
+  types.set(t, (types.get(t) || 0) + 1);
+}
+const typeList = [...types.entries()].sort((a, b) => b[1] - a[1]);
+const sorted = [...consumables].sort((a, b) => String(a.title).localeCompare(String(b.title)));
+---
+
+<Base
+  title="V Rising Consumables — Potions, Food & Buffs Database"
+  description={`V Rising consumables database: ${consumables.length} potions, foods and buff items with effects${typeList.length ? " across " + typeList.length + " categories" : ""}.`}
+>
+  <h1>Consumables</h1>
+  <p class="muted">
+    {consumables.length} consumables — blood potions, elixirs, foods and more. Check what each one does before you drink it.
+  </p>
+
+  <h2>All consumables</h2>
+  <DataTable
+    head={["Item", "Type", "Effect"]}
+    rows={sorted.map((c) => [
+      `<a href="/consumables/${c.slug}/">${c.title}</a>`,
+      c.item_type || "—",
+      c.description || c.intro || "—",
+    ])}
+    searchPlaceholder="Search consumables..."
+  />
+</Base>

@@ -1,0 +1,97 @@
+---
+import Base from "../layouts/Base.astro";
+import vblood from "../data/vrising_vblood.json";
+
+// build material -> boss map from loot tables
+const drops = new Map<string, { boss: string; slug: string; level: number; amount: number | null; chance: string }[]>();
+for (const b of vblood) {
+  for (const l of b.loot || []) {
+    const key = String(l.name || "").trim().toLowerCase();
+    if (!key) continue;
+    if (!drops.has(key)) drops.set(key, []);
+    drops.get(key)!.push({ boss: b.title, slug: b.slug, level: b.level ?? 0, amount: l.amount ?? null, chance: l.chance || "" });
+  }
+}
+const materialList = [...drops.entries()]
+  .map(([k, v]) => ({ name: v[0].boss ? cap(k) : k, key: k, count: v.length }))
+  .sort((a, b) => String(a.name).localeCompare(String(b.name)));
+function cap(s: string) {
+  return s.replace(/\b\w/g, (c) => c.toUpperCase());
+}
+const dataJson = JSON.stringify([...drops.entries()].map(([k, v]) => ({ k, v })));
+---
+
+<Base
+  title="V Rising Loot Finder — Which V Blood Boss Drops What"
+  description="Type a material and instantly find every V Blood boss that drops it, with drop chances and amounts."
+>
+  <h1>Loot Finder</h1>
+  <p class="muted">
+    Wondering which boss drops <em>Rugged Hide</em> or <em>Unsullied Heart</em>? Type it here.
+  </p>
+
+  <input
+    id="loot-search"
+    type="search"
+    placeholder="Type a material… e.g. hide, gem, glass"
+    style="width:100%;max-width:420px;padding:0.8rem 1rem;font-size:1rem;border-radius:10px"
+  />
+  <p class="muted" style="font-size:0.85rem;margin:0.6rem 0 0"><span id="match-count"></span></p>
+
+  <div id="results" style="margin-top:1.2rem"></div>
+
+  <h2 style="margin-top:2rem">All boss-drop materials</h2>
+  <p class="muted" style="font-size:0.9rem">{materialList.length} different materials drop from V Blood bosses.</p>
+  <div style="columns:2 240px;column-gap:2rem">
+    {materialList.slice(0, 80).map((m) => (
+      <p style="margin:0.15rem 0;break-inside:avoid">
+        <a href="#" data-mat={m.key} class="mat-link" style="color:inherit;text-decoration:none">
+          {m.name} <span class="muted" style="font-size:0.8rem">({m.count})</span>
+        </a>
+      </p>
+    ))}
+  </div>
+</Base>
+
+<script define:vars={{ dataJson }}>
+  const DROPS: { k: string; v: { boss: string; slug: string; level: number; amount: number | null; chance: string }[] }[] = JSON.parse(dataJson);
+  const box = document.getElementById("loot-search") as HTMLInputElement;
+  const results = document.getElementById("results") as HTMLDivElement;
+  const count = document.getElementById("match-count") as HTMLSpanElement;
+
+  const esc = (s: string) => s.replace(/[&<>"]/g, (ch) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[ch] as string));
+  const cap = (s: string) => s.replace(/\b\w/g, (c) => c.toUpperCase());
+
+  function render(q: string) {
+    const nq = q.trim().toLowerCase();
+    if (!nq) { results.innerHTML = ""; count.textContent = ""; return; }
+    const hits = DROPS.filter((d) => d.k.includes(nq)).sort((a, b) => a.k.length - b.k.length).slice(0, 5);
+    if (hits.length === 0) {
+      count.textContent = `No boss drops match "${q.trim()}"`;
+      results.innerHTML = `<p class="muted">Try another material — or check <a href="/vblood/">all bosses</a>.</p>`;
+      return;
+    }
+    count.textContent = hits.length + (hits.length === 1 ? " material" : " materials") + " found";
+    results.innerHTML = hits.map((h) => {
+      const bossLinks = h.v.map((b) =>
+        `<a href="/vblood/${b.slug}/"><strong>${esc(b.boss)}</strong></a>` +
+        `<span class="muted"> · level ${b.level}${b.amount ? " · x" + b.amount : ""}${b.chance ? " · " + esc(b.chance) : ""}</span>`
+      ).join("<br/>");
+      return `<div class="card" style="padding:0.9rem 1.1rem;margin-bottom:0.6rem">
+        <strong>${esc(cap(h.k))}</strong>
+        <div style="margin-top:0.4rem">${bossLinks}</div>
+      </div>`;
+    }).join("");
+  }
+
+  box.addEventListener("input", () => render(box.value));
+  document.querySelectorAll(".mat-link").forEach((a) =>
+    a.addEventListener("click", (e) => {
+      e.preventDefault();
+      const m = (a as HTMLAnchorElement).dataset.mat || "";
+      box.value = m;
+      render(m);
+      results.scrollIntoView({ behavior: "smooth", block: "start" });
+    })
+  );
+</script>

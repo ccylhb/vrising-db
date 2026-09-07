@@ -1,0 +1,66 @@
+---
+import Base from "../../layouts/Base.astro";
+import Related from "../../components/Related.astro";
+import consumables from "../../data/vrising_consumables.json";
+
+export async function getStaticPaths() {
+  return consumables.map((c) => ({ params: { slug: c.slug }, props: { c } }));
+}
+const { c } = Astro.props;
+const sameType = consumables
+  .filter((x) => x.slug !== c.slug && x.item_type && String(x.item_type).toLowerCase() === String(c.item_type || "").toLowerCase())
+  .sort((a, b) => String(a.title).localeCompare(String(b.title)))
+  .slice(0, 3);
+const infoRows: [string, string][] = [];
+if (c.item_type) infoRows.push(["Type", String(c.item_type)]);
+if (c.stack_size) infoRows.push(["Stack size", String(c.stack_size)]);
+if (c.teleportable) infoRows.push(["Teleportable", String(c.teleportable)]);
+if (c.salvageable) infoRows.push(["Salvage", String(c.salvageable)]);
+---
+
+<Base
+  title={`${c.title} — V Rising Consumable Effect`}
+  description={`${c.title} is a ${c.item_type || "consumable"} in V Rising.${c.description ? " " + c.description : ""}`}
+>
+  <p style="margin:0"><a href="/consumables/">← All consumables</a></p>
+  <h1 class="icon-h1">
+    {c.icon && <img src={c.icon} alt="" width="52" height="52" loading="eager" />}
+    {c.title}
+  </h1>
+  <p>
+    {c.item_type && <span class="tag">{c.item_type}</span>}
+  </p>
+
+  {c.intro && <p class="muted">{c.intro}</p>}
+
+  {c.description && (
+    <section>
+      <h2>Effect</h2>
+      <p>{c.description}</p>
+    </section>
+  )}
+
+  {infoRows.length > 0 && (
+    <section>
+      <h2>Details</h2>
+      <table>
+        <tbody>
+          {infoRows.map(([k, v]) => (
+            <tr><th style="width:40%">{k}</th><td>{v}</td></tr>
+          ))}
+        </tbody>
+      </table>
+    </section>
+  )}
+
+  <Related
+    heading="Next steps"
+    links={[
+      { href: "/rankings/#consumables", title: "Consumable list", sub: "All potions & foods", tool: true },
+      { href: "/vblood/", title: "V Blood boss list", sub: "Unlock recipes from bosses", tool: true },
+      ...sameType.map((x) => ({
+        href: `/consumables/${x.slug}/`, title: x.title, sub: String(x.item_type || ""), icon: x.icon,
+      })),
+    ]}
+  />
+</Base>

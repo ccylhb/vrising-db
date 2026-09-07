@@ -1,0 +1,128 @@
+---
+import Base from "../../layouts/Base.astro";
+import Related from "../../components/Related.astro";
+import vblood from "../../data/vrising_vblood.json";
+
+export async function getStaticPaths() {
+  return vblood.map((b) => ({ params: { slug: b.slug }, props: { b } }));
+}
+const { b } = Astro.props;
+const near = [...vblood]
+  .filter((x) => x.slug !== b.slug && x.level)
+  .sort((x, y) => Math.abs((x.level ?? 0) - (b.level ?? 0)) - Math.abs((y.level ?? 0) - (b.level ?? 0)))
+  .slice(0, 3);
+const pct = (ch: string) => {
+  const n = parseFloat(ch);
+  return Number.isFinite(n) ? n : null;
+};
+const infoRows: [string, string][] = [];
+if (b.location) infoRows.push(["Location", String(b.location)]);
+if (b.unlock) infoRows.push(["Power unlocked", String(b.unlock)]);
+if (b.brutal) infoRows.push(["Brutal difficulty", "Yes"]);
+if (b.unit_id) infoRows.push(["Unit ID", String(b.unit_id)]);
+---
+
+<Base
+  title={`${b.title} — V Rising V Blood Boss (Level ${b.level}) Location & Loot`}
+  description={`${b.title} is a level ${b.level} V Blood carrier in V Rising${b.location ? ` found at ${b.location}` : ""}.${b.unlock ? ` Defeating it unlocks ${b.unlock}.` : ""}`}
+>
+  <p style="margin:0"><a href="/vblood/">← All V Blood carriers</a></p>
+  <h1 class="icon-h1">
+    {b.icon && <img src={b.icon} alt="" width="52" height="52" loading="eager" />}
+    {b.title}
+  </h1>
+  <p>
+    {b.level && <span class="tag">Level {b.level}</span>}
+    {b.location && <span class="tag">{b.location}</span>}
+    {b.brutal && <span class="tag">Brutal</span>}
+  </p>
+
+  {b.intro && <p class="muted">{b.intro}</p>}
+
+  {b.level !== null && (
+    <div class="card answer-card">
+      <div class="stat-row">
+        <div>
+          <div class="stat-num">{b.level}</div>
+          <div class="stat-label">Boss level</div>
+        </div>
+        {b.unlock && (
+          <div>
+            <div class="stat-num stat-num-sm">{b.unlock}</div>
+            <div class="stat-label">Unlocked power</div>
+          </div>
+        )}
+        {b.loot && b.loot.length > 0 && (
+          <div>
+            <div class="stat-num">{b.loot.length}</div>
+            <div class="stat-label">Loot items</div>
+          </div>
+        )}
+        {b.attacks && b.attacks.length > 0 && (
+          <div>
+            <div class="stat-num">{b.attacks.length}</div>
+            <div class="stat-label">Attacks</div>
+          </div>
+        )}
+      </div>
+    </div>
+  )}
+
+  {b.loot && b.loot.length > 0 && (
+    <section>
+      <h2>Loot & drop chances</h2>
+      <table>
+        <thead>
+          <tr><th>Item</th><th>Amount</th><th>Chance</th></tr>
+        </thead>
+        <tbody>
+          {b.loot.map((l: any) => (
+            <tr>
+              <th style="width:50%">{l.name}</th>
+              <td>{l.amount ?? "—"}</td>
+              <td>{l.chance}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+      <p class="muted" style="font-size:0.85rem">Drop chances from the {b.brutal ? "brutal" : "normal"} version of this boss.</p>
+    </section>
+  )}
+
+  {b.attacks && b.attacks.length > 0 && (
+    <section>
+      <h2>Attacks</h2>
+      <table>
+        <tbody>
+          {b.attacks.map((a: any) => (
+            <tr><th style="width:35%">{a.name}</th><td>{a.desc}</td></tr>
+          ))}
+        </tbody>
+      </table>
+    </section>
+  )}
+
+  {infoRows.length > 0 && (
+    <section>
+      <h2>Details</h2>
+      <table>
+        <tbody>
+          {infoRows.map(([k, v]) => (
+            <tr><th style="width:40%">{k}</th><td>{v}</td></tr>
+          ))}
+        </tbody>
+      </table>
+    </section>
+  )}
+
+  <Related
+    heading="Next steps"
+    links={[
+      { href: "/rankings/#vblood", title: "V Blood level ranking", sub: "Every boss ordered by level", tool: true },
+      { href: "/weapons/", title: "Weapon database", sub: `Gear up for a level ${b.level} fight`, tool: true },
+      ...near.map((x) => ({
+        href: `/vblood/${x.slug}/`, title: x.title, sub: `Level ${x.level}${x.location ? " · " + x.location : ""}`, icon: x.icon,
+      })),
+    ]}
+  />
+</Base>

@@ -1,0 +1,48 @@
+---
+import Base from "../../layouts/Base.astro";
+import DataTable from "../../components/DataTable.astro";
+import armor from "../../data/vrising_armor.json";
+
+const sets = armor.filter((a) => a.is_set);
+const pieces = armor.filter((a) => !a.is_set);
+const sorted = [...armor].sort((a, b) => (b.gear_level ?? 0) - (a.gear_level ?? 0) || String(a.title).localeCompare(String(b.title)));
+---
+
+<Base
+  title="V Rising Armor — Gear Level, Set Bonuses & Stats for Every Set"
+  description={`V Rising armour database: ${sets.length} armour sets and ${pieces.length} single pieces with gear level, max health bonuses and set bonus effects.`}
+>
+  <h1>Armor</h1>
+  <p class="muted">
+    {armor.length} armour entries ({sets.length} full sets + {pieces.length} single pieces). Gear level determines your combat rating — mix sets or go full for the set bonus.
+  </p>
+
+  <div class="grid grid-3" style="margin:1.25rem 0">
+    <div class="card" style="padding:0.9rem 1.1rem">
+      <strong>{sets.length}</strong>
+      <div class="muted">Armour sets</div>
+    </div>
+    <div class="card" style="padding:0.9rem 1.1rem">
+      <strong>{pieces.length}</strong>
+      <div class="muted">Single pieces</div>
+    </div>
+    <div class="card" style="padding:0.9rem 1.1rem">
+      <strong>{sorted[0]?.gear_level ?? "—"}</strong>
+      <div class="muted">Highest gear level</div>
+    </div>
+  </div>
+
+  <h2>All armour</h2>
+  <DataTable
+    head={["Item", "Type", "Gear", "Stats", "Set bonus", "Durability"]}
+    rows={sorted.map((a) => [
+      `<a href="/armor/${a.slug}/">${a.title}</a>`,
+      a.is_set ? "Set" : "Piece",
+      a.gear_level ?? "—",
+      a.stats || "—",
+      a.set_bonus || "—",
+      a.durability ?? "—",
+    ])}
+    searchPlaceholder="Search armour (name, bonus, stats)..."
+  />
+</Base>

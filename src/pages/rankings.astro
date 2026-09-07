@@ -1,0 +1,70 @@
+---
+import Base from "../layouts/Base.astro";
+import DataTable from "../components/DataTable.astro";
+import vblood from "../data/vrising_vblood.json";
+import weapons from "../data/vrising_weapons.json";
+import armor from "../data/vrising_armor.json";
+
+const bosses = [...vblood].sort((a, b) => (a.level ?? 0) - (b.level ?? 0));
+const weaponsByPower = [...weapons].sort((a, b) => (b.physical_power ?? 0) - (a.physical_power ?? 0)).slice(0, 20);
+const armorByGear = [...armor].sort((a, b) => (b.gear_level ?? 0) - (a.gear_level ?? 0)).slice(0, 15);
+const lootCount = [...vblood].sort((a, b) => (b.loot?.length ?? 0) - (a.loot?.length ?? 0)).slice(0, 10);
+---
+
+<Base
+  title="V Rising Rankings — Every V Blood Boss by Level, Top Weapons & Armor"
+  description="V Rising leaderboards: all 64 V Blood bosses ordered by level with loot, the highest physical power weapons, and the highest gear level armour."
+>
+  <h1>Rankings</h1>
+  <p class="muted">The numbers sorted — no wiki digging.</p>
+
+  <h2 id="vblood">Every V Blood boss by level</h2>
+  <p class="muted" style="font-size:0.9rem">The full leveling order: hunt in this sequence to always fight bosses at your gear level.</p>
+  <DataTable
+    head={["#", "Boss", "Level", "Power unlocked", "Location", "Brutal"]}
+    rows={bosses.map((b, i) => [
+      `#${i + 1}`,
+      `<a href="/vblood/${b.slug}/">${b.title}</a>`,
+      `<strong>${b.level}</strong>`,
+      b.unlock || "—",
+      b.location || "—",
+      b.brutal ? "Yes" : "—",
+    ])}
+  />
+
+  <h2 id="weapons">Highest physical power weapons</h2>
+  <DataTable
+    head={["#", "Weapon", "Type", "Power", "Gear", "Bonus"]}
+    rows={weaponsByPower.map((w, i) => [
+      `#${i + 1}`,
+      `<a href="/weapons/${w.slug}/">${w.title}</a>`,
+      w.weapon_type || "—",
+      `<strong>${w.physical_power}</strong>`,
+      w.gear_level ?? "—",
+      w.stats || "—",
+    ])}
+  />
+
+  <h2 id="armor">Highest gear level armour</h2>
+  <DataTable
+    head={["#", "Armour", "Gear", "Stats", "Set bonus"]}
+    rows={armorByGear.map((a, i) => [
+      `#${i + 1}`,
+      `<a href="/armor/${a.slug}/">${a.title}</a>`,
+      `<strong>${a.gear_level}</strong>`,
+      a.stats || "—",
+      a.set_bonus || "—",
+    ])}
+  />
+
+  <h2 id="loot">Richest boss loot tables</h2>
+  <DataTable
+    head={["#", "Boss", "Level", "Loot items"]}
+    rows={lootCount.map((b, i) => [
+      `#${i + 1}`,
+      `<a href="/vblood/${b.slug}/">${b.title}</a>`,
+      b.level ?? "—",
+      String(b.loot?.length ?? 0),
+    ])}
+  />
+</Base>

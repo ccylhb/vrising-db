@@ -1,0 +1,2259 @@
+[
+ {
+  "title": "Apocalypse",
+  "slug": "apocalypse",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon Apocalypse.png",
+   "Item Apocalypse.png",
+   "Armour Apocalypse.png",
+   "Apocalypse.png"
+  ],
+  "intro": "! style=\"padding-top:2px; padding-bottom:0; height:57px; width:110px\" |Skill ! style=\"padding-top:2px; padding-bottom:0\" |Modification",
+  "description": "A Greatsword reforged out of the remains of a legendary enchanted weapon, its name carved into the history of Vardoran.",
+  "weapon_type": "Greatsword",
+  "gear_level": 30.0,
+  "physical_power": 33.7,
+  "stats": "+25% Physical Damage to Wood",
+  "durability": 3800.0,
+  "salvageable": "8 Gold Ingot 4 Spectral Dust 4 Radium Alloy 1 Onyx Tear",
+  "tags": [
+   "Greatsword"
+  ],
+  "icon": "/icons/apocalypse.png"
+ },
+ {
+  "title": "Bone Axes",
+  "slug": "bone-axes",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon BoneAxes.png",
+   "Item BoneAxes.png",
+   "Armour BoneAxes.png",
+   "BoneAxes.png"
+  ],
+  "intro": "!Item!!Materials!!Structure!!Unlocked By",
+  "description": "Dual wield axes that deal chop damage and has a greater effect on wood.",
+  "weapon_type": "Axes",
+  "gear_level": 3.0,
+  "physical_power": 5.2,
+  "stats": "+25% Physical Damage to Wood",
+  "durability": 817.0,
+  "salvageable": "12 Bone",
+  "tags": [
+   "Axes"
+  ],
+  "icon": "/icons/bone_axes.png"
+ },
+ {
+  "title": "Bone Crossbow",
+  "slug": "bone-crossbow",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon BoneCrossbow.png",
+   "Item BoneCrossbow.png",
+   "Armour BoneCrossbow.png",
+   "BoneCrossbow.png"
+  ],
+  "intro": "!Item!!Materials!!Structure!!Unlocked By",
+  "description": "A ranged Weapon that fires bolts.",
+  "weapon_type": "Crossbow",
+  "gear_level": 3.0,
+  "physical_power": 5.2,
+  "stats": "",
+  "durability": 817.0,
+  "salvageable": "12 Bone",
+  "tags": [
+   "Crossbow"
+  ],
+  "icon": "/icons/bone_crossbow.png"
+ },
+ {
+  "title": "Bone Mace",
+  "slug": "bone-mace",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon BoneMace.png",
+   "Item BoneMace.png",
+   "Armour BoneMace.png",
+   "BoneMace.png"
+  ],
+  "intro": "!Item!!Materials!!Structure!!Unlocked By",
+  "description": "A heavy weapon that deals blunt damage that has a greater effect on minerals & rocks.",
+  "weapon_type": "Mace",
+  "gear_level": 3.0,
+  "physical_power": 5.2,
+  "stats": "+25% Physical Damage to Minerals",
+  "durability": 817.0,
+  "salvageable": "12 Bone",
+  "tags": [
+   "Mace"
+  ],
+  "icon": "/icons/bone_mace.png"
+ },
+ {
+  "title": "Bone Sword",
+  "slug": "bone-sword",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon BoneSword.png",
+   "Item BoneSword.png",
+   "Armour BoneSword.png",
+   "BoneSword.png"
+  ],
+  "intro": "!Item !Recipe !Structure !Unlocked By",
+  "description": "An all-round weapon that deals slash damage and has a greater effect on vegetation and thickets.",
+  "weapon_type": "Sword",
+  "gear_level": 3.0,
+  "physical_power": 5.2,
+  "stats": "+25% Physical Damage to Vegetation",
+  "durability": 817.0,
+  "salvageable": "12 Bone",
+  "tags": [
+   "Sword"
+  ],
+  "icon": "/icons/bone_sword.png"
+ },
+ {
+  "title": "Cloud Dancers",
+  "slug": "cloud-dancers",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon CloudDancers.png",
+   "Item CloudDancers.png",
+   "Armour CloudDancers.png",
+   "CloudDancers.png"
+  ],
+  "intro": "! style=\"padding-top:2px; padding-bottom:0; height:57px; width:110px\" |Skill ! style=\"padding-top:2px; padding-bottom:0\" |Modification",
+  "description": "Slashers reforged out of the remains of a legendary enchanted weapon, its name carved into the history of Vardoran.",
+  "weapon_type": "Slashers",
+  "gear_level": 30.0,
+  "physical_power": 33.7,
+  "stats": "+25% Physical Damage to Vegetation",
+  "durability": 3800.0,
+  "salvageable": "8 Gold Ingot 4 Spectral Dust 4 Radium Alloy 1 Onyx Tear",
+  "tags": [
+   "Slashers"
+  ],
+  "icon": "/icons/cloud_dancers.png"
+ },
+ {
+  "title": "Copper Axes",
+  "slug": "copper-axes",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon CopperAxes.png",
+   "Item CopperAxes.png",
+   "Armour CopperAxes.png",
+   "CopperAxes.png"
+  ],
+  "intro": "!Item !Recipe !Structure",
+  "description": "Dual wield axes that deal chop damage and has a greater effect on wood.",
+  "weapon_type": "Axes",
+  "gear_level": 9.0,
+  "physical_power": 8.9,
+  "stats": "+25% Physical Damage to Wood",
+  "durability": 1085.0,
+  "salvageable": "12 Copper Ingot 9 Plank",
+  "tags": [
+   "Axes"
+  ],
+  "icon": "/icons/copper_axes.png"
+ },
+ {
+  "title": "Copper Crossbow",
+  "slug": "copper-crossbow",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon CopperCrossbow.png",
+   "Item CopperCrossbow.png",
+   "Armour CopperCrossbow.png",
+   "CopperCrossbow.png"
+  ],
+  "intro": "!Item ! style=\"width:33%\" |Recipe !Structure",
+  "description": "A ranged Weapon that fires bolts.",
+  "weapon_type": "Crossbow",
+  "gear_level": 9.0,
+  "physical_power": 8.9,
+  "stats": "",
+  "durability": 1085.0,
+  "salvageable": "9 Planks 4 Leather",
+  "tags": [
+   "Crossbow"
+  ],
+  "icon": "/icons/copper_crossbow.png"
+ },
+ {
+  "title": "Copper Longbow",
+  "slug": "copper-longbow",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon CopperLongbow.png",
+   "Item CopperLongbow.png",
+   "Armour CopperLongbow.png",
+   "CopperLongbow.png"
+  ],
+  "intro": "!Item ! style=\"width:33%\" |Recipe !Structure",
+  "description": "A ranged Weapon that fires arrows.",
+  "weapon_type": "Longbow",
+  "gear_level": 9.0,
+  "physical_power": 8.5,
+  "stats": "",
+  "durability": 1085.0,
+  "salvageable": "9 Planks 4 Leather",
+  "tags": [
+   "Longbow"
+  ],
+  "icon": "/icons/copper_longbow.png"
+ },
+ {
+  "title": "Copper Mace",
+  "slug": "copper-mace",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon CopperMace.png",
+   "Item CopperMace.png",
+   "Armour CopperMace.png",
+   "CopperMace.png"
+  ],
+  "intro": "!Item !Recipe !Structure",
+  "description": "A heavy weapon that deals blunt damage that has a greater effect on minerals & rocks.",
+  "weapon_type": "Mace",
+  "gear_level": 9.0,
+  "physical_power": 8.9,
+  "stats": "+25% Physical Damage to Minerals",
+  "durability": 1085.0,
+  "salvageable": "12 Copper Ingot 9 Plank",
+  "tags": [
+   "Mace"
+  ],
+  "icon": "/icons/copper_mace.png"
+ },
+ {
+  "title": "Copper Spear",
+  "slug": "copper-spear",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon CopperSpear.png",
+   "Item CopperSpear.png",
+   "Armour CopperSpear.png",
+   "CopperSpear.png"
+  ],
+  "intro": "!Item !Recipe !Structure",
+  "description": "A spear with long-ranged attack and deals thrust damage that has a greater effect on creatures.",
+  "weapon_type": "Spear",
+  "gear_level": 9.0,
+  "physical_power": 8.9,
+  "stats": "+25% Physical Damage to Creatures",
+  "durability": 1085.0,
+  "salvageable": "12 Copper Ingot 9 Plank",
+  "tags": [
+   "Spear"
+  ],
+  "icon": "/icons/copper_spear.png"
+ },
+ {
+  "title": "Copper Sword",
+  "slug": "copper-sword",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon CopperSword.png",
+   "Item CopperSword.png",
+   "Armour CopperSword.png",
+   "CopperSword.png"
+  ],
+  "intro": "!Item !Recipe !Structure",
+  "description": "An all-round weapon that deals slash damage and has a greater effect on vegetation and thickets.",
+  "weapon_type": "Sword",
+  "gear_level": 9.0,
+  "physical_power": 8.9,
+  "stats": "+25% Physical Damage to Vegetation",
+  "durability": 1085.0,
+  "salvageable": "12 Copper Ingot 9 Plank",
+  "tags": [
+   "Sword"
+  ],
+  "icon": "/icons/copper_sword.png"
+ },
+ {
+  "title": "Dark Silver Axes",
+  "slug": "dark-silver-axes",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon DarkSilverAxes.png",
+   "Item DarkSilverAxes.png",
+   "Armour DarkSilverAxes.png",
+   "DarkSilverAxes.png"
+  ],
+  "intro": "!Item ! style=\"width:43%\" |Recipe !Structure",
+  "description": "Dual wield axes that deal chop damage and has a greater effect on wood.",
+  "weapon_type": "Axes",
+  "gear_level": 23.0,
+  "physical_power": 24.3,
+  "stats": "+25% Physical Damage to Wood",
+  "durability": 2545.0,
+  "salvageable": "9 Dark Silver Ingot 6 Reinforced Plank",
+  "tags": [
+   "Axes"
+  ],
+  "icon": "/icons/dark_silver_axes.png"
+ },
+ {
+  "title": "Dark Silver Claws",
+  "slug": "dark-silver-claws",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon DarkSilverClaws.png",
+   "Item DarkSilverClaws.png",
+   "Armour DarkSilverClaws.png",
+   "DarkSilverClaws.png"
+  ],
+  "intro": "!Item ! style=\"width:43%\" |Recipe !Structure",
+  "description": "A double-edged weapon that deals physical damage.",
+  "weapon_type": "Claws",
+  "gear_level": 23.0,
+  "physical_power": 24.3,
+  "stats": "",
+  "durability": 2545.0,
+  "salvageable": "9 Dark Silver Ingot 6 Reinforced Plank",
+  "tags": [
+   "Claws"
+  ],
+  "icon": "/icons/dark_silver_claws.png"
+ },
+ {
+  "title": "Dark Silver Crossbow",
+  "slug": "dark-silver-crossbow",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon DarkSilverCrossbow.png",
+   "Item DarkSilverCrossbow.png",
+   "Armour DarkSilverCrossbow.png",
+   "DarkSilverCrossbow.png"
+  ],
+  "intro": "!Item ! style=\"width:43%\" |Recipe !Structure",
+  "description": "A ranged Weapon that fires bolts.",
+  "weapon_type": "Crossbow",
+  "gear_level": 23.0,
+  "physical_power": 24.3,
+  "stats": "",
+  "durability": 2545.0,
+  "salvageable": "9 Dark Silver Ingot 6 Reinforced Plank",
+  "tags": [
+   "Crossbow"
+  ],
+  "icon": "/icons/dark_silver_crossbow.png"
+ },
+ {
+  "title": "Dark Silver Daggers",
+  "slug": "dark-silver-daggers",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon DarkSilverDaggers.png",
+   "Item DarkSilverDaggers.png",
+   "Armour DarkSilverDaggers.png",
+   "DarkSilverDaggers.png"
+  ],
+  "intro": "!Item !Recipe !Structure",
+  "description": "A throwing weapon that deals physical damage.",
+  "weapon_type": "Daggers",
+  "gear_level": 23.0,
+  "physical_power": 24.3,
+  "stats": "",
+  "durability": 2545.0,
+  "salvageable": "9 Dark Silver Ingot 6 Reinforced Plank",
+  "tags": [
+   "Daggers"
+  ],
+  "icon": "/icons/dark_silver_daggers.png"
+ },
+ {
+  "title": "Dark Silver Greatsword",
+  "slug": "dark-silver-greatsword",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon DarkSilverGreatsword.png",
+   "Item DarkSilverGreatsword.png",
+   "Armour DarkSilverGreatsword.png",
+   "DarkSilverGreatsword.png"
+  ],
+  "intro": "!Item ! style=\"width:43%\" |Recipe !Structure",
+  "description": "A great heavy sword that deals physical damage. Has a greater effect on wood.",
+  "weapon_type": "Greatsword",
+  "gear_level": 23.0,
+  "physical_power": 24.3,
+  "stats": "+25% Physical Damage to Wood",
+  "durability": 2545.0,
+  "salvageable": "9 Dark Silver Ingot 6 Reinforced Plank",
+  "tags": [
+   "Greatsword"
+  ],
+  "icon": "/icons/dark_silver_greatsword.png"
+ },
+ {
+  "title": "Dark Silver Longbow",
+  "slug": "dark-silver-longbow",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon DarkSilverLongbow.png",
+   "Item DarkSilverLongbow.png",
+   "Armour DarkSilverLongbow.png",
+   "DarkSilverLongbow.png"
+  ],
+  "intro": "!Item ! style=\"width:43%\" |Recipe !Structure",
+  "description": "A ranged Weapon that fires arrows.",
+  "weapon_type": "Longbow",
+  "gear_level": 23.0,
+  "physical_power": 24.3,
+  "stats": "",
+  "durability": 2545.0,
+  "salvageable": "9 Dark Silver Ingot 6 Reinforced Plank",
+  "tags": [
+   "Longbow"
+  ],
+  "icon": "/icons/dark_silver_longbow.png"
+ },
+ {
+  "title": "Dark Silver Mace",
+  "slug": "dark-silver-mace",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon DarkSilverMace.png",
+   "Item DarkSilverMace.png",
+   "Armour DarkSilverMace.png",
+   "DarkSilverMace.png"
+  ],
+  "intro": "!Item ! style=\"width:43%\" |Recipe !Structure",
+  "description": "A heavy weapon that deals blunt damage that has a greater effect on minerals & rocks.",
+  "weapon_type": "Mace",
+  "gear_level": 23.0,
+  "physical_power": 24.3,
+  "stats": "+25% Physical Damage to Minerals",
+  "durability": 2545.0,
+  "salvageable": "9 Dark Silver Ingot 6 Reinforced Plank",
+  "tags": [
+   "Mace"
+  ],
+  "icon": "/icons/dark_silver_mace.png"
+ },
+ {
+  "title": "Dark Silver Pistols",
+  "slug": "dark-silver-pistols",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon DarkSilverPistols.png",
+   "Item DarkSilverPistols.png",
+   "Armour DarkSilverPistols.png",
+   "DarkSilverPistols.png"
+  ],
+  "intro": "!Item ! style=\"width:43%\" |Recipe !Structure",
+  "description": "Black-powder Weapons effective at medium range.",
+  "weapon_type": "Pistols",
+  "gear_level": 23.0,
+  "physical_power": 24.3,
+  "stats": "",
+  "durability": 2545.0,
+  "salvageable": "9 Dark Silver Ingot 6 Reinforced Plank",
+  "tags": [
+   "Pistols"
+  ],
+  "icon": "/icons/dark_silver_pistols.png"
+ },
+ {
+  "title": "Dark Silver Reaper",
+  "slug": "dark-silver-reaper",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon DarkSilverReaper.png",
+   "Item DarkSilverReaper.png",
+   "Armour DarkSilverReaper.png",
+   "DarkSilverReaper.png"
+  ],
+  "intro": "!Item ! style=\"width:43%\" |Recipe !Structure",
+  "description": "A two-handed weapon that deals slash damage and has a greater effect on undead.",
+  "weapon_type": "Reaper",
+  "gear_level": 23.0,
+  "physical_power": 24.3,
+  "stats": "+25% Physical Damage to Undead",
+  "durability": 2545.0,
+  "salvageable": "9 Dark Silver Ingot 6 Reinforced Plank",
+  "tags": [
+   "Reaper"
+  ],
+  "icon": "/icons/dark_silver_reaper.png"
+ },
+ {
+  "title": "Dark Silver Slashers",
+  "slug": "dark-silver-slashers",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon DarkSilverSlashers.png",
+   "Item DarkSilverSlashers.png",
+   "Armour DarkSilverSlashers.png",
+   "DarkSilverSlashers.png"
+  ],
+  "intro": "!Item ! style=\"width:43%\" |Recipe !Structure",
+  "description": "Dual-wield blades that deal slash damage and has a greater effect on vegetation and thickets.",
+  "weapon_type": "Slashers",
+  "gear_level": 23.0,
+  "physical_power": 24.3,
+  "stats": "+25% Physical Damage to Vegetation",
+  "durability": 2545.0,
+  "salvageable": "9 Dark Silver Ingot 6 Reinforced Plank",
+  "tags": [
+   "Slashers"
+  ],
+  "icon": "/icons/dark_silver_slashers.png"
+ },
+ {
+  "title": "Dark Silver Spear",
+  "slug": "dark-silver-spear",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon DarkSilverSpear.png",
+   "Item DarkSilverSpear.png",
+   "Armour DarkSilverSpear.png",
+   "DarkSilverSpear.png"
+  ],
+  "intro": "!Item ! style=\"width:43%\" |Recipe !Structure",
+  "description": "A spear with long-ranged attack and deals thrust damage that has a greater effect on creatures.",
+  "weapon_type": "Spear",
+  "gear_level": 23.0,
+  "physical_power": 24.3,
+  "stats": "+25% Physical Damage to Creatures",
+  "durability": 2545.0,
+  "salvageable": "9 Dark Silver Ingot 6 Reinforced Plank",
+  "tags": [
+   "Spear"
+  ],
+  "icon": "/icons/dark_silver_spear.png"
+ },
+ {
+  "title": "Dark Silver Sword",
+  "slug": "dark-silver-sword",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon DarkSilverSword.png",
+   "Item DarkSilverSword.png",
+   "Armour DarkSilverSword.png",
+   "DarkSilverSword.png"
+  ],
+  "intro": "!Item ! style=\"width:43%\" |Recipe !Structure",
+  "description": "An all-round weapon that deals slash damage and has a greater effect on vegetation and thickets.",
+  "weapon_type": "Sword",
+  "gear_level": 23.0,
+  "physical_power": 24.3,
+  "stats": "+25% Physical Damage to Vegetation",
+  "durability": 2545.0,
+  "salvageable": "9 Dark Silver Ingot 6 Reinforced Plank",
+  "tags": [
+   "Sword"
+  ],
+  "icon": "/icons/dark_silver_sword.png"
+ },
+ {
+  "title": "Dark Silver Twinblade",
+  "slug": "dark-silver-twinblade",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon DarkSilverTwinblade.png",
+   "Item DarkSilverTwinblade.png",
+   "Armour DarkSilverTwinblade.png",
+   "DarkSilverTwinblade.png"
+  ],
+  "intro": "!Item ! style=\"width:43%\" |Recipe !Structure",
+  "description": "A double-edged weapon that deals physical damage.",
+  "weapon_type": "Twinblade",
+  "gear_level": 23.0,
+  "physical_power": 24.3,
+  "stats": "Has a +25% physical damage bonus to vegetation and thickets.",
+  "durability": 2545.0,
+  "salvageable": "9 Dark Silver Ingot 6 Reinforced Plank",
+  "tags": [
+   "Twinblade"
+  ],
+  "icon": "/icons/dark_silver_twinblade.png"
+ },
+ {
+  "title": "Dark Silver Whip",
+  "slug": "dark-silver-whip",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon DarkSilverWhip.png",
+   "Item DarkSilverWhip.png",
+   "Armour DarkSilverWhip.png",
+   "DarkSilverWhip.png"
+  ],
+  "intro": "!Item ! style=\"width:43%\" |Recipe !Structure",
+  "description": "A weapon with a piercing attack that deals additional physical damage in an area at mid-range.",
+  "weapon_type": "Whip",
+  "gear_level": 23.0,
+  "physical_power": 24.3,
+  "stats": "",
+  "durability": 2545.0,
+  "salvageable": "9 Dark Silver Ingot 6 Reinforced Plank",
+  "tags": [
+   "Whip"
+  ],
+  "icon": "/icons/dark_silver_whip.png"
+ },
+ {
+  "title": "Hand of Winter",
+  "slug": "hand-of-winter",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon HandOfWinter.png",
+   "Item HandOfWinter.png",
+   "Armour HandOfWinter.png",
+   "HandOfWinter.png",
+   "HandofWinter.png"
+  ],
+  "intro": "! style=\"padding-top:2px; padding-bottom:0; height:57px; width:110px\" |Skill ! style=\"padding-top:2px; padding-bottom:0\" |Modification",
+  "description": "A Mace reforged out of the remains of a legendary enchanted weapon, its name carved into the history of Vardoran.",
+  "weapon_type": "Mace",
+  "gear_level": 30.0,
+  "physical_power": 33.7,
+  "stats": "+25% Physical Damage to Minerals",
+  "durability": 3800.0,
+  "salvageable": "8 Gold Ingot 4 Spectral Dust 4 Radium Alloy 1 Onyx Tear",
+  "tags": [
+   "Mace"
+  ]
+ },
+ {
+  "title": "Iron Axes",
+  "slug": "iron-axes",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon IronAxes.png",
+   "Item IronAxes.png",
+   "Armour IronAxes.png",
+   "IronAxes.png"
+  ],
+  "intro": "!Item !Recipe !Structure",
+  "description": "Dual wield axes that deal chop damage and has a greater effect on wood.",
+  "weapon_type": "Axes",
+  "gear_level": 15.0,
+  "physical_power": 13.8,
+  "stats": "+25% Physical Damage to Wood",
+  "durability": 1554.0,
+  "salvageable": "9 Iron Ingots 6 Planks",
+  "tags": [
+   "Axes"
+  ],
+  "icon": "/icons/iron_axes.png"
+ },
+ {
+  "title": "Iron Claws",
+  "slug": "iron-claws",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon IronClaws.png",
+   "Item IronClaws.png",
+   "Armour IronClaws.png",
+   "IronClaws.png"
+  ],
+  "intro": "!Item !Recipe !Structure",
+  "description": "A fierce weapon that deals physical damage.",
+  "weapon_type": "Claws",
+  "gear_level": 15.0,
+  "physical_power": 13.8,
+  "stats": "",
+  "durability": 1554.0,
+  "salvageable": "9 Iron Ingots 6 Planks",
+  "tags": [
+   "Claws"
+  ],
+  "icon": "/icons/iron_claws.png"
+ },
+ {
+  "title": "Iron Crossbow",
+  "slug": "iron-crossbow",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon IronCrossbow.png",
+   "Item IronCrossbow.png",
+   "Armour IronCrossbow.png",
+   "IronCrossbow.png"
+  ],
+  "intro": "!Item ! style=\"width:33%\" |Recipe !Structure",
+  "description": "A ranged Weapon that fires bolts.",
+  "weapon_type": "Crossbow",
+  "gear_level": 15.0,
+  "physical_power": 13.8,
+  "stats": "",
+  "durability": 1554.0,
+  "salvageable": "9 Iron Ingots 6 Planks",
+  "tags": [
+   "Crossbow"
+  ],
+  "icon": "/icons/iron_crossbow.png"
+ },
+ {
+  "title": "Iron Daggers",
+  "slug": "iron-daggers",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon IronDaggers.png",
+   "Item IronDaggers.png",
+   "Armour IronDaggers.png",
+   "IronDaggers.png"
+  ],
+  "intro": "!Item !Recipe !Structure",
+  "description": "A throwing weapon that deals physical damage.",
+  "weapon_type": "Daggers",
+  "gear_level": 15.0,
+  "physical_power": 13.8,
+  "stats": "",
+  "durability": 1554.0,
+  "salvageable": "9 Iron Ingots 6 Planks",
+  "tags": [
+   "Daggers"
+  ],
+  "icon": "/icons/iron_daggers.png"
+ },
+ {
+  "title": "Iron Greatsword",
+  "slug": "iron-greatsword",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon IronGreatsword.png",
+   "Item IronGreatsword.png",
+   "Armour IronGreatsword.png",
+   "IronGreatsword.png"
+  ],
+  "intro": "!Item !Recipe !Structure",
+  "description": "A great heavy sword that deals physical damage. Has a greater effect on wood.",
+  "weapon_type": "Greatsword",
+  "gear_level": 15.0,
+  "physical_power": 13.8,
+  "stats": "+25% Physical Damage to Wood",
+  "durability": 1554.0,
+  "salvageable": "9 Iron Ingots 6 Planks",
+  "tags": [
+   "Greatsword"
+  ],
+  "icon": "/icons/iron_greatsword.png"
+ },
+ {
+  "title": "Iron Longbow",
+  "slug": "iron-longbow",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon IronLongbow.png",
+   "Item IronLongbow.png",
+   "Armour IronLongbow.png",
+   "IronLongbow.png"
+  ],
+  "intro": "!Item ! style=\"width:33%\" |Recipe !Structure",
+  "description": "A ranged Weapon that fires arrows.",
+  "weapon_type": "Longbow",
+  "gear_level": 15.0,
+  "physical_power": 13.8,
+  "stats": "",
+  "durability": 1554.0,
+  "salvageable": "9 Iron Ingots 6 Planks",
+  "tags": [
+   "Longbow"
+  ],
+  "icon": "/icons/iron_longbow.png"
+ },
+ {
+  "title": "Iron Mace",
+  "slug": "iron-mace",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon IronMace.png",
+   "Item IronMace.png",
+   "Armour IronMace.png",
+   "IronMace.png"
+  ],
+  "intro": "!Item !Recipe !Structure",
+  "description": "A heavy weapon that deals blunt damage that has a greater effect on minerals & rocks.",
+  "weapon_type": "Mace",
+  "gear_level": 15.0,
+  "physical_power": 13.8,
+  "stats": "+25% Physical Damage to Minerals",
+  "durability": 1554.0,
+  "salvageable": "9 Iron Ingots 6 Planks",
+  "tags": [
+   "Mace"
+  ],
+  "icon": "/icons/iron_mace.png"
+ },
+ {
+  "title": "Iron Pistols",
+  "slug": "iron-pistols",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon IronPistols.png",
+   "Item IronPistols.png",
+   "Armour IronPistols.png",
+   "IronPistols.png"
+  ],
+  "intro": "!Item ! style=\"width:33%\" |Recipe !Structure",
+  "description": "Black-powder Weapons effective at medium range.",
+  "weapon_type": "Pistols",
+  "gear_level": 15.0,
+  "physical_power": 13.8,
+  "stats": "",
+  "durability": 1554.0,
+  "salvageable": "9 Iron Ingots 6 Planks",
+  "tags": [
+   "Pistols"
+  ],
+  "icon": "/icons/iron_pistols.png"
+ },
+ {
+  "title": "Iron Reaper",
+  "slug": "iron-reaper",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon IronReaper.png",
+   "Item IronReaper.png",
+   "Armour IronReaper.png",
+   "IronReaper.png"
+  ],
+  "intro": "!Item !Recipe !Structure",
+  "description": "A two-handed weapon that deals slash damage and has a greater effect on undead.",
+  "weapon_type": "Reaper",
+  "gear_level": 15.0,
+  "physical_power": 13.8,
+  "stats": "+25% Physical Damage to Undead",
+  "durability": 1554.0,
+  "salvageable": "9 Iron Ingots 6 Planks",
+  "tags": [
+   "Reaper"
+  ],
+  "icon": "/icons/iron_reaper.png"
+ },
+ {
+  "title": "Iron Slashers",
+  "slug": "iron-slashers",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon IronSlashers.png",
+   "Item IronSlashers.png",
+   "Armour IronSlashers.png",
+   "IronSlashers.png"
+  ],
+  "intro": "!Item !Recipe !Structure",
+  "description": "Dual-wield blades that deal slash damage and has a greater effect on vegetation and thickets.",
+  "weapon_type": "Slashers",
+  "gear_level": 15.0,
+  "physical_power": 13.8,
+  "stats": "+25% Physical Damage to Vegetation",
+  "durability": 1554.0,
+  "salvageable": "9 Iron Ingots 6 Planks",
+  "tags": [
+   "Slashers"
+  ],
+  "icon": "/icons/iron_slashers.png"
+ },
+ {
+  "title": "Iron Sword",
+  "slug": "iron-sword",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon IronSword.png",
+   "Item IronSword.png",
+   "Armour IronSword.png",
+   "IronSword.png"
+  ],
+  "intro": "!Item !Recipe !Structure",
+  "description": "An all-round weapon that deals slash damage and has a greater effect on vegetation and thickets.",
+  "weapon_type": "Sword",
+  "gear_level": 15.0,
+  "physical_power": 13.8,
+  "stats": "+25% Physical Damage to Vegetation",
+  "durability": 1554.0,
+  "salvageable": "9 Iron Ingots 6 Planks",
+  "tags": [
+   "Sword"
+  ],
+  "icon": "/icons/iron_sword.png"
+ },
+ {
+  "title": "Iron Twinblade",
+  "slug": "iron-twinblade",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon IronTwinblade.png",
+   "Item IronTwinblade.png",
+   "Armour IronTwinblade.png",
+   "IronTwinblade.png"
+  ],
+  "intro": "!Item !Recipe !Structure",
+  "description": "A double-edged weapon that deals physical damage.",
+  "weapon_type": "Twinblade",
+  "gear_level": 15.0,
+  "physical_power": 13.8,
+  "stats": "Has a +25% physical damage bonus to vegetation and thickets.",
+  "durability": 1554.0,
+  "salvageable": "9 Iron Ingots 6 Planks",
+  "tags": [
+   "Twinblade"
+  ],
+  "icon": "/icons/iron_twinblade.png"
+ },
+ {
+  "title": "Iron Whip",
+  "slug": "iron-whip",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon IronWhip.png",
+   "Item IronWhip.png",
+   "Armour IronWhip.png",
+   "IronWhip.png"
+  ],
+  "intro": "!Item !Recipe !Structure",
+  "description": "A weapon with a piercing attack that deals additional physical damage in an area at mid-range.",
+  "weapon_type": "Whip",
+  "gear_level": 15.0,
+  "physical_power": 13.8,
+  "stats": "",
+  "durability": 1554.0,
+  "salvageable": "9 Iron Ingots 6 Planks",
+  "tags": [
+   "Whip"
+  ],
+  "icon": "/icons/iron_whip.png"
+ },
+ {
+  "title": "Lumberjack's Axes",
+  "slug": "lumberjack-s-axes",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon Lumberjack'SAxes.png",
+   "Item Lumberjack'SAxes.png",
+   "Armour Lumberjack'SAxes.png",
+   "Lumberjack'SAxes.png",
+   "Lumberjack'sAxes.png"
+  ],
+  "intro": "",
+  "description": "Dual wield axes that deal chop damage and has a greater effect on wood.",
+  "weapon_type": "Axes",
+  "gear_level": 7.0,
+  "physical_power": 7.4,
+  "stats": "+50% Physical Damage to Wood",
+  "durability": 625.0,
+  "salvageable": "12 Silver Coin",
+  "tags": [
+   "Axes"
+  ]
+ },
+ {
+  "title": "Merciless Copper Axes",
+  "slug": "merciless-copper-axes",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon MercilessCopperAxes.png",
+   "Item MercilessCopperAxes.png",
+   "Armour MercilessCopperAxes.png",
+   "MercilessCopperAxes.png"
+  ],
+  "intro": "!Item ! style=\"width:33%\" |Recipe !Structure",
+  "description": "Dual wield axes that deal chop damage and has a greater effect on wood.",
+  "weapon_type": "Axes",
+  "gear_level": 12.0,
+  "physical_power": 10.9,
+  "stats": "+25% Physical Damage to Wood",
+  "durability": 1292.0,
+  "salvageable": "1 Crude Ruby 6 Whetstone 3 Leather",
+  "tags": [
+   "Axes"
+  ],
+  "icon": "/icons/merciless_copper_axes.png"
+ },
+ {
+  "title": "Merciless Copper Crossbow",
+  "slug": "merciless-copper-crossbow",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon_Merciless Copper Crossbow.png",
+   "Weapon MercilessCopperCrossbow.png",
+   "Item MercilessCopperCrossbow.png",
+   "Armour MercilessCopperCrossbow.png",
+   "MercilessCopperCrossbow.png"
+  ],
+  "intro": "!Item ! style=\"width:33%\" | Recipe ! Structure !Unlocked By",
+  "description": "A ranged Weapon that fires bolts.",
+  "weapon_type": "Crossbow",
+  "gear_level": 12.0,
+  "physical_power": 10.9,
+  "stats": "",
+  "durability": 1292.0,
+  "salvageable": "1 Gem Dust 6 Whetstone 3 Leather",
+  "tags": [
+   "Crossbow"
+  ],
+  "icon": "/icons/merciless_copper_crossbow.png"
+ },
+ {
+  "title": "Merciless Copper Longbow",
+  "slug": "merciless-copper-longbow",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon_Merciless Copper Longbow.png",
+   "Weapon MercilessCopperLongbow.png",
+   "Item MercilessCopperLongbow.png",
+   "Armour MercilessCopperLongbow.png",
+   "MercilessCopperLongbow.png"
+  ],
+  "intro": "!Item ! style=\"width:33%\" |Recipe !Structure !Unlocked By",
+  "description": "A ranged Weapon that fires arrows.",
+  "weapon_type": "Longbow",
+  "gear_level": 12.0,
+  "physical_power": 10.9,
+  "stats": "",
+  "durability": 1292.0,
+  "salvageable": "1 Crude Amethyst 9 Whetstone 3 Leather",
+  "tags": [
+   "Longbow"
+  ],
+  "icon": "/icons/merciless_copper_longbow.png"
+ },
+ {
+  "title": "Merciless Copper Mace",
+  "slug": "merciless-copper-mace",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon MercilessCopperMace.png",
+   "Item MercilessCopperMace.png",
+   "Armour MercilessCopperMace.png",
+   "MercilessCopperMace.png"
+  ],
+  "intro": "!Item ! style=\"width:33%\" |Recipe !Structure",
+  "description": "A heavy weapon that deals blunt damage that has a greater effect on minerals & rocks.",
+  "weapon_type": "Mace",
+  "gear_level": 12.0,
+  "physical_power": 10.9,
+  "stats": "+25% Physical Damage to Minerals",
+  "durability": 1292.0,
+  "salvageable": "1 Crude Topaz 6 Whetstone 3 Leather",
+  "tags": [
+   "Mace"
+  ],
+  "icon": "/icons/merciless_copper_mace.png"
+ },
+ {
+  "title": "Merciless Copper Spear",
+  "slug": "merciless-copper-spear",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon MercilessCopperSpear.png",
+   "Item MercilessCopperSpear.png",
+   "Armour MercilessCopperSpear.png",
+   "MercilessCopperSpear.png"
+  ],
+  "intro": "! Item ! style=\"width:33.5%\" |Recipe !Structure",
+  "description": "A spear with long-ranged attack and deals thrust damage that has a greater effect on creatures.",
+  "weapon_type": "Spear",
+  "gear_level": 12.0,
+  "physical_power": 10.9,
+  "stats": "+25% Physical Damage to Creatures",
+  "durability": 1292.0,
+  "salvageable": "1 Crude Emerald 6 Whetstone 3 Leather",
+  "tags": [
+   "Spear"
+  ],
+  "icon": "/icons/merciless_copper_spear.png"
+ },
+ {
+  "title": "Merciless Copper Sword",
+  "slug": "merciless-copper-sword",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon MercilessCopperSword.png",
+   "Item MercilessCopperSword.png",
+   "Armour MercilessCopperSword.png",
+   "MercilessCopperSword.png"
+  ],
+  "intro": "!Item ! style=\"width:35%\" |Recipe !Structure",
+  "description": "An all-round weapon that deals slash damage and has a greater effect on vegetation and thickets.",
+  "weapon_type": "Sword",
+  "gear_level": 12.0,
+  "physical_power": 10.9,
+  "stats": "+25% Physical Damage to Vegetation",
+  "durability": 1292.0,
+  "salvageable": "1 Crude Sapphire 6 Whetstone 3 Leather",
+  "tags": [
+   "Sword"
+  ],
+  "icon": "/icons/merciless_copper_sword.png"
+ },
+ {
+  "title": "Merciless Iron Axes",
+  "slug": "merciless-iron-axes",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon MercilessIronAxes.png",
+   "Item MercilessIronAxes.png",
+   "Armour MercilessIronAxes.png",
+   "MercilessIronAxes.png"
+  ],
+  "intro": "!Item ! style=\"width:35%\" |Recipe !Structure",
+  "description": "Dual wield axes that deal chop damage and has a greater effect on wood.",
+  "weapon_type": "Axes",
+  "gear_level": 18.0,
+  "physical_power": 17.3,
+  "stats": "+25% Physical Damage to Wood",
+  "durability": 1873.0,
+  "salvageable": "3 Greater Blood Essences 3 Reinforced Planks",
+  "tags": [
+   "Axes"
+  ],
+  "icon": "/icons/merciless_iron_axes.png"
+ },
+ {
+  "title": "Merciless Iron Claws",
+  "slug": "merciless-iron-claws",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon MercilessIronClaws.png",
+   "Item MercilessIronClaws.png",
+   "Armour MercilessIronClaws.png",
+   "MercilessIronClaws.png"
+  ],
+  "intro": "!Item !Recipe !Structure",
+  "description": "A double-edged weapon that deals physical damage. Has a greater effect on vegetation and thickets.",
+  "weapon_type": "Claws",
+  "gear_level": 18.0,
+  "physical_power": 17.3,
+  "stats": "",
+  "durability": 1873.0,
+  "salvageable": "3 Greater Blood Essences 3 Reinforced Planks",
+  "tags": [
+   "Claws"
+  ],
+  "icon": "/icons/merciless_iron_claws.png"
+ },
+ {
+  "title": "Merciless Iron Crossbow",
+  "slug": "merciless-iron-crossbow",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon MercilessIronCrossbow.png",
+   "Item MercilessIronCrossbow.png",
+   "Armour MercilessIronCrossbow.png",
+   "MercilessIronCrossbow.png"
+  ],
+  "intro": "!Item ! style=\"width:43%\" |Recipe !Structure",
+  "description": "A ranged Weapon that fires bolts.",
+  "weapon_type": "Crossbow",
+  "gear_level": 18.0,
+  "physical_power": 17.3,
+  "stats": "",
+  "durability": 1873.0,
+  "salvageable": "3 Greater Blood Essences 3 Reinforced Planks",
+  "tags": [
+   "Crossbow"
+  ],
+  "icon": "/icons/merciless_iron_crossbow.png"
+ },
+ {
+  "title": "Merciless Iron Daggers",
+  "slug": "merciless-iron-daggers",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon MercilessIronDaggers.png",
+   "Item MercilessIronDaggers.png",
+   "Armour MercilessIronDaggers.png",
+   "MercilessIronDaggers.png"
+  ],
+  "intro": "!Item !Recipe !Structure",
+  "description": "A throwing weapon that deals physical damage.",
+  "weapon_type": "Daggers",
+  "gear_level": 18.0,
+  "physical_power": 17.3,
+  "stats": "",
+  "durability": 1873.0,
+  "salvageable": "3 Greater Blood Essences 3 Reinforced Planks",
+  "tags": [
+   "Daggers"
+  ],
+  "icon": "/icons/merciless_iron_daggers.png"
+ },
+ {
+  "title": "Merciless Iron Greatsword",
+  "slug": "merciless-iron-greatsword",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon MercilessIronGreatsword.png",
+   "Item MercilessIronGreatsword.png",
+   "Armour MercilessIronGreatsword.png",
+   "MercilessIronGreatsword.png"
+  ],
+  "intro": "!Item ! style=\"width:35%\" |Recipe !Structure",
+  "description": "A great heavy sword that deals physical damage. Has a greater effect on wood.",
+  "weapon_type": "Greatsword",
+  "gear_level": 18.0,
+  "physical_power": 17.3,
+  "stats": "+25% Physical Damage to Wood",
+  "durability": 1873.0,
+  "salvageable": "3 Greater Blood Essences 3 Reinforced Planks",
+  "tags": [
+   "Greatsword"
+  ]
+ },
+ {
+  "title": "Merciless Iron Longbow",
+  "slug": "merciless-iron-longbow",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon MercilessIronLongbow.png",
+   "Item MercilessIronLongbow.png",
+   "Armour MercilessIronLongbow.png",
+   "MercilessIronLongbow.png"
+  ],
+  "intro": "!Item ! style=\"width:33%\" |Recipe !Structure",
+  "description": "A ranged Weapon that fires arrows.",
+  "weapon_type": "Longbow",
+  "gear_level": 18.0,
+  "physical_power": 17.3,
+  "stats": "",
+  "durability": 1873.0,
+  "salvageable": "3 Greater Blood Essences 3 Reinforced Planks",
+  "tags": [
+   "Longbow"
+  ],
+  "icon": "/icons/merciless_iron_longbow.png"
+ },
+ {
+  "title": "Merciless Iron Mace",
+  "slug": "merciless-iron-mace",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon MercilessIronMace.png",
+   "Item MercilessIronMace.png",
+   "Armour MercilessIronMace.png",
+   "MercilessIronMace.png"
+  ],
+  "intro": "!Item ! style=\"width:35%\" |Recipe !Structure",
+  "description": "A heavy weapon that deals blunt damage that has a greater effect on minerals & rocks.",
+  "weapon_type": "Mace",
+  "gear_level": 18.0,
+  "physical_power": 17.3,
+  "stats": "+25% Physical Damage to Minerals",
+  "durability": 1873.0,
+  "salvageable": "3 Greater Blood Essences 3 Reinforced Planks",
+  "tags": [
+   "Mace"
+  ],
+  "icon": "/icons/merciless_iron_mace.png"
+ },
+ {
+  "title": "Merciless Iron Pistols",
+  "slug": "merciless-iron-pistols",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon MercilessIronPistols.png",
+   "Item MercilessIronPistols.png",
+   "Armour MercilessIronPistols.png",
+   "MercilessIronPistols.png"
+  ],
+  "intro": "!Item ! style=\"width:43%\" |Recipe !Structure",
+  "description": "Black-powder Weapons effective at medium range.",
+  "weapon_type": "Pistols",
+  "gear_level": 18.0,
+  "physical_power": 17.3,
+  "stats": "",
+  "durability": 1873.0,
+  "salvageable": "3 Greater Blood Essences 3 Reinforced Planks",
+  "tags": [
+   "Pistols"
+  ],
+  "icon": "/icons/merciless_iron_pistols.png"
+ },
+ {
+  "title": "Merciless Iron Reaper",
+  "slug": "merciless-iron-reaper",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon MercilessIronReaper.png",
+   "Item MercilessIronReaper.png",
+   "Armour MercilessIronReaper.png",
+   "MercilessIronReaper.png"
+  ],
+  "intro": "!Item ! style=\"width:35%\" |Recipe !Structure",
+  "description": "A two-handed weapon that deals slash damage and has a greater effect on undead.",
+  "weapon_type": "Reaper",
+  "gear_level": 18.0,
+  "physical_power": 17.3,
+  "stats": "+25% Physical Damage to Undead",
+  "durability": 1873.0,
+  "salvageable": "3 Greater Blood Essences 3 Reinforced Planks",
+  "tags": [
+   "Reaper"
+  ],
+  "icon": "/icons/merciless_iron_reaper.png"
+ },
+ {
+  "title": "Merciless Iron Slashers",
+  "slug": "merciless-iron-slashers",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon MercilessIronSlashers.png",
+   "Item MercilessIronSlashers.png",
+   "Armour MercilessIronSlashers.png",
+   "MercilessIronSlashers.png"
+  ],
+  "intro": "!Item ! style=\"width:35%\" |Recipe !Structure",
+  "description": "Dual-wield blades that deal slash damage and has a greater effect on vegetation and thickets.",
+  "weapon_type": "Slashers",
+  "gear_level": 18.0,
+  "physical_power": 17.3,
+  "stats": "+25% Physical Damage to Vegetation",
+  "durability": 1873.0,
+  "salvageable": "3 Greater Blood Essences 3 Reinforced Planks",
+  "tags": [
+   "Slashers"
+  ],
+  "icon": "/icons/merciless_iron_slashers.png"
+ },
+ {
+  "title": "Merciless Iron Spear",
+  "slug": "merciless-iron-spear",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon MercilessIronSpear.png",
+   "Item MercilessIronSpear.png",
+   "Armour MercilessIronSpear.png",
+   "MercilessIronSpear.png"
+  ],
+  "intro": "!Item ! style=\"width:35%\" |Recipe !Structure",
+  "description": "A spear with long-ranged attack and deals thrust damage that has a greater effect on creatures.",
+  "weapon_type": "Spear",
+  "gear_level": 18.0,
+  "physical_power": 17.3,
+  "stats": "+25% Physical Damage to Creatures",
+  "durability": 1873.0,
+  "salvageable": "3 Greater Blood Essences 3 Reinforced Planks",
+  "tags": [
+   "Spear"
+  ],
+  "icon": "/icons/merciless_iron_spear.png"
+ },
+ {
+  "title": "Merciless Iron Sword",
+  "slug": "merciless-iron-sword",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon MercilessIronSword.png",
+   "Item MercilessIronSword.png",
+   "Armour MercilessIronSword.png",
+   "MercilessIronSword.png"
+  ],
+  "intro": "!Item ! style=\"width:35%\" |Recipe ! Structure",
+  "description": "An all-round weapon that deals slash damage and has a greater effect on vegetation and thickets.",
+  "weapon_type": "Sword",
+  "gear_level": 18.0,
+  "physical_power": 17.3,
+  "stats": "+25% Physical Damage to Vegetation",
+  "durability": 1873.0,
+  "salvageable": "3 Greater Blood Essences 3 Reinforced Planks",
+  "tags": [
+   "Sword"
+  ],
+  "icon": "/icons/merciless_iron_sword.png"
+ },
+ {
+  "title": "Merciless Iron Twinblade",
+  "slug": "merciless-iron-twinblade",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon MercilessIronTwinblade.png",
+   "Item MercilessIronTwinblade.png",
+   "Armour MercilessIronTwinblade.png",
+   "MercilessIronTwinblade.png"
+  ],
+  "intro": "!Item !Recipe !Structure",
+  "description": "A double-edged weapon that deals physical damage. Has a greater effect on vegetation and thickets.",
+  "weapon_type": "Twinblade",
+  "gear_level": 18.0,
+  "physical_power": 17.3,
+  "stats": "+25% Physical Damage to Vegetation",
+  "durability": 1873.0,
+  "salvageable": "3 Greater Blood Essences 3 Reinforced Planks",
+  "tags": [
+   "Twinblade"
+  ],
+  "icon": "/icons/merciless_iron_twinblade.png"
+ },
+ {
+  "title": "Merciless Iron Whip",
+  "slug": "merciless-iron-whip",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon MercilessIronWhip.png",
+   "Item MercilessIronWhip.png",
+   "Armour MercilessIronWhip.png",
+   "MercilessIronWhip.png"
+  ],
+  "intro": "!Item ! style=\"width:43%\" |Recipe !Structure",
+  "description": "A weapon with a piercing attack that deals additional physical damage in an area at mid-range.",
+  "weapon_type": "Whip",
+  "gear_level": 18.0,
+  "physical_power": 17.3,
+  "stats": "",
+  "durability": 1873.0,
+  "salvageable": "3 Greater Blood Essences 3 Reinforced Planks",
+  "tags": [
+   "Whip"
+  ],
+  "icon": "/icons/merciless_iron_whip.png"
+ },
+ {
+  "title": "Miner's Mace",
+  "slug": "miner-s-mace",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon Miner'SMace.png",
+   "Item Miner'SMace.png",
+   "Armour Miner'SMace.png",
+   "Miner'SMace.png",
+   "Miner'sMace.png"
+  ],
+  "intro": "",
+  "description": "A heavy weapon that deals blunt damage that has a greater effect on minerals & rocks.",
+  "weapon_type": "Mace",
+  "gear_level": 7.0,
+  "physical_power": 7.4,
+  "stats": "+50% Physical Damage to Minerals",
+  "durability": 625.0,
+  "salvageable": "12 Silver Coin",
+  "tags": [
+   "Mace"
+  ]
+ },
+ {
+  "title": "Mortira's Lament",
+  "slug": "mortira-s-lament",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon Mortira'SLament.png",
+   "Item Mortira'SLament.png",
+   "Armour Mortira'SLament.png",
+   "Mortira'SLament.png",
+   "Mortira'sLament.png"
+  ],
+  "intro": "! style=\"padding-top:2px; padding-bottom:0; height:57px; width:110px\" |Skill ! style=\"padding-top:2px; padding-bottom:0\" |Modification",
+  "description": "A Reaper reforged out of the remains of a legendary enchanted weapon, its name carved into the history of Vardoran.",
+  "weapon_type": "Reaper",
+  "gear_level": 30.0,
+  "physical_power": 33.7,
+  "stats": "+25% Physical Damage to Undead",
+  "durability": 3800.0,
+  "salvageable": "8 Gold Ingot 4 Spectral Dust 4 Radium Alloy 1 Onyx Tear",
+  "tags": [
+   "Reaper"
+  ]
+ },
+ {
+  "title": "Oaksong",
+  "slug": "oaksong",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon Oaksong.png",
+   "Item Oaksong.png",
+   "Armour Oaksong.png",
+   "Oaksong.png"
+  ],
+  "intro": "! style=\"padding-top:2px; padding-bottom:0; height:57px; width:110px\" |Skill ! style=\"padding-top:2px; padding-bottom:0\" |Modification",
+  "description": "A Longbow reforged out of the remains of a legendary enchanted weapon, its name carved into the history of Vardoran.",
+  "weapon_type": "Longbow",
+  "gear_level": 30.0,
+  "physical_power": 33.7,
+  "stats": "",
+  "durability": 3800.0,
+  "salvageable": "8 Gold Ingot 4 Spectral Dust 4 Radium Alloy 1 Onyx Tear",
+  "tags": [
+   "Longbow"
+  ],
+  "icon": "/icons/oaksong.png"
+ },
+ {
+  "title": "Reinforced Bone Axes",
+  "slug": "reinforced-bone-axes",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon ReinforcedBoneAxes.png",
+   "Item ReinforcedBoneAxes.png",
+   "Armour ReinforcedBoneAxes.png",
+   "ReinforcedBoneAxes.png"
+  ],
+  "intro": "!Item ! style=\"width:35%\" |Recipe !Structure",
+  "description": "Dual wield axes that deal chop damage and has a greater effect on wood.",
+  "weapon_type": "Axes",
+  "gear_level": 6.0,
+  "physical_power": 6.8,
+  "stats": "+25% Physical Damage to Wood",
+  "durability": 928.0,
+  "salvageable": "96 Stone 3 Plank",
+  "tags": [
+   "Axes"
+  ],
+  "icon": "/icons/reinforced_bone_axes.png"
+ },
+ {
+  "title": "Reinforced Bone Crossbow",
+  "slug": "reinforced-bone-crossbow",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon ReinforcedBoneCrossbow.png",
+   "Item ReinforcedBoneCrossbow.png",
+   "Armour ReinforcedBoneCrossbow.png",
+   "ReinforcedBoneCrossbow.png"
+  ],
+  "intro": "!Item !Recipe !Structure",
+  "description": "A ranged Weapon that fires bolts.",
+  "weapon_type": "Crossbow",
+  "gear_level": 6.0,
+  "physical_power": 6.0,
+  "stats": "",
+  "durability": 928.0,
+  "salvageable": "3 Plank 96 Stone",
+  "tags": [
+   "Crossbow"
+  ],
+  "icon": "/icons/reinforced_bone_crossbow.png"
+ },
+ {
+  "title": "Reinforced Bone Mace",
+  "slug": "reinforced-bone-mace",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon ReinforcedBoneMace.png",
+   "Item ReinforcedBoneMace.png",
+   "Armour ReinforcedBoneMace.png",
+   "ReinforcedBoneMace.png"
+  ],
+  "intro": "!Item ! style=\"width:33%\" |Recipe !Structure",
+  "description": "A heavy weapon that deals blunt damage that has a greater effect on minerals & rocks.",
+  "weapon_type": "Mace",
+  "gear_level": 6.0,
+  "physical_power": 6.8,
+  "stats": "+25% Physical Damage to Minerals",
+  "durability": 928.0,
+  "salvageable": "96 Stone 3 Plank",
+  "tags": [
+   "Mace"
+  ],
+  "icon": "/icons/reinforced_bone_mace.png"
+ },
+ {
+  "title": "Reinforced Bone Spear",
+  "slug": "reinforced-bone-spear",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon ReinforcedBoneSpear.png",
+   "Item ReinforcedBoneSpear.png",
+   "Armour ReinforcedBoneSpear.png",
+   "ReinforcedBoneSpear.png"
+  ],
+  "intro": "!Item ! style=\"width:35%\" |Recipe ! Structure",
+  "description": "A spear with a long-ranged attack and deals thrust damage that has a greater effect on creatures.",
+  "weapon_type": "Spear",
+  "gear_level": 6.0,
+  "physical_power": 6.8,
+  "stats": "+25% Physical Damage to Creatures",
+  "durability": 928.0,
+  "salvageable": "3 Plank 96 Stone",
+  "tags": [
+   "Spear"
+  ],
+  "icon": "/icons/reinforced_bone_spear.png"
+ },
+ {
+  "title": "Reinforced Bone Sword",
+  "slug": "reinforced-bone-sword",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon ReinforcedBoneSword.png",
+   "Item ReinforcedBoneSword.png",
+   "Armour ReinforcedBoneSword.png",
+   "ReinforcedBoneSword.png"
+  ],
+  "intro": "!Item ! style=\"width:35%\" |Recipe !Structure",
+  "description": "An all-round weapon that deals slash damage and has a greater effect on vegetation and thickets.",
+  "weapon_type": "Sword",
+  "gear_level": 6.0,
+  "physical_power": 6.8,
+  "stats": "+25% Physical Damage to Vegetation",
+  "durability": 928.0,
+  "salvageable": "96 Stone 3 Plank",
+  "tags": [
+   "Sword"
+  ],
+  "icon": "/icons/reinforced_bone_sword.png"
+ },
+ {
+  "title": "Sanguine Axes",
+  "slug": "sanguine-axes",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon SanguineAxes.png",
+   "Item SanguineAxes.png",
+   "Armour SanguineAxes.png",
+   "SanguineAxes.png"
+  ],
+  "intro": "!Item ! style=\"width:35%\" |Recipe ! Structure",
+  "description": "Dual wield axes that deal chop damage and has a greater effect on wood.",
+  "weapon_type": "Axes",
+  "gear_level": 26.0,
+  "physical_power": 29.3,
+  "stats": "+25% Physical Damage to Wood",
+  "durability": 3037.0,
+  "salvageable": "3 Flawless Ruby 1 Primal Blood Essence 3 Gold Ingot",
+  "tags": [
+   "Axes"
+  ],
+  "icon": "/icons/sanguine_axes.png"
+ },
+ {
+  "title": "Sanguine Claws",
+  "slug": "sanguine-claws",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon SanguineClaws.png",
+   "Item SanguineClaws.png",
+   "Armour SanguineClaws.png",
+   "SanguineClaws.png"
+  ],
+  "intro": "!Item ! style=\"width:35%\" |Recipe !Structure",
+  "description": "A double-edged weapon that deals physical damage.",
+  "weapon_type": "Claws",
+  "gear_level": 26.0,
+  "physical_power": 29.3,
+  "stats": "Has a +25% physical damage bonus to vegetation and thickets.",
+  "durability": 3037.0,
+  "salvageable": "9 Gold Ingot",
+  "tags": [
+   "Claws"
+  ],
+  "icon": "/icons/sanguine_claws.png"
+ },
+ {
+  "title": "Sanguine Crossbow",
+  "slug": "sanguine-crossbow",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon SanguineCrossbow.png",
+   "Item SanguineCrossbow.png",
+   "Armour SanguineCrossbow.png",
+   "SanguineCrossbow.png"
+  ],
+  "intro": "!Item ! style=\"width:43%\" |Recipe !Structure",
+  "description": "A ranged Weapon that fires bolts.",
+  "weapon_type": "Crossbow",
+  "gear_level": 26.0,
+  "physical_power": 29.3,
+  "stats": "",
+  "durability": 3037.0,
+  "salvageable": "1 Primal Blood Essence 3 Gold Ingot",
+  "tags": [
+   "Crossbow"
+  ],
+  "icon": "/icons/sanguine_crossbow.png"
+ },
+ {
+  "title": "Sanguine Daggers",
+  "slug": "sanguine-daggers",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon SanguineDaggers.png",
+   "Item SanguineDaggers.png",
+   "Armour SanguineDaggers.png",
+   "SanguineDaggers.png"
+  ],
+  "intro": "!Item ! style=\"width:35%\" |Recipe !Structure",
+  "description": "A throwing weapon that deals physical damage.",
+  "weapon_type": "Daggers",
+  "gear_level": 26.0,
+  "physical_power": 29.3,
+  "stats": "",
+  "durability": 3037.0,
+  "salvageable": "9 Gold Ingot",
+  "tags": [
+   "Daggers"
+  ],
+  "icon": "/icons/sanguine_daggers.png"
+ },
+ {
+  "title": "Sanguine Greatsword",
+  "slug": "sanguine-greatsword",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon SanguineGreatsword.png",
+   "Item SanguineGreatsword.png",
+   "Armour SanguineGreatsword.png",
+   "SanguineGreatsword.png"
+  ],
+  "intro": "!Item ! style=\"width:35%\" |Recipe !Structure",
+  "description": "A great heavy sword that deals physical damage. Has a greater effect on wood.",
+  "weapon_type": "Greatsword",
+  "gear_level": 26.0,
+  "physical_power": 29.3,
+  "stats": "+25% Physical Damage to Wood",
+  "durability": 3037.0,
+  "salvageable": "3 Flawless Sapphire 1 Primal Blood Essence 3 Gold Ingot",
+  "tags": [
+   "Greatsword"
+  ],
+  "icon": "/icons/sanguine_greatsword.png"
+ },
+ {
+  "title": "Sanguine Longbow",
+  "slug": "sanguine-longbow",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon SanguineLongbow.png",
+   "Item SanguineLongbow.png",
+   "Armour SanguineLongbow.png",
+   "SanguineLongbow.png"
+  ],
+  "intro": "!Item ! style=\"width:43%\" |Recipe !Structure",
+  "description": "A ranged Weapon that fires arrows.",
+  "weapon_type": "Longbow",
+  "gear_level": 26.0,
+  "physical_power": 29.3,
+  "stats": "",
+  "durability": 3037.0,
+  "salvageable": "1 Primal Blood Essence 3 Gold Ingot",
+  "tags": [
+   "Longbow"
+  ],
+  "icon": "/icons/sanguine_longbow.png"
+ },
+ {
+  "title": "Sanguine Mace",
+  "slug": "sanguine-mace",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon SanguineMace.png",
+   "Item SanguineMace.png",
+   "Armour SanguineMace.png",
+   "SanguineMace.png"
+  ],
+  "intro": "!Item ! style=\"width:35%\" |Recipe !Structure",
+  "description": "A heavy weapon that deals blunt damage that has a greater effect on minerals & rocks.",
+  "weapon_type": "Mace",
+  "gear_level": 26.0,
+  "physical_power": 29.3,
+  "stats": "+25% Physical Damage to Minerals",
+  "durability": 3037.0,
+  "salvageable": "3 Flawless Topaz 1 Primal Blood Essence 3 Gold Ingot",
+  "tags": [
+   "Mace"
+  ],
+  "icon": "/icons/sanguine_mace.png"
+ },
+ {
+  "title": "Sanguine Pistols",
+  "slug": "sanguine-pistols",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon SanguinePistols.png",
+   "Item SanguinePistols.png",
+   "Armour SanguinePistols.png",
+   "SanguinePistols.png"
+  ],
+  "intro": "!Item ! style=\"width:35%\" |Recipe !Structure",
+  "description": "Black-powder Weapons effective at medium range.",
+  "weapon_type": "Pistols",
+  "gear_level": 26.0,
+  "physical_power": 29.3,
+  "stats": "",
+  "durability": 3037.0,
+  "salvageable": "3 Flawless Sapphire 1 Primal Blood Essence 3 Gold Ingot",
+  "tags": [
+   "Pistols"
+  ],
+  "icon": "/icons/sanguine_pistols.png"
+ },
+ {
+  "title": "Sanguine Reaper",
+  "slug": "sanguine-reaper",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon SanguineReaper.png",
+   "Item SanguineReaper.png",
+   "Armour SanguineReaper.png",
+   "SanguineReaper.png"
+  ],
+  "intro": "! Item ! style=\"width:35%\" |Recipe !Structure",
+  "description": "A two-handed weapon that deals slash damage and has a greater effect on undead.",
+  "weapon_type": "Reaper",
+  "gear_level": 26.0,
+  "physical_power": 29.3,
+  "stats": "+25% Physical Damage to Undead",
+  "durability": 3037.0,
+  "salvageable": "3 Flawless Miststone 1 Primal Blood Essence 3 Gold Ingot",
+  "tags": [
+   "Reaper"
+  ],
+  "icon": "/icons/sanguine_reaper.png"
+ },
+ {
+  "title": "Sanguine Slashers",
+  "slug": "sanguine-slashers",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon SanguineSlashers.png",
+   "Item SanguineSlashers.png",
+   "Armour SanguineSlashers.png",
+   "SanguineSlashers.png"
+  ],
+  "intro": "!Item ! style=\"width:35%\" |Recipe !Structure",
+  "description": "Dual-wield blades that deal slash damage and has a greater effect on vegetation and thickets.",
+  "weapon_type": "Slashers",
+  "gear_level": 26.0,
+  "physical_power": 29.3,
+  "stats": "+25% Physical Damage to Vegetation",
+  "durability": 3037.0,
+  "salvageable": "3 Flawless Amethyst 1 Primal Blood Essence 3 Gold Ingot",
+  "tags": [
+   "Slashers"
+  ],
+  "icon": "/icons/sanguine_slashers.png"
+ },
+ {
+  "title": "Sanguine Spear",
+  "slug": "sanguine-spear",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon SanguineSpear.png",
+   "Item SanguineSpear.png",
+   "Armour SanguineSpear.png",
+   "SanguineSpear.png"
+  ],
+  "intro": "!Item ! style=\"width:35%\" |Recipe !Structure",
+  "description": "A spear with long-ranged attack and deals thrust damage that has a greater effect on creatures.",
+  "weapon_type": "Spear",
+  "gear_level": 26.0,
+  "physical_power": 29.3,
+  "stats": "+25% Physical Damage to Creatures",
+  "durability": 3037.0,
+  "salvageable": "3 Flawless Emerald 1 Primal Blood Essence 3 Gold Ingot",
+  "tags": [
+   "Spear"
+  ],
+  "icon": "/icons/sanguine_spear.png"
+ },
+ {
+  "title": "Sanguine Sword",
+  "slug": "sanguine-sword",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon SanguineSword.png",
+   "Item SanguineSword.png",
+   "Armour SanguineSword.png",
+   "SanguineSword.png"
+  ],
+  "intro": "!Item ! style=\"width:35%\" |Recipe !Structure",
+  "description": "An all-round weapon that deals slash damage and has a greater effect on vegetation and thickets.",
+  "weapon_type": "Sword",
+  "gear_level": 26.0,
+  "physical_power": 29.3,
+  "stats": "+25% Physical Damage to Vegetation",
+  "durability": 3037.0,
+  "salvageable": "3 Flawless Sapphire 1 Primal Blood Essence 3 Gold Ingot",
+  "tags": [
+   "Sword"
+  ],
+  "icon": "/icons/sanguine_sword.png"
+ },
+ {
+  "title": "Sanguine Twinblade",
+  "slug": "sanguine-twinblade",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon SanguineTwinblade.png",
+   "Item SanguineTwinblade.png",
+   "Armour SanguineTwinblade.png",
+   "SanguineTwinblade.png"
+  ],
+  "intro": "!Item ! style=\"width:35%\" |Recipe !Structure",
+  "description": "A double-edged weapon that deals physical damage.",
+  "weapon_type": "Twinblade",
+  "gear_level": 26.0,
+  "physical_power": 29.3,
+  "stats": "Has a +25% physical damage bonus to vegetation and thickets.",
+  "durability": 3037.0,
+  "salvageable": "9 Gold Ingot",
+  "tags": [
+   "Twinblade"
+  ],
+  "icon": "/icons/sanguine_twinblade.png"
+ },
+ {
+  "title": "Sanguine Whip",
+  "slug": "sanguine-whip",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon SanguineWhip.png",
+   "Item SanguineWhip.png",
+   "Armour SanguineWhip.png",
+   "SanguineWhip.png"
+  ],
+  "intro": "! Item ! style=\"width:35%\" |Recipe !Structure",
+  "description": "A weapon with a piercing attack that deals additional physical damage in an area at mid-range.",
+  "weapon_type": "Whip",
+  "gear_level": 26.0,
+  "physical_power": 29.3,
+  "stats": "",
+  "durability": 3037.0,
+  "salvageable": "1 Flawless Miststone 1 Primal Blood Essence 3 Gold Ingot",
+  "tags": [
+   "Whip"
+  ],
+  "icon": "/icons/sanguine_whip.png"
+ },
+ {
+  "title": "Talons of the Lich Beast",
+  "slug": "talons-of-the-lich-beast",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon TalonsOfTheLichBeast.png",
+   "Item TalonsOfTheLichBeast.png",
+   "Armour TalonsOfTheLichBeast.png",
+   "TalonsOfTheLichBeast.png",
+   "TalonsoftheLichBeast.png"
+  ],
+  "intro": "! style=\"padding-top:2px; padding-bottom:0; height:57px; width:110px\" |Skill ! style=\"padding-top:2px; padding-bottom:0\" |Modification *: Skeleton explodes dealing 80% spell damage after 3s.",
+  "description": "Claws reforged out of the remains of a legendary enchanted weapon, its name carved into the history of a far away land.",
+  "weapon_type": "Claws",
+  "gear_level": 30.0,
+  "physical_power": 33.7,
+  "stats": "",
+  "durability": null,
+  "salvageable": "8 Gold Ingot 4 Spectral Dust 4 Radium Alloy 1 Onyx Tear",
+  "tags": [
+   "Claws"
+  ]
+ },
+ {
+  "title": "The Endbringers",
+  "slug": "the-endbringers",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon TheEndbringers.png",
+   "Item TheEndbringers.png",
+   "Armour TheEndbringers.png",
+   "TheEndbringers.png"
+  ],
+  "intro": "! style=\"padding-top:2px; padding-bottom:0; height:57px; width:110px\" |Skill ! style=\"padding-top:2px; padding-bottom:0\" |Modification *Explosive Bullet Recast window is 2 seconds. *In the 1.1 October patch Fan the Hammer was granted 35% movement speed while channeling by default, and The Endbringers bonus was increased to 50% total. *Explosive Bullet's recast explosion damage was reduced to 50% from 75%.",
+  "description": "Pistols reforged out of the remains of a legendary enchanted weapon, its name carved into the history of Vardoran.",
+  "weapon_type": "Pistols",
+  "gear_level": 30.0,
+  "physical_power": 33.7,
+  "stats": "",
+  "durability": 3800.0,
+  "salvageable": "8 Gold Ingot 4 Spectral Dust 4 Radium Alloy 1 Onyx Tear",
+  "tags": [
+   "Pistols"
+  ],
+  "icon": "/icons/the_endbringers.png"
+ },
+ {
+  "title": "The Fate Dancers",
+  "slug": "the-fate-dancers",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon TheFateDancers.png",
+   "Item TheFateDancers.png",
+   "Armour TheFateDancers.png",
+   "TheFateDancers.png"
+  ],
+  "intro": "! style=\"padding-top:2px; padding-bottom:0; height:57px; width:110px\" |Skill ! style=\"padding-top:2px; padding-bottom:0\" |Modification",
+  "description": "A twinblade reforged out of the remains of a legendary enchanted weapon, its name carved into the history of Vardoran.",
+  "weapon_type": "Twinblade",
+  "gear_level": 30.0,
+  "physical_power": 33.7,
+  "stats": "",
+  "durability": null,
+  "salvageable": "8 Gold Ingot 4 Spectral Dust 4 Radium Alloy 1 Onyx Tear",
+  "tags": [
+   "Twinblade"
+  ],
+  "icon": "/icons/the_fate_dancers.png"
+ },
+ {
+  "title": "The General's Soul Reaper",
+  "slug": "the-general-s-soul-reaper",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon TheGeneral'SSoulReaper.png",
+   "Item TheGeneral'SSoulReaper.png",
+   "Armour TheGeneral'SSoulReaper.png",
+   "TheGeneral'SSoulReaper.png",
+   "TheGeneral'sSoulReaper.png"
+  ],
+  "intro": "VRISINGPAGE used to be crafted after obtaining The General's Soul Reaper Orb dropped by an Undead Commander in Haunted Iron Mine or Church of the Damned. It was removed with the Gloomrot update. It was likely meant as a prerequisite test for the current Ancestral Weapons.",
+  "description": "A two-handed weapon that deals slash damage and has a greater effect on undead.",
+  "weapon_type": "Reaper",
+  "gear_level": 18.0,
+  "physical_power": 18.5,
+  "stats": "+25% Damage to Undead +6 Spell Power +5 Spell Critical Chance",
+  "durability": 1873.0,
+  "salvageable": "3 Regular Miststone 3 Greater Blood Essence 18 Iron Ingot 12 Plank 90 Gem Dust",
+  "tags": [
+   "Reaper"
+  ]
+ },
+ {
+  "title": "The Gravecaller",
+  "slug": "the-gravecaller",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon TheGravecaller.png",
+   "Item TheGravecaller.png",
+   "Armour TheGravecaller.png",
+   "TheGravecaller.png"
+  ],
+  "intro": "! style=\"padding-top:2px; padding-bottom:0; height:57px; width:110px\" |Skill ! style=\"padding-top:2px; padding-bottom:0\" |Modification",
+  "description": "A Sword reforged out of the remains of a legendary enchanted weapon, its name carved into the history of Vardoran.",
+  "weapon_type": "Sword",
+  "gear_level": 30.0,
+  "physical_power": 33.7,
+  "stats": "+25% Physical Damage to Vegetation",
+  "durability": 3800.0,
+  "salvageable": "8 Gold Ingot 4 Spectral Dust 4 Radium Alloy 1 Onyx Tear",
+  "tags": [
+   "Sword"
+  ],
+  "icon": "/icons/the_gravecaller.png"
+ },
+ {
+  "title": "The Morning Star",
+  "slug": "the-morning-star",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon TheMorningStar.png",
+   "Item TheMorningStar.png",
+   "Armour TheMorningStar.png",
+   "TheMorningStar.png"
+  ],
+  "intro": "! style=\"padding-top:2px; padding-bottom:0; height:57px; width:110px\" |Skill ! style=\"padding-top:2px; padding-bottom:0\" |Modification *Burn does 3 ticks of 20% physical damage over 3 seconds, and the fire will spread to nearby vegetation.",
+  "description": "A Whip reforged out of the remains of a legendary enchanted weapon, its name carved into the history of a far away land.",
+  "weapon_type": "Whip",
+  "gear_level": 30.0,
+  "physical_power": 33.7,
+  "stats": "",
+  "durability": 3800.0,
+  "salvageable": "8 Gold Ingot 4 Spectral Dust 4 Radium Alloy 1 Onyx Tear",
+  "tags": [
+   "Whip"
+  ],
+  "icon": "/icons/the_morning_star.png"
+ },
+ {
+  "title": "The Red Twins",
+  "slug": "the-red-twins",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon TheRedTwins.png",
+   "Item TheRedTwins.png",
+   "Armour TheRedTwins.png",
+   "TheRedTwins.png"
+  ],
+  "intro": "! style=\"padding-top:2px; padding-bottom:0; height:57px; width:110px\" |Skill ! style=\"padding-top:2px; padding-bottom:0\" |Modification",
+  "description": "An Axe reforged out of the remains of a legendary enchanted weapon, its name carved into the history of Vardoran.",
+  "weapon_type": "Axes",
+  "gear_level": 30.0,
+  "physical_power": 33.7,
+  "stats": "+25% Physical Damage to Wood",
+  "durability": 3800.0,
+  "salvageable": "8 Gold Ingot 4 Spectral Dust 4 Radium Alloy 1 Onyx Tear",
+  "tags": [
+   "Axes"
+  ],
+  "icon": "/icons/the_red_twins.png"
+ },
+ {
+  "title": "The Siren's Wail",
+  "slug": "the-siren-s-wail",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon TheSiren'SWail.png",
+   "Item TheSiren'SWail.png",
+   "Armour TheSiren'SWail.png",
+   "TheSiren'SWail.png",
+   "TheSiren'sWail.png"
+  ],
+  "intro": "! style=\"padding-top:2px; padding-bottom:0; height:57px; width:110px\" |Skill ! style=\"padding-top:2px; padding-bottom:0\" |Modification",
+  "description": "A Crossbow reforged out of the remains of a legendary enchanted weapon, its name carved into the history of Vardoran.",
+  "weapon_type": "Crossbow",
+  "gear_level": 30.0,
+  "physical_power": 33.7,
+  "stats": "",
+  "durability": 3800.0,
+  "salvageable": "8 Gold Ingot 4 Spectral Dust 4 Radium Alloy 1 Onyx Tear",
+  "tags": [
+   "Crossbow"
+  ]
+ },
+ {
+  "title": "The Thousand Storms",
+  "slug": "the-thousand-storms",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon TheThousandStorms.png",
+   "Item TheThousandStorms.png",
+   "Armour TheThousandStorms.png",
+   "TheThousandStorms.png"
+  ],
+  "intro": "! style=\"padding-top:2px; padding-bottom:0; height:57px; width:110px\" |Skill ! style=\"padding-top:2px; padding-bottom:0\" |Modification",
+  "description": "A Spear reforged out of the remains of a legendary enchanted weapon, its name carved into the history of Vardoran.",
+  "weapon_type": "Spear",
+  "gear_level": 30.0,
+  "physical_power": 33.7,
+  "stats": "+25% Physical Damage to Creatures",
+  "durability": 3800.0,
+  "salvageable": "8 Gold Ingot 4 Spectral Dust 4 Radium Alloy 1 Onyx Tear",
+  "tags": [
+   "Spear"
+  ],
+  "icon": "/icons/the_thousand_storms.png"
+ },
+ {
+  "title": "The Wraithblades",
+  "slug": "the-wraithblades",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon TheWraithblades.png",
+   "Item TheWraithblades.png",
+   "Armour TheWraithblades.png",
+   "TheWraithblades.png"
+  ],
+  "intro": "! style=\"padding-top:2px; padding-bottom:0; height:57px; width:110px\" |Skill ! style=\"padding-top:2px; padding-bottom:0\" |Modification",
+  "description": "Daggers reforged out of the remains of a legendary enchanted weapon, its name carved into the history of a far away land.",
+  "weapon_type": "Daggers",
+  "gear_level": 30.0,
+  "physical_power": 33.7,
+  "stats": "",
+  "durability": null,
+  "salvageable": "8 Gold Ingot 4 Spectral Dust 4 Radium Alloy 1 Onyx Tear",
+  "tags": [
+   "Daggers"
+  ],
+  "icon": "/icons/the_wraithblades.png"
+ },
+ {
+  "title": "Wings of the Fallen",
+  "slug": "wings-of-the-fallen",
+  "category": "Weapons",
+  "infobox": "WeaponInfobox",
+  "images": [
+   "Weapon WingsOfTheFallen.png",
+   "Item WingsOfTheFallen.png",
+   "Armour WingsOfTheFallen.png",
+   "WingsOfTheFallen.png",
+   "WingsoftheFallen.png"
+  ],
+  "intro": "! style=\"padding-top:2px; padding-bottom:0; height:57px; width:110px\" |Skill ! style=\"padding-top:2px; padding-bottom:0\" |Modification",
+  "description": "Slashers reforged out of the remains of a legendary enchanted weapon, its name carved into the history of Vardoran.",
+  "weapon_type": "Slashers",
+  "gear_level": 30.0,
+  "physical_power": 33.7,
+  "stats": "+25% Physical Damage to Vegetation",
+  "durability": 3800.0,
+  "salvageable": "8 Gold Ingot 4 Spectral Dust 4 Radium Alloy 1 Onyx Tear",
+  "tags": [
+   "Slashers"
+  ]
+ }
+]

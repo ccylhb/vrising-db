@@ -1,0 +1,4496 @@
+[
+ {
+  "title": "Adam the Firstborn",
+  "slug": "adam-the-firstborn",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Adamthefirstborn.png",
+   "Weapon AdamTheFirstborn.png",
+   "Item AdamTheFirstborn.png",
+   "Armour AdamTheFirstborn.png",
+   "AdamTheFirstborn.png",
+   "AdamtheFirstborn.png"
+  ],
+  "intro": "Adam can be found in the Doctor Blackbrew's Castle on the western edge of Gloomrot north, above Trancendum Laboratories. Access to the boss is blocked by a gate and a door. Each can be destroyed for 1 hour by using an EMP. Alternatively, it is possible to fly over the gate using Bat Form to save 1 EMP. It is also possible to bypass both obstacles when leaving by getting out through a breach in the wall near the switch and then jumping off the cliff. __TOC__",
+  "level": 88.0,
+  "unit_id": "1233988687",
+  "unlock": "",
+  "location": "Doctor Blackbrew's Castle in Gloomrot North",
+  "description": "The culmination of Doctor Henry Blackbrew's brilliance, The Monster was to be the next step of human evolution, the ultimate machine of war. It is as powerful as Blackbrew could have ever desired but proved impossible to control. The Trancendum has done everything it can to contain The Monster, and they've been successful in doing so... for now.",
+  "loot": [
+   {
+    "name": "Epic Ancestral Sword",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Onyx Tear",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Tier 3 Recipe Books",
+    "amount": null,
+    "chance": "20%"
+   },
+   {
+    "name": "Blood Jewel Tier 3",
+    "amount": null,
+    "chance": "33%"
+   },
+   {
+    "name": "Flawless Ruby",
+    "amount": 3,
+    "chance": "100%"
+   },
+   {
+    "name": "Exquisite Heart",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Lightning Towers",
+    "desc": "The arena which Adam is fought within has eight lightning towers, two on each wall. Towers opposite one another create a continuous stream of lightning that deals damage and slows the player as long as they remain within it. A pair of towers can be deactivated by dealing sufficient damage to one of the towers. Adam will start the fight by activating all towers. Occasionally, Adam will reactivate a pair of towers. He can do this in both phases."
+   }
+  ],
+  "brutal": false,
+  "icon": "/icons/adam_the_firstborn.png"
+ },
+ {
+  "title": "Albert the Duke of Balaton",
+  "slug": "albert-the-duke-of-balaton",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Thedukeofbalaton.png",
+   "Weapon AlbertTheDukeOfBalaton.png",
+   "Item AlbertTheDukeOfBalaton.png",
+   "Armour AlbertTheDukeOfBalaton.png",
+   "AlbertTheDukeOfBalaton.png",
+   "AlberttheDukeofBalaton.png"
+  ],
+  "intro": "Albert can be found in the Swamp of Greed, in the northern edge of the Cursed Forest.",
+  "level": 64.0,
+  "unit_id": "-203043163",
+  "unlock": "Toad Form",
+  "location": "Swamp of Greed",
+  "description": "The patriarch of a family that once held land when these swamps were adequately inhabited. Over time, the cursed land twisted them, leaving this horrible, twisted toad that only remembers its lust for gold and jewels. It jealously guards its hoard of forgotten, worthless currency.",
+  "loot": [
+   {
+    "name": "Rare Ancestral Sword",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Tier 2 Recipe Books",
+    "amount": null,
+    "chance": "15%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Exquisite Heart",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Flawless Ruby",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [],
+  "brutal": false,
+  "icon": "/icons/albert_the_duke_of_balaton.png"
+ },
+ {
+  "title": "Alpha the White Wolf",
+  "slug": "alpha-the-white-wolf",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Alphawolf.png",
+   "Weapon AlphaTheWhiteWolf.png",
+   "Item AlphaTheWhiteWolf.png",
+   "Armour AlphaTheWhiteWolf.png",
+   "AlphaTheWhiteWolf.png",
+   "AlphatheWhiteWolf.png"
+  ],
+  "intro": "Alpha Wolf can be found roaming the roads of the Farbane Woods region. It tends to walk along the roads in a circuit around the central part of the region, near the Wolf Den. It will often cross paths with and fight Lidia the Chaos Archer and Goreswine the Ravager. It will also fight any Bandit or Undead enemy that crosses its path.",
+  "level": 16.0,
+  "unit_id": "-1905691330",
+  "unlock": "Wolf Form",
+  "location": "Wolf Den",
+  "description": "The trail of this scent bears the unmistakable signature of Dracula, the Immortal King. When Dracula fell, he cursed the world of Vardoran with a blood rain, a scourge in which many perished. Some who survived became unknowingly twisted by the downpour, their bloodlines forever empowered by his malice. This mighty predator is infused with that legacy.",
+  "loot": [
+   {
+    "name": "Rugged Hide",
+    "amount": 200,
+    "chance": "100%"
+   },
+   {
+    "name": "Bone",
+    "amount": 120,
+    "chance": "100%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": 1,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Bite",
+    "desc": "Standard melee attack."
+   },
+   {
+    "name": "Lunge",
+    "desc": "The Alpha Wolf will crouch down for a second in preparation and then launch itself forward in a straight line."
+   },
+   {
+    "name": "Rage",
+    "desc": "The Alpha Wolf howls and glows red, launch itself in a straight line and bite 2 times."
+   },
+   {
+    "name": "Summon Minions",
+    "desc": "The Alpha Wolf stops for a moment, howls, and summons 2 regular wolves to join the fight."
+   }
+  ],
+  "brutal": true,
+  "icon": "/icons/alpha_the_white_wolf.png"
+ },
+ {
+  "title": "Angram the Purifier",
+  "slug": "angram-the-purifier",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Angramthepurifier.png",
+   "Weapon AngramThePurifier.png",
+   "Item AngramThePurifier.png",
+   "Armour AngramThePurifier.png",
+   "AngramThePurifier.png",
+   "AngramthePurifier.png"
+  ],
+  "intro": "Angram can be found patrolling the Pools of Rebirth in Gloomrot South.",
+  "level": 61.0,
+  "unit_id": "106480588",
+  "unlock": "",
+  "location": "Pools of Rebirth in Gloomrot South",
+  "description": "A dedicated servant of the Trancendum, Angram was an exterminator that possessed a natural cruelty and resilence unmatched by any of his peers. Like any good soldier, he gave his life for his cause... or tried to, anyway. Doctor Henry Blackbrew could not let such an asset go to waste and brought him back to life with a brutal surgery few other beings could survive. Angram lives now, at the mere cost of every last scrap of his humanity.",
+  "loot": [
+   {
+    "name": "Rare Ancestral Sword",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Armour",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Tier 2 Recipe Books",
+    "amount": null,
+    "chance": "15%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Exquisite Heart",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Flawless Ruby",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [],
+  "brutal": false,
+  "icon": "/icons/angram_the_purifier.png"
+ },
+ {
+  "title": "Azariel the Sunbringer",
+  "slug": "azariel-the-sunbringer",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Azarielthesunbringer.png",
+   "Weapon AzarielTheSunbringer.png",
+   "Item AzarielTheSunbringer.png",
+   "Armour AzarielTheSunbringer.png",
+   "AzarielTheSunbringer.png",
+   "AzarieltheSunbringer.png"
+  ],
+  "intro": "Azariel can be found in the West region of Silverlight Hills; Brighthaven Cathedral.",
+  "level": 79.0,
+  "unit_id": "114912615",
+  "unlock": "",
+  "location": "Brighthaven Cathedral",
+  "description": "A true politician, Azariel wormed his way to the top of the ranks of the Church of Luminance with cold, calculated social grace. Few can match his power and dedication to the Light short of Solarus the Immaculate himself, and none within the church would dare contradict his word.",
+  "loot": [
+   {
+    "name": "Epic Ancestral Sword",
+    "amount": null,
+    "chance": "5%"
+   },
+   {
+    "name": "Onyx Tear",
+    "amount": null,
+    "chance": "4%"
+   },
+   {
+    "name": "Tier 3 Recipe Books",
+    "amount": null,
+    "chance": "22%"
+   },
+   {
+    "name": "Blood Jewel Tier 3",
+    "amount": null,
+    "chance": "74%"
+   },
+   {
+    "name": "Flawless Ruby",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Exquisite Heart",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [],
+  "brutal": false,
+  "icon": "/icons/azariel_the_sunbringer.png"
+ },
+ {
+  "title": "Bane the Shadowblade",
+  "slug": "bane-the-shadowblade",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Banetheshadowblade.png",
+   "Weapon BaneTheShadowblade.png",
+   "Item BaneTheShadowblade.png",
+   "Armour BaneTheShadowblade.png",
+   "BaneTheShadowblade.png",
+   "BanetheShadowblade.png"
+  ],
+  "intro": "Bane can be found roaming the roads of Dunley Farmlands, disguised as a human. He only fights when he is attacked. People attack him as soon as his camouflage ends. It can make the fight easier if guards attack with you.",
+  "level": 50.0,
+  "unit_id": "613251918",
+  "unlock": "Human Form",
+  "location": "Roads of Dunley Farmlands",
+  "description": "Once a formidable swordsman and legendary graverobber, Bane was caught by the Cult of the Damned during one of his many heists. Seeing the benefit of his talent for infiltration, instead of killing him, they corrupted him into a servant of undeath. It's said that his clandestine abilities were crucial in the capture and corruption of the Iron Mine over the Militia.",
+  "loot": [
+   {
+    "name": "Armour",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Tier 2 Recipe Books",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Regular Ruby",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Triple Slash",
+    "desc": "He will slash at you three times. Third attack is a lunge which will incapacitate you."
+   },
+   {
+    "name": "Triple Knife Throw",
+    "desc": "He will dash away from you and throw three knives at you."
+   },
+   {
+    "name": "Dark Spin",
+    "desc": "His phrases will be all about Darkness or Black magic, He will do a purple AoE slash that surrounds him."
+   },
+   {
+    "name": "Teleport Strike",
+    "desc": "He will teleport out of view and reappear near you to strike, which will incapacitate you."
+   },
+   {
+    "name": "Into the Shadows",
+    "desc": "He will say one of his few phrases emphasizing he will disappear, but will summon a multitude of cloaked figures (much like when you hit him to start the fight), he will be one of them, damaging one that is not him will summon Skeletal Warrior and Undead Assassins."
+   },
+   {
+    "name": "Shadow Clone",
+    "desc": "At less then 50% health, his dash from the knife throw will leave a lingering shadow which will also throw knives at you."
+   },
+   {
+    "name": "Brutal and Incursion Rift",
+    "desc": ": His Knife attack can be chained multiple times in a row. For Incursion only, his Into the Shadow move will have an aura above him, but the minions spawned are Draculin mobs."
+   }
+  ],
+  "brutal": false,
+  "icon": "/icons/bane_the_shadowblade.png"
+ },
+ {
+  "title": "Baron du Bouchon the Sommelier",
+  "slug": "baron-du-bouchon-the-sommelier",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Barondubouchonthesommelier.png",
+   "Weapon BaronDuBouchonTheSommelier.png",
+   "Item BaronDuBouchonTheSommelier.png",
+   "Armour BaronDuBouchonTheSommelier.png",
+   "BaronDuBouchonTheSommelier.png",
+   "BaronduBouchontheSommelier.png"
+  ],
+  "intro": "Baron can be found in the Brighthaven Vineyards in Silverlight Hills.",
+  "level": 70.0,
+  "unit_id": "192051202",
+  "unlock": "",
+  "location": "Brighthaven Vineyards in Silverlight Hills",
+  "description": "Formerly a traveling swordsman-for-hire, the good baron earned his title of Grand Sommelier after winning a taste contest hosted by the Church of Luminance. His abilities were so extraordinary, it's said that he can name the ingredients, their ages, and their place of origin with only a sip of brew. Though his new position offers him all the worldly goods he could desire, those who know him well suspect he may miss the taste of blood on the tip of his blade most of all.",
+  "loot": [
+   {
+    "name": "Rare Ancestral Sword",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Tier 3 Recipe Books",
+    "amount": null,
+    "chance": "40%"
+   },
+   {
+    "name": "Gold Jewelry",
+    "amount": null,
+    "chance": "60%"
+   },
+   {
+    "name": "Blood Jewel Tier 3",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 3",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Flawless Ruby",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Exquisite Heart",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Barrel roll",
+    "desc": "Baron drinks of his wineglass, causing two or three waves of barrels to roll from one side of the room to the other side. they deal heavy damage and stun on hit. Cannot be blocked, but can be damaged and destroyed. Baron himself will jump over them, cancelling any ability he is casting."
+   },
+   {
+    "name": "Wine bolt",
+    "desc": "Baron charges and throws a wine bolt, dealing damage."
+   },
+   {
+    "name": "Counter",
+    "desc": "Baron stands still while blocking any projectile or attacks hitting him. Area targeted abilites may still damage him."
+   },
+   {
+    "name": "Barrel dance",
+    "desc": "baron starts a barrel dance, causing barrels to roll from the entrance side of the room to the other side. these can be dodged and don't usually need to be destroyed."
+   }
+  ],
+  "brutal": false,
+  "icon": "/icons/baron_du_bouchon_the_sommelier.png"
+ },
+ {
+  "title": "Beatrice the Tailor",
+  "slug": "beatrice-the-tailor",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Beatricethetailor.png",
+   "Weapon BeatriceTheTailor.png",
+   "Item BeatriceTheTailor.png",
+   "Armour BeatriceTheTailor.png",
+   "BeatriceTheTailor.png",
+   "BeatricetheTailor.png"
+  ],
+  "intro": "Beatrice can be found in the Dawnbreak Village in the South-East of Dunley Farmlands.",
+  "level": 40.0,
+  "unit_id": "-1942352521",
+  "unlock": "",
+  "location": "Dawnbreak Village",
+  "description": "The most talented tailor in all of Vardoran. Though the legacy of Dracula’s blood runs through her veins, she has proven far more charming than dangerous.",
+  "loot": [
+   {
+    "name": "Tier 1 Recipe Books",
+    "amount": null,
+    "chance": "15%"
+   },
+   {
+    "name": "Blood Jewel Tier 1",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 1",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Crude Ruby",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   }
+  ],
+  "attacks": [],
+  "brutal": true,
+  "icon": "/icons/beatrice_the_tailor.png"
+ },
+ {
+  "title": "Ben the Old Wanderer",
+  "slug": "ben-the-old-wanderer",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Bentheoldwanderer.png",
+   "Weapon BenTheOldWanderer.png",
+   "Item BenTheOldWanderer.png",
+   "Armour BenTheOldWanderer.png",
+   "BenTheOldWanderer.png",
+   "BentheOldWanderer.png"
+  ],
+  "intro": "Ben can be found roaming the Cursed Forest.",
+  "level": 63.0,
+  "unit_id": "109969450",
+  "unlock": "",
+  "location": "Roads of the Cursed Forest",
+  "description": "This old survivalist seeked to explore the Cursed Forest, despite knowing it's dangers. As the curse began to cloud his mind, he found ways to fight against it. With his cloak and a helpful little wisp he'd captured in a lantern, his strange magical defense prevented the curse from taking full control. Though it was too late to prevent his mind from falling to tatters, he still does what he does best... survive.",
+  "loot": [
+   {
+    "name": "Rare Ancestral Sword",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Tier 2 Recipe Books",
+    "amount": null,
+    "chance": "15%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Exquisite Heart",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Flawless Ruby",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Knockback",
+    "desc": "He'll swing his staff and knockback the player."
+   },
+   {
+    "name": "Wisps",
+    "desc": "He'll release 3 wisps that inflict Entangled, immobilizing the player for a couple seconds."
+   },
+   {
+    "name": "Brutal and Incursion",
+    "desc": "While his fight remains unchanged by running away, he will summon his wisps as he gets damaged too."
+   }
+  ],
+  "brutal": false,
+  "icon": "/icons/ben_the_old_wanderer.png"
+ },
+ {
+  "title": "Christina the Sun Priestess",
+  "slug": "christina-the-sun-priestess",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Christinathesunpriestess.png",
+   "Weapon ChristinaTheSunPriestess.png",
+   "Item ChristinaTheSunPriestess.png",
+   "Armour ChristinaTheSunPriestess.png",
+   "ChristinaTheSunPriestess.png",
+   "ChristinatheSunPriestess.png"
+  ],
+  "intro": "Christina can be found traveling between the churches of Mosswick Village and Dawnbreak Village. She can usually be found roaming the southern roads of Dunley Farmlands, accompanied by 2 Militia Guards.",
+  "level": 44.0,
+  "unit_id": "-99012450",
+  "unlock": "",
+  "location": "Dawnbreak Village",
+  "description": "When the Church of Luminance first discovered the abilities granted by the blood rain, they took it as a blessing from the Light, incidentally masking the truth of Dracula’s influence. Christina is one such faithful servant of the church. This cruel disciplinarian takes her continued mastery of Light as evidence that her torturous methods of enforcing her beliefs are a necessary tenet of her faith, and she very much enjoys proving her righteousness.",
+  "loot": [
+   {
+    "name": "Tier 2 Recipe Books",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Regular Ruby",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Staff Swipe",
+    "desc": "If the player or a minion is in melee range of her, she raises her staff and swings it in a medium arc in front of her after a brief delay."
+   },
+   {
+    "name": "Holy Rays",
+    "desc": "She aims her staff like a gun, before firing 5 fast-moving holy missiles in a fan in front of her."
+   },
+   {
+    "name": "Holy Wrath",
+    "desc": "She plants her staff in the ground and calls down an AoE beacon of holy light upon the player's position after a brief delay. The AoE slows the player's movement before exploding after a couple seconds delay."
+   },
+   {
+    "name": "Shining Blessings",
+    "desc": "After she has lost health, she occasionally shouts \"Shining Blessings!\", raises her staff in the air, and becomes stationary while slowly healing herself. She cannot use any other abilities while channeling this one. Abilities which stun enemies (such as the Iron tier and higher Axes' X-Strike ability) will interrupt her healing."
+   },
+   {
+    "name": "Conviction Counter",
+    "desc": "If the player is close to her, she shouts \"This is my conviction!\", surrounding herself in Holy light and counters all incoming attacks. Anyone who hits this counter will be silenced for several seconds."
+   },
+   {
+    "name": "Summon Militia",
+    "desc": "She shouts \"I will show you discipline!\" and summons a Militia Crossbowman and Militia Guard to come to her defense."
+   }
+  ],
+  "brutal": true,
+  "icon": "/icons/christina_the_sun_priestess.png"
+ },
+ {
+  "title": "Clive the Firestarter",
+  "slug": "clive-the-firestarter",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Clivethefirestarter.png",
+   "Weapon CliveTheFirestarter.png",
+   "Item CliveTheFirestarter.png",
+   "Armour CliveTheFirestarter.png",
+   "CliveTheFirestarter.png",
+   "ClivetheFirestarter.png"
+  ],
+  "intro": "Clive can be found in the Bandit Sulphur Quarry, the south-western corner of Farbane Woods.",
+  "level": 30.0,
+  "unit_id": "1896428751",
+  "unlock": "",
+  "location": "Bandit Sulphur Quarry in Farbane Woods",
+  "description": "An unparalleled genius in the explosive arts. Unfortunately for Grayson, this chaotic psychopath is far too useful to get rid of at providing and mixing destructive materials. He'll burn down his entire camp just to take you with him, laughing all the while.",
+  "loot": [
+   {
+    "name": "Weapon",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Tier 1 Recipe Books",
+    "amount": null,
+    "chance": "15%"
+   },
+   {
+    "name": "Blood Jewel Tier 1",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 1",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Crude Ruby",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Cluster Bomb",
+    "desc": "He throws a bomb in the air which explodes and splits into 3 more bombs, then explodes again and splits into 9 bombs."
+   },
+   {
+    "name": "Time Bomb",
+    "desc": "He drops a large bomb at his feet with a large explosion radius that takes a couple seconds to explode."
+   }
+  ],
+  "brutal": true,
+  "icon": "/icons/clive_the_firestarter.png"
+ },
+ {
+  "title": "Cyril the Cursed Smith",
+  "slug": "cyril-the-cursed-smith",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Cyrilthecursedsmith.png",
+   "Weapon CyrilTheCursedSmith.png",
+   "Item CyrilTheCursedSmith.png",
+   "Armour CyrilTheCursedSmith.png",
+   "CyrilTheCursedSmith.png",
+   "CyriltheCursedSmith.png"
+  ],
+  "intro": "Cyril can be found in the Cursed Village in Cursed Forest.",
+  "level": 65.0,
+  "unit_id": "326378955",
+  "unlock": "",
+  "location": "Cursed Village in Cursed Forest",
+  "description": "Cursed with eternal life and servitude to the Cult of the Damned, Cyril has little desire to perform his duties. However, having been traded to the Cult before he had even been born, this tortured life is all he knows. Resigned to his fate, he does still take some small joy in inflicting his pain on others.",
+  "loot": [
+   {
+    "name": "Rare Ancestral Sword",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Tier 2 Recipe Books",
+    "amount": null,
+    "chance": "15%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Exquisite Heart",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Flawless Ruby",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Sword",
+    "desc": "Dash forward, then cleave"
+   },
+   {
+    "name": "Spear",
+    "desc": "Dash backward, then throw a piercing spear"
+   },
+   {
+    "name": "Mace",
+    "desc": "Levitate, then slam down and create spheres in a ring around the caster, spirally traveling outward."
+   },
+   {
+    "name": "Slashers",
+    "desc": "Slash trice, then Dash forward and backward."
+   },
+   {
+    "name": "Create weapon",
+    "desc": "Cyril creates a new spectral weapon to fight alongside him."
+   },
+   {
+    "name": "Create multiple weapons",
+    "desc": "Cyril creates all four spectral weapons. starting at 50% health"
+   },
+   {
+    "name": "Dash",
+    "desc": "Cyril will dash four times in a row. starting at 30% health."
+   }
+  ],
+  "brutal": false,
+  "icon": "/icons/cyril_the_cursed_smith.png"
+ },
+ {
+  "title": "Dantos the Forgebinder",
+  "slug": "dantos-the-forgebinder",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Dantostheforgebinder.png",
+   "Weapon DantosTheForgebinder.png",
+   "Item DantosTheForgebinder.png",
+   "Armour DantosTheForgebinder.png",
+   "DantosTheForgebinder.png",
+   "DantostheForgebinder.png"
+  ],
+  "intro": "Dantos is found in a small side room within Venom Blades Bastion in Oakveil Woodlands.",
+  "level": 82.0,
+  "unit_id": "173259239",
+  "unlock": "",
+  "location": "Venom Blades Bastion in Oakveil Woodlands",
+  "description": "Dantos is a master of weapons, fascinated by both their construction and application. A true obsessive, his borderline inhuman dedication to his craft made him an excellent tool for his Queen, the great witch Megara. After a time, their monstrous similarities brought them closer, and Dantos became her personal strategist as well as a close confidant. Inspired by Megara's secrets, it was Dantos who discovered that Venom Sap could be used to separate magical alloys, allowing the fusion of powerful artifacts into even greater weapons.",
+  "loot": [
+   {
+    "name": "Epic Ancestral Sword",
+    "amount": null,
+    "chance": "5%"
+   },
+   {
+    "name": "Onyx Tear",
+    "amount": null,
+    "chance": "4%"
+   },
+   {
+    "name": "Tier 3 Recipe Books",
+    "amount": null,
+    "chance": "22%"
+   },
+   {
+    "name": "Blood Jewel Tier 3",
+    "amount": null,
+    "chance": "74%"
+   },
+   {
+    "name": "Flawless Ruby",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Exquisite Heart",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [],
+  "brutal": false,
+  "icon": "/icons/dantos_the_forgebinder.png"
+ },
+ {
+  "title": "Domina the Blade Dancer",
+  "slug": "domina-the-blade-dancer",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Dominathebladedancer.png",
+   "Weapon DominaTheBladeDancer.png",
+   "Item DominaTheBladeDancer.png",
+   "Armour DominaTheBladeDancer.png",
+   "DominaTheBladeDancer.png",
+   "DominatheBladeDancer.png"
+  ],
+  "intro": "Domina can be found in the Rustlock Village in Gloomrot South.",
+  "level": 60.0,
+  "unit_id": "-1101874342",
+  "unlock": "",
+  "location": "Rustlock Village in Gloomrot South",
+  "description": "Originally an engineer responsible for advancements in practical electrical weapons, Domina's incredible advancements were born of her hands-on, reckless approach to testing. Though this approach led to her demise, she was brought back to life by the maddening machinery of the infamous Doctor Henry Blackbrew. Domina's sadism and masochism are unlimited, unmatched, and perhaps unstoppable in her pursuit of protecting and \"policing\" the people of Gloomrot.",
+  "loot": [
+   {
+    "name": "Rare Ancestral Sword",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Tier 2 Recipe Books",
+    "amount": null,
+    "chance": "15%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Exquisite Heart",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Flawless Ruby",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [],
+  "brutal": false,
+  "icon": "/icons/domina_the_blade_dancer.png"
+ },
+ {
+  "title": "Dracula the Immortal King",
+  "slug": "dracula-the-immortal-king",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Draculatheimmortalking.png",
+   "Weapon DraculaTheImmortalKing.png",
+   "Item DraculaTheImmortalKing.png",
+   "Armour DraculaTheImmortalKing.png",
+   "DraculaTheImmortalKing.png",
+   "DraculatheImmortalKing.png"
+  ],
+  "intro": "Dracula is located at his Castle in the Ruins of Mortium. You must be carrying a Blood Key to pass through the entrance. __TOC__",
+  "level": 91.0,
+  "unit_id": "-327335305",
+  "unlock": "",
+  "location": "Dracula's Castle in Ruins of Mortium",
+  "description": "When Dracula fell centuries ago, it seemed like the Church of Luminance had done the impossible. The death of the Immortal King. However, in his final moments, Dracula enacted his final gambit and cast a cloud over Vardoran. The blood rain that followed would plant the seeds of Dracula’s will across the realm, twisting it, and filling it with his storied essence. After death, the Immortal King’s soul was cast out to where his otherworldly powers originated, the Shadow Realm. There he lingered, biding his time. Now the time has come. Dracula floods the world with his monstrous Legion of Noctum, having them gather the blood necessary for him to become whole once more and return to Vardoran.",
+  "loot": [],
+  "attacks": [
+   {
+    "name": "Teleport",
+    "desc": "Whenever the Player is out his reach, he will teleport and do his stab, slash, or axe attack."
+   },
+   {
+    "name": "Wolf Rush",
+    "desc": "He will transform into a wolf and rush behind you and will slash at you."
+   },
+   {
+    "name": "Crimson Slasher",
+    "desc": "He will swing his sword vertically twice shooting beams from right to left."
+   },
+   {
+    "name": "Dread Stab",
+    "desc": "He will teleport and Stab you with his sword, which will also Incapacitate you."
+   },
+   {
+    "name": "Blood Wave",
+    "desc": "He will stab his sword into the ground causing six beams to rush out."
+   },
+   {
+    "name": "Howling Axes",
+    "desc": "He will teleport away from you in one of the corners of the arena to throw two axes that circle towards you and then back to Dracula. They can be blocked by a pillar or ward. They may change course dramatically if Dracula uses a teleport while they are in flight."
+   },
+   {
+    "name": "Crimson Bats",
+    "desc": "Will use this move at 75%, often paired with his Teleport."
+   },
+   {
+    "name": "Bloody Spiral",
+    "desc": "Dracula begins shooting out a spiral of blood bolts in 3 directions at once. Meanwhile a ring closes in on you. If you remain in the ring its whole duration you will be stunned and then hit backwards."
+   },
+   {
+    "name": "Writhing Crimson Night",
+    "desc": "He will teleport out of view, darken your screen and summon crimson bats that will partial predict your movement, which can be destroyed, blocked or dodged. Afterwards he will reappear near you summoning a circle and if in too long, will grab you and drain some of your Blood, throw you and Stun you."
+   },
+   {
+    "name": "Vampiric Curse",
+    "desc": "A status effect that will be inflicted if you are hit by most of his attacks. Has no direct effect, but after the timer runs out an explosion will occur with its centre at the location of the player. This can damage your fellow vampires except for Dracula himself. The damage can be dodged however if you are immaterial during the explosion from veil, mist trance or abilities with such effects. (Note: Vampiric Curse effect does not apply if there is only one person fighting him)"
+   },
+   {
+    "name": "Blood Wave MKII",
+    "desc": "2nd Phase version of Blood wave, functions the same, but at the end of the waves span will spawn blood pools which will explode."
+   },
+   {
+    "name": "Crimson Slasher MKII",
+    "desc": "2nd Phase version of Crimson Slasher, but will send 2 more beams following the pattern."
+   },
+   {
+    "name": "Blood Crystal",
+    "desc": "2nd Phase move. He will beckon at you and wave his hand to summon a Crystal. The crystal will circle around the arena projecting an aura, touching said aura will damage you. Can be destroyed. He may do this multiple times."
+   },
+   {
+    "name": "Blood Sword Rain",
+    "desc": "2nd Phase Attack. He will summon swords that rain down on you, with small area of effect."
+   },
+   {
+    "name": "Nightstalker Clone",
+    "desc": "Phase 2 attack. He will summon a visibly shadowy clone of himself to do his Dread leap. Can be ignored or destroyed."
+   },
+   {
+    "name": "Dread Leap",
+    "desc": "He will jump at you with his sword extended outward."
+   },
+   {
+    "name": "Bloody Cross",
+    "desc": "2nd Phase move. He will teleport to the center of the arena with an indicator of a cross pattern, he will summon crimson flames and will shoot partial predicted blood bolts at your location. Dodge or ward the blood bolts."
+   },
+   {
+    "name": "Blood Bolt Wall",
+    "desc": "2nd Phase move. He will teleport, stand still and shoot a wall of blood bolts. Center often empty, or you can dodge or ward."
+   },
+   {
+    "name": "Brutal Only- Blood Vortex",
+    "desc": "At the start of Phase 4, Dracula will summon a encroaching Blood vortex, the radius shrinks until there is very little walk space. It does continuous damage while standing in it."
+   },
+   {
+    "name": "Brutal Only- Shockwave",
+    "desc": "During his 4th phase as the blood vortex shrinks, he will do a shockwave move (does no damage, like Henry Blackbrew the Doctor) to push you into the vortex."
+   }
+  ],
+  "brutal": false,
+  "icon": "/icons/dracula_the_immortal_king.png"
+ },
+ {
+  "title": "Errol the Stonebreaker",
+  "slug": "errol-the-stonebreaker",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Errolthestonebreaker.png",
+   "Weapon ErrolTheStonebreaker.png",
+   "Item ErrolTheStonebreaker.png",
+   "Armour ErrolTheStonebreaker.png",
+   "ErrolTheStonebreaker.png",
+   "ErroltheStonebreaker.png"
+  ],
+  "intro": "Errol can be found deep inside the Bandit Copper Mine in central Farbane Woods.",
+  "level": 20.0,
+  "unit_id": "-2025101517",
+  "unlock": "",
+  "location": "Bandit Copper Mine",
+  "description": "A brutal mining foreman, just as adept at crushing stone as he is crushing bone. Not even his incredible eye for recovering and refining metals was enough to stop him from getting run out of civilised society. His violent rage makes a fine motivator for the miners.",
+  "loot": [
+   {
+    "name": "Tier 1 Recipe Books",
+    "amount": null,
+    "chance": "7.5%"
+   },
+   {
+    "name": "Crude Ruby",
+    "amount": null,
+    "chance": "20%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Aftershock",
+    "desc": "At long range, he slams the ground creating a shock wave that explodes in a couple seconds."
+   },
+   {
+    "name": "Uppercut",
+    "desc": "At short range, he runs at the player with an uppercut swing."
+   },
+   {
+    "name": "Knockback",
+    "desc": "At short range, he does a spin attack that knocks the player back."
+   },
+   {
+    "name": "Summon Minions",
+    "desc": "He whistles to summon 2 Miners."
+   },
+   {
+    "name": "Earthquake",
+    "desc": "When he shouts \"Lets hear that crunch!\" he slams the ground creating 4 shock waves that explode in every direction."
+   }
+  ],
+  "brutal": true,
+  "icon": "/icons/errol_the_stonebreaker.png"
+ },
+ {
+  "title": "Finn the Fisherman",
+  "slug": "finn-the-fisherman",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Finnthefisherman.png",
+   "Weapon FinnTheFisherman.png",
+   "Item FinnTheFisherman.png",
+   "Armour FinnTheFisherman.png",
+   "FinnTheFisherman.png",
+   "FinntheFisherman.png"
+  ],
+  "intro": "Finn can be found at the Fishing Lake near the Hallowed Mountains in the northeastern corner of Farbane Woods.",
+  "level": 32.0,
+  "unit_id": "-2122682556",
+  "unlock": "",
+  "location": "Fishing Lake in Farbane Woods",
+  "description": "Finn is a legendary fisherman who hails from the rocky shores of Silverlight Hills. Caught fishing in the Church of Luminance's \"sacred\" waters, he was set to be executed by live burial at sea. The fisherman emerged from the depths, mysterious and miraculously alive, and went into hiding in the safety of the lawless lands of the Farbane Woods.",
+  "loot": [
+   {
+    "name": "Tier 1 Recipe Books",
+    "amount": null,
+    "chance": "7.5%"
+   },
+   {
+    "name": "Crude Ruby",
+    "amount": null,
+    "chance": "20%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Fish slap",
+    "desc": ": A two hit combo where he slaps the player with a fish, then follows up with a kick."
+   },
+   {
+    "name": "Tornado",
+    "desc": ": Winds up before performing a spin attack with his fishing pole that deals damage and knocks the player back."
+   },
+   {
+    "name": "Throw Net",
+    "desc": ": Much like the Trapper ability, Finn swings a net around before throwing it into the AoE indicator. Players still in that zone when he throws the net will be pulled to Finn's location and briefly prevented from moving. Additionally, any piranhas and pufferfish hit by the attack are also pulled and can hit the player."
+   },
+   {
+    "name": "Summon Piranhas",
+    "desc": ": Summons 3 Hungry Piranha enemies, which slowly chase the player while attempting to use a rapidly hitting melee attack."
+   },
+   {
+    "name": "Summon Pufferfish",
+    "desc": ": Summons 3 Pufferfish enemies which deal damage and apply to any player they touch. Dealing any damage to a Pufferfish will cause it to be knocked away. If a Pufferfish is knocked into Finn, it will be killed and Finn will be briefly stunned. If a Pufferfish is killed by any other means it will fire 10 chilling projectiles in every direction around it."
+   },
+   {
+    "name": "Summon Serpent",
+    "desc": ": Summons a Young Sea Serpent with a melee bite attack and ranged attack that launches 3 ice projectiles in a fan pattern and applies . Finn may use this attack multiple times if the fight lasts long enough, even if the first serpent is not killed."
+   }
+  ],
+  "brutal": true
+ },
+ {
+  "title": "Foulrot the Soultaker",
+  "slug": "foulrot-the-soultaker",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Foulrotthesoultaker.png",
+   "Weapon FoulrotTheSoultaker.png",
+   "Item FoulrotTheSoultaker.png",
+   "Armour FoulrotTheSoultaker.png",
+   "FoulrotTheSoultaker.png",
+   "FoulrottheSoultaker.png"
+  ],
+  "intro": "Foulrot can be found in the south-eastern Ancient Village in the Cursed Forest.",
+  "level": 63.0,
+  "unit_id": "-1208888966",
+  "unlock": "",
+  "location": "Ancient Village",
+  "description": "A mad cultist that claims to be the vessel of his decapitated horse, 'Foulrot the Soultaker.' He also claims his blades take their victims straight to 'The Great Darkness', an effort to feed or please some infernal power. Whether or not there's truth to his claims, his headcount is undeniable.",
+  "loot": [
+   {
+    "name": "Rare Ancestral Sword",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Tier 2 Recipe Books",
+    "amount": null,
+    "chance": "15%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Exquisite Heart",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Flawless Ruby",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [],
+  "brutal": false,
+  "icon": "/icons/foulrot_the_soultaker.png"
+ },
+ {
+  "title": "Frostmaw the Mountain Terror",
+  "slug": "frostmaw-the-mountain-terror",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Frostmawthemountainterror.png",
+   "Weapon FrostmawTheMountainTerror.png",
+   "Item FrostmawTheMountainTerror.png",
+   "Armour FrostmawTheMountainTerror.png",
+   "FrostmawTheMountainTerror.png",
+   "FrostmawtheMountainTerror.png"
+  ],
+  "intro": "Frostmaw can be found patrolling the roads of the Hallowed Mountains.",
+  "level": 53.0,
+  "unit_id": "24378719",
+  "unlock": "",
+  "location": "Hallowed Mountains",
+  "description": "An unspeakable horror that lurks in the snowy corridors of the Hallowed Mountains. Some say it used to be a simple woodsman. Most don't dare invoke its name at all.",
+  "loot": [
+   {
+    "name": "Rare Ancestral Sword",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Tier 2 Recipe Books",
+    "amount": null,
+    "chance": "15%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Exquisite Heart",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Flawless Ruby",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Leap Slash",
+    "desc": "He will leap towards you if you're too far away and slash at you."
+   },
+   {
+    "name": "Triple Slash",
+    "desc": "he will swipe at you with his left, then right and his third will cover most of his sides and front."
+   },
+   {
+    "name": "Ice Lances",
+    "desc": "He will throw three ice lances at you, applying if any hit."
+   },
+   {
+    "name": "Ice Nova",
+    "desc": "He will slam his fist into the ground, summoning an ice nova."
+   },
+   {
+    "name": "Encumbering Blizzard",
+    "desc": "Around 50% health he will summon a Blizzard, whiting out your screen, of which will spawn ice spikes from the ground. He will circle around you, leap and slash you."
+   },
+   {
+    "name": "Frigid Beam",
+    "desc": "Less then 50% health, he will cover his mouth for a moment to signal the laser, of which he will sweep in a large area, and the laser will pierce through terrain like boulders and destroy trees, if hit it will you."
+   },
+   {
+    "name": "Brutal Mode and Incursion Rift",
+    "desc": ": Most of it's attacks will now inflict instead of . His Ice Nova will come out much faster."
+   }
+  ],
+  "brutal": false,
+  "icon": "/icons/frostmaw_the_mountain_terror.png"
+ },
+ {
+  "title": "Gaius the Cursed Champion",
+  "slug": "gaius-the-cursed-champion",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Gaiusthecursedchampion.png",
+   "Weapon GaiusTheCursedChampion.png",
+   "Item GaiusTheCursedChampion.png",
+   "Armour GaiusTheCursedChampion.png",
+   "GaiusTheCursedChampion.png",
+   "GaiustheCursedChampion.png"
+  ],
+  "intro": "Gaius can be found in The Colosseum in the north east of Dunley Farmlands. Interact with the flag to summon him.",
+  "level": 55.0,
+  "unit_id": "-753453016",
+  "unlock": "",
+  "location": "The Colosseum in Dunley Farmlands",
+  "description": "Gaius was a skilled militia captain and a famous gladiator. Annoyed at Gaius' popularity competing with his own, as well as that of the Church of Luminance, Raziel arranged for his defeat by way of a cursed blade. The event was devastating, and the Colosseum has been abandoned ever since... however, it is said that even today, issuing a challenge in the abandoned arena will be met with an answer.",
+  "loot": [
+   {
+    "name": "Tier 2 Recipe Books",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Regular Ruby",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   }
+  ],
+  "attacks": [],
+  "brutal": false,
+  "icon": "/icons/gaius_the_cursed_champion.png"
+ },
+ {
+  "title": "General Cassius the Betrayer",
+  "slug": "general-cassius-the-betrayer",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Generalcassiusthebetrayer.png",
+   "Weapon GeneralCassiusTheBetrayer.png",
+   "Item GeneralCassiusTheBetrayer.png",
+   "Armour GeneralCassiusTheBetrayer.png",
+   "GeneralCassiusTheBetrayer.png",
+   "GeneralCassiustheBetrayer.png"
+  ],
+  "intro": "Cassius can be found patrolling the roads in the northern half of the Ruins of Mortium.",
+  "level": 57.0,
+  "unit_id": "-496360395",
+  "unlock": "",
+  "location": "Patrolling the roads of Ruins of Mortium",
+  "description": "Once a highly skilled and respected officer within the ranks of the Church of Luminance, Cassius served as a powerful paladin who led a troupe tasked with hunting down Dracula himself. His mission ended in failure, overpowered by the Immortal King and forced into servitude. With the dark influence of his sentient blade, Nightfall Edge, affecting his mind, Cassius now serves as a loyal general for the Legion of Noctum.",
+  "loot": [
+   {
+    "name": "Rare Ancestral Sword",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Tier 2 Recipe Books",
+    "amount": null,
+    "chance": "15%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Exquisite Heart",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Flawless Ruby",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [],
+  "brutal": false,
+  "icon": "/icons/general_cassius_the_betrayer.png"
+ },
+ {
+  "title": "General Elena the Hollow",
+  "slug": "general-elena-the-hollow",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Generalelenathehollow.png",
+   "Weapon GeneralElenaTheHollow.png",
+   "Item GeneralElenaTheHollow.png",
+   "Armour GeneralElenaTheHollow.png",
+   "GeneralElenaTheHollow.png",
+   "GeneralElenatheHollow.png"
+  ],
+  "intro": "Elena can be found patrolling around the Southern Fortress Ruins in the Ruins of Mortium.",
+  "level": 53.0,
+  "unit_id": "795262842",
+  "unlock": "",
+  "location": "Patrolling the roads of Ruins of Mortium",
+  "description": "Elena was once a talented weaver, a wife, a mother, and friend. Now she is none of those things. When Dracula’s forces descended on her village and harvested its people, she hid in the chaos and witnessed the horror first-hand. Discovered by the Immortal King himself, he saw an opportunity to twist a suffering creature to his whim. He shaped her into an ice-cold killing machine, a perfect servant for the Legion of Noctum.",
+  "loot": [
+   {
+    "name": "Rare Ancestral Sword",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Tier 2 Recipe Books",
+    "amount": null,
+    "chance": "15%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Exquisite Heart",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Flawless Ruby",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Ice Arrow",
+    "desc": "Elena does 4 simple bolt attacks in succession that apply ."
+   },
+   {
+    "name": "Ice Bolts",
+    "desc": "Elena shoots 5 freezing bolts, similar to the Longbow's Q ability."
+   },
+   {
+    "name": "Shard Rain",
+    "desc": "Elena shoots out 15 bolts that are similar to the Crossbow rain of bolts. These arrows freeze the player and deal heavy damage."
+   },
+   {
+    "name": "Ice Pillar",
+    "desc": "Elena raises an ice pillar from the ground, elevating her from attacks. The pillar can take damage and be destroyed early, and she can still attack while on the ice pillar. It disappears after 10 seconds."
+   }
+  ],
+  "brutal": false,
+  "icon": "/icons/general_elena_the_hollow.png"
+ },
+ {
+  "title": "General Valencia the Depraved",
+  "slug": "general-valencia-the-depraved",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Generalvalenciathedepraved.png",
+   "Weapon GeneralValenciaTheDepraved.png",
+   "Item GeneralValenciaTheDepraved.png",
+   "Armour GeneralValenciaTheDepraved.png",
+   "GeneralValenciaTheDepraved.png",
+   "GeneralValenciatheDepraved.png"
+  ],
+  "intro": "Valencia can be found in the North Fortress Ruins in Ruins of Mortium.",
+  "level": 84.0,
+  "unit_id": "495971434",
+  "unlock": "",
+  "location": "North Fortress Ruins",
+  "description": "Valencia was once a human baroness, part of an affluent noble family from before the great war. Always hungry for power, ambitious, and utterly without moral tethers, she saw the rise of Dracula and his legions as an opportunity to surpass her human limitations and become something greater. Impressed with her utter depravity, Dracula granted the baroness’ wish. Valencia now serves as a vicious general of the Legion of Noctum.",
+  "loot": [
+   {
+    "name": "Epic Ancestral Sword",
+    "amount": null,
+    "chance": "5%"
+   },
+   {
+    "name": "Onyx Tear",
+    "amount": null,
+    "chance": "4%"
+   },
+   {
+    "name": "Tier 3 Recipe Books",
+    "amount": null,
+    "chance": "22%"
+   },
+   {
+    "name": "Blood Jewel Tier 3",
+    "amount": null,
+    "chance": "74%"
+   },
+   {
+    "name": "Flawless Ruby",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Exquisite Heart",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "A Thousand Spears",
+    "desc": "Valencia dashes backwards and thrusts her spears forward in a cone multiple times, not giving the player a chance to cast spells, dash, or attack. She always initiates the fight with this attack. She does this attack if you're close by after summoning Bloody Iron Maiden or being spit out by it."
+   },
+   {
+    "name": "Spear Throw",
+    "desc": "She throws a single spear that pulls the player in. She does this attack if you're far away after summoning Bloody Iron Maiden or being spit out by it."
+   },
+   {
+    "name": "Bloody Iron Maiden",
+    "desc": "At the 75% max health threshhold, she will place an Iron Maiden in the Center of the arena, which if near will drain 25% of your Blood Pool. Spins around slowly to face the player, and shoots out spears that pull the player in at range. Up close it will try to capture the player, dealing damage and stunning upon being spit out. Can be destroyed."
+   },
+   {
+    "name": "Thrust Kick",
+    "desc": "She will glow red, and sprint behind the player and attempt to kick you into the Iron Maiden. Only happens while the Iron Maiden is active."
+   },
+   {
+    "name": "Spear Hail",
+    "desc": "Valencia either dashes backwards a small distance or leaps a great distance away, before throwing many spears into the air and they crash down, creating small craters. Can happen at any point after the first Iron Maiden has been summoned."
+   },
+   {
+    "name": "Spear Spin",
+    "desc": "Valencia spins her spears back and forth, damaging players who touch it and negating all damage from in front of her."
+   }
+  ],
+  "brutal": false,
+  "icon": "/icons/general_valencia_the_depraved.png"
+ },
+ {
+  "title": "Gorecrusher the Behemoth",
+  "slug": "gorecrusher-the-behemoth",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Gorecrusherthebehemoth.png",
+   "Weapon GorecrusherTheBehemoth.png",
+   "Item GorecrusherTheBehemoth.png",
+   "Armour GorecrusherTheBehemoth.png",
+   "GorecrusherTheBehemoth.png",
+   "GorecrushertheBehemoth.png"
+  ],
+  "intro": "Gorecrusher can be found roaming the Cursed Forest and sometimes staying in the Lair of the Behemoth for a while. __TOC__",
+  "level": 84.0,
+  "unit_id": "-1936575244",
+  "unlock": "",
+  "location": "Lair of the Behemoth",
+  "description": "Once a loyal warrior in the Legion of Noctum. So dedicated was his fanaticism that upon Dracula’s death to the hands of the Church of Luminance, the warrior severed his shield-bearing arm in an act of shame. In a delirious haze, he wandered into the wilderness of the Cursed Forest expecting to die. The corruption within gave him not death, however, but something much worse.",
+  "loot": [
+   {
+    "name": "Epic Ancestral Sword",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Onyx Tear",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Tier 3 Recipe Books",
+    "amount": null,
+    "chance": "20%"
+   },
+   {
+    "name": "Blood Jewel Tier 3",
+    "amount": null,
+    "chance": "33%"
+   },
+   {
+    "name": "Flawless Ruby",
+    "amount": 3,
+    "chance": "100%"
+   },
+   {
+    "name": "Exquisite Heart",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Swipes",
+    "desc": "Gorecrusher will prepare before performing two wide swings followed by a thrust with his club arm."
+   },
+   {
+    "name": "Slam Combo",
+    "desc": "Gorecrusher will let out a roar and begin to glow with Illusion magic before slamming down his club three times, once to his right then once to his left before slamming it straight ahead. Each of the slams stun the player if they connect."
+   },
+   {
+    "name": "Charge",
+    "desc": "Gorecrusher will prepare to charge a short distance. If the player is hit by the charge they will be flipped a long distance backwards and stunned."
+   },
+   {
+    "name": "Ground slam",
+    "desc": "Gorecrusher will raise both his arms as a damage circle appears in front of him. When the circle fills up he will slam the ground, doing damage and knocking back the player if they are in the circle, as well as sending out 5 lines of shockwaves in random directions."
+   },
+   {
+    "name": "Leap",
+    "desc": "If the player gets too far away from Gorecrusher, the Behemoth will leap at the player, signaled by a damage circle filling up. Gorecrusher will not leap if he's performing a charge attack."
+   },
+   {
+    "name": "Charge Combo",
+    "desc": "At about 80% health, Gorecrusher will gain the ability to do 3 long range, non-stunning charges one after the other. Every charge will be delayed and they all will attempt to target ahead of where the player is moving rather than where the player is currently in an attempt to intercept them."
+   },
+   {
+    "name": "Illusionary Summons",
+    "desc": "At about 70% health, Gorecrusher will jump away from the player (while unlikely, his jump away from the player can still deal damage to them if he lands on them). Afterwards, he will summon an illusionary wolf and illusionary bear to attack the player while also apply a warping effect to the screen similar to the Trippy Shroom for 15 seconds, during which time he is also immune. The illusionary animals will act similarly to their standard counterparts and will linger in the fight until they die and will not drop anything. Once Gorecrusher's immunity ends he will run up to the player before quickly slamming down with his club, stunning the player if it connects."
+   },
+   {
+    "name": "Wisp Dance",
+    "desc": "At about 50% health, Gorecrusher will roar, slowing the player and casting a very powerful version of Wisp Dance which will summon a large amount of wisps from his very center. The wisps will linger on the field for a long time and, if they come into contact with the player, will deal damage and apply weaken , reducing their damage and movement speed."
+   },
+   {
+    "name": "Soul",
+    "desc": "At about 30% health, Gorecrusher will stop to roar and knockback the player, summoning a Gorecrusher Soul in the process which is essentially an illusionary clone of himself. The clone is able to perform all of Gorecrusher's attacks independently of the real one except for his leap, his Wisp Dance and Illusionary summons. If the soul would die it will instead drop down becoming immune and will stop attacking while it regenerates. The soul will resume attacking once it reaches half health and the only way to kill the soul for good is killing Gorecrusher himself."
+   }
+  ],
+  "brutal": false,
+  "icon": "/icons/gorecrusher_the_behemoth.png"
+ },
+ {
+  "title": "Goreswine the Ravager",
+  "slug": "goreswine-the-ravager",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "goreswinetheravanger.png",
+   "Weapon GoreswineTheRavager.png",
+   "Item GoreswineTheRavager.png",
+   "Armour GoreswineTheRavager.png",
+   "GoreswineTheRavager.png",
+   "GoreswinetheRavager.png"
+  ],
+  "intro": "Goreswine can be found roaming around the southern Farbane Woods, traveling between the Desecrated Cemetery and the Infested Cemetery escorted by four Armoured Skeletons.",
+  "level": 27.0,
+  "unit_id": "577478542",
+  "unlock": "",
+  "location": "Roams between the Desecrated Cemetery and the Infested Cemetery",
+  "description": "A mad cultist, too far gone to be really intelligible. The Malevolent being they serve pushes them to desecrate all things, with little regard for practicality. They wear a rotting pig's head as a decorative mask.",
+  "loot": [
+   {
+    "name": "Tier 1 Recipe Books",
+    "amount": null,
+    "chance": "15%"
+   },
+   {
+    "name": "Blood Jewel Tier 1",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 1",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Crude Ruby",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Corrupted Skull",
+    "desc": "A ranged attack that fires a single skull and snares the player if it hits."
+   },
+   {
+    "name": "Bone Explosion",
+    "desc": "An explosion that covers the ground in a poison cloud."
+   },
+   {
+    "name": "Quad Explosion",
+    "desc": "They shout \"Suffer for us, suffer!\", spawns 4 poison clouds total, and teleports elsewhere."
+   },
+   {
+    "name": "Ultimate Explosion",
+    "desc": "At half health they shout \"Drink it in, the chaos!\", becomes temporarily invulnerable, spawns multiple poison clouds 3 times in a row, and teleports elsewhere."
+   }
+  ],
+  "brutal": false
+ },
+ {
+  "title": "Grayson the Armourer",
+  "slug": "grayson-the-armourer",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Graysonthearmourer.png",
+   "Weapon GraysonTheArmourer.png",
+   "Item GraysonTheArmourer.png",
+   "Armour GraysonTheArmourer.png",
+   "GraysonTheArmourer.png",
+   "GraysontheArmourer.png"
+  ],
+  "intro": "Grayson can be found in the Bandit Armory in the western Farbane Woods.",
+  "level": 27.0,
+  "unit_id": "1106149033",
+  "unlock": "",
+  "location": "Bandit Armory in Farbane Woods",
+  "description": "The working arm and logistical mastermind of the bandit forces, Grayson is the backbone of their operation. As the quartermaster of a band of chaotic outlaws, murderers, and thieves, he's the stern voice of reason that keeps their gang well fed and well equipped.",
+  "loot": [
+   {
+    "name": "Armour",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Tier 1 Recipe Books",
+    "amount": null,
+    "chance": "15%"
+   },
+   {
+    "name": "Blood Jewel Tier 1",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 1",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Crude Ruby",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Overhead Swing",
+    "desc": "Basic melee attack."
+   },
+   {
+    "name": "Uppercut",
+    "desc": "At short range, he runs at the player with an uppercut swing."
+   },
+   {
+    "name": "Get Over Here",
+    "desc": "He throws 3 hammers which pull the player toward him if they get hit."
+   },
+   {
+    "name": "Knockback",
+    "desc": "He shouts \"I'm gonna hammer you out!\" and does a spin attack that knocks the player back."
+   },
+   {
+    "name": "Caltrops",
+    "desc": "He shouts \"I've got the tool for the job!\" and throws multiple caltrops to the ground, dealing damage and snaring the player if they step on them. They can be destroyed by equipping the invulnerability armors and walking over them. While invulnerable, the player cannot use any attacks."
+   },
+   {
+    "name": "Summon Minion",
+    "desc": "He shouts \"You can't stop me!\" and summons a Poacher."
+   }
+  ],
+  "brutal": true,
+  "icon": "/icons/grayson_the_armourer.png"
+ },
+ {
+  "title": "Grethel the Glassblower",
+  "slug": "grethel-the-glassblower",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Gretheltheglassblower.png",
+   "Weapon GrethelTheGlassblower.png",
+   "Item GrethelTheGlassblower.png",
+   "Armour GrethelTheGlassblower.png",
+   "GrethelTheGlassblower.png",
+   "GretheltheGlassblower.png"
+  ],
+  "intro": "Grethel can be found in the Quartz Quarry in Dunley Farmlands.",
+  "level": 50.0,
+  "unit_id": "910988233",
+  "unlock": "",
+  "location": "Quartz Quarry in Dunley Farmlands",
+  "description": "A true artist with a deep love for the process of creation. She thinks of herself much like she thinks of her glass. It is beautiful and practical, chaotic and tame, strong and yet delicate. In the same way, her style of glassblowing is methodical and daring. While she is a master of her craft, she wears many savage burn scars for her haphazard approach.",
+  "loot": [
+   {
+    "name": "Tier 2 Recipe Books",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Regular Ruby",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   }
+  ],
+  "attacks": [],
+  "brutal": false,
+  "icon": "/icons/grethel_the_glassblower.png"
+ },
+ {
+  "title": "Henry Blackbrew the Doctor",
+  "slug": "henry-blackbrew-the-doctor",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Henryblackbrewthedoctor.png",
+   "Weapon HenryBlackbrewTheDoctor.png",
+   "Item HenryBlackbrewTheDoctor.png",
+   "Armour HenryBlackbrewTheDoctor.png",
+   "HenryBlackbrewTheDoctor.png",
+   "HenryBlackbrewtheDoctor.png"
+  ],
+  "intro": "Henry can be found in the Trancendum Laboratories in Gloomrot North.",
+  "level": 74.0,
+  "unit_id": "814083983",
+  "unlock": "",
+  "location": "Trancendum Laboratories in Gloomrot North",
+  "description": "Doctor Henry Blackbrew was once humankind's last hope against the forces of Dracula, before the Church of Luminance came along. With their newly found faith and weapons of light, mankind turned on the Doctor for his sick methodology and pursuit of human evolution, declaring him a heretic. Banished alongside his students, he went on to found The Trancendum and began constructing a society in his image. With the help of a resource he refers to as \"Blood Type E\" he's managed to maintain his youth, and keep his twisted pursuit of \"progress\" alive for well over 800 years.",
+  "loot": [
+   {
+    "name": "Rare Ancestral Sword",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Tier 3 Recipe Books",
+    "amount": null,
+    "chance": "40%"
+   },
+   {
+    "name": "Gold Jewelry",
+    "amount": null,
+    "chance": "60%"
+   },
+   {
+    "name": "Blood Jewel Tier 3",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 3",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Flawless Ruby",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Exquisite Heart",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Lasers",
+    "desc": "He'll shoot 4 lasers in every direction."
+   },
+   {
+    "name": "Homing Orb",
+    "desc": "He'll shoot an electrical orb that tracks the player"
+   },
+   {
+    "name": "Discharge",
+    "desc": "He'll shout \"Try me now!\" and do a counter attack."
+   },
+   {
+    "name": "Wall Lasers",
+    "desc": "During the fight, lines of electricity will cross the room and disappear after a while. They can be crossed with a Dash ability."
+   },
+   {
+    "name": "Wall Orbs",
+    "desc": "He'll charge one of the corners of the room and 4 waves of 4 electrical orbs will shoot out."
+   },
+   {
+    "name": "Knockback",
+    "desc": "He'll charge up a skill at the center of the room and shoot 7 pulses of energy that try to push you against the wall."
+   }
+  ],
+  "brutal": false,
+  "icon": "/icons/henry_blackbrew_the_doctor.png"
+ },
+ {
+  "title": "Jade the Vampire Hunter",
+  "slug": "jade-the-vampire-hunter",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Jadethevampirehunter.png",
+   "Weapon JadeTheVampireHunter.png",
+   "Item JadeTheVampireHunter.png",
+   "Armour JadeTheVampireHunter.png",
+   "JadeTheVampireHunter.png",
+   "JadetheVampireHunter.png"
+  ],
+  "intro": "Jade can be found patrolling the roads of the Dunley Farmlands.",
+  "level": 57.0,
+  "unit_id": "-1968372384",
+  "unlock": "",
+  "location": "Patrols the roads of Dunley Farmlands",
+  "description": "A huntress from a noble house in Brighthaven, famous for their development of new-age weaponry that rivals even the genius of the scientists of Gloomrot. After the disappearance of her brother, rumor has it the expert marksman stole an impressive arsenal of experimental weapons to aid in her hunting down the culprit.",
+  "loot": [
+   {
+    "name": "Rare Ancestral Sword",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Weapon",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Tier 2 Recipe Books",
+    "amount": null,
+    "chance": "15%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Exquisite Heart",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Flawless Ruby",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Vampire Hunter",
+    "amount": null,
+    "chance": "15%"
+   },
+   {
+    "name": "Vampire Hunter 2",
+    "amount": null,
+    "chance": "5%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Shot",
+    "desc": "The basic ranged attack."
+   },
+   {
+    "name": "Silence",
+    "desc": "She'll fire a red bullet that inflicts Silence, rendering the player unable to attack for a couple seconds."
+   },
+   {
+    "name": "Caltrops",
+    "desc": "She'll throw multiple caltrops to the ground, dealing damage and stunning if the player steps on it."
+   },
+   {
+    "name": "Bomb",
+    "desc": "If the player is in close proximity to Jade, she'll drop a bomb at her feet."
+   },
+   {
+    "name": "Invisibility",
+    "desc": "She'll occasionally go into stealth and change her positioning."
+   },
+   {
+    "name": "Deadeye",
+    "desc": "She'll shout \"One shot, one kill!\" and shoot a tracking bullet."
+   },
+   {
+    "name": "Machine Gun",
+    "desc": "At half health she'll shout \"Dance for me!\" and shoot 6 bullets in quick succession."
+   },
+   {
+    "name": "Chaos Barrage",
+    "desc": "At half health she'll shout \"You're done!\" and throw 4 chaos bolts at the player."
+   },
+   {
+    "name": "Brutal and Incursion",
+    "desc": ": She shoots more often, her regular shot can inflict stun and is often lead up with her Silence shot."
+   }
+  ],
+  "brutal": false,
+  "icon": "/icons/jade_the_vampire_hunter.png"
+ },
+ {
+  "title": "Jakira the Shadow Huntress",
+  "slug": "jakira-the-shadow-huntress",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Jakiratheshadowhuntress.png",
+   "Weapon JakiraTheShadowHuntress.png",
+   "Item JakiraTheShadowHuntress.png",
+   "Armour JakiraTheShadowHuntress.png",
+   "JakiraTheShadowHuntress.png",
+   "JakiratheShadowHuntress.png"
+  ],
+  "intro": "Jakira can be found patrolling the roads of the Southern Oakveil Woodlands area.",
+  "level": 75.0,
+  "unit_id": "-1383529374",
+  "unlock": "",
+  "location": "Patrols the roads of Southern Oakveil Woodlands",
+  "description": "Jakira was not always a member of the Venom Blades. Like many, she first resisted their onslaught, standing against the great witch Megara and her raiders as they descended upon her homeland and consumed its forests. A master duelist, Jakira always believed in strength, and now she serves the strong with unflinching loyalty. Like many Venom Blades, she's mixed her skills with their corrupted magic, alchemy, and brutal techniques, always looking for new ways to prove herself and earn her place at her masters' side. Despite her stealthy nature, this cocky huntress always warns her prey just before she strikes.",
+  "loot": [
+   {
+    "name": "Rare Ancestral Sword",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Tier 3 Recipe Books",
+    "amount": null,
+    "chance": "40%"
+   },
+   {
+    "name": "Gold Jewelry",
+    "amount": null,
+    "chance": "60%"
+   },
+   {
+    "name": "Blood Jewel Tier 3",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 3",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Flawless Ruby",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Exquisite Heart",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [],
+  "brutal": false,
+  "icon": "/icons/jakira_the_shadow_huntress.png"
+ },
+ {
+  "title": "Keely the Frost Archer",
+  "slug": "keely-the-frost-archer",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "keelythefrostarcher.png",
+   "Weapon KeelyTheFrostArcher.png",
+   "Item KeelyTheFrostArcher.png",
+   "Armour KeelyTheFrostArcher.png",
+   "KeelyTheFrostArcher.png",
+   "KeelytheFrostArcher.png"
+  ],
+  "intro": "Keely can be found in the Bandit Trapper Camp in eastern Farbane Woods.",
+  "level": 20.0,
+  "unit_id": "1124739990",
+  "unlock": "",
+  "location": "Bandit Trapper Camp in Farbane Woods",
+  "description": "A cold-hearted bandit lieutenant, she oversees the animal husbandry and leather tanning camp in Farbane. Once a member of the Dunley militia, she was removed from her position for her brutal battlefield decision-making. Aside from being a crack shot, her enchanted arrows rain down icy death.",
+  "loot": [
+   {
+    "name": "Tier 1 Recipe Books",
+    "amount": null,
+    "chance": "7.5%"
+   },
+   {
+    "name": "Crude Ruby",
+    "amount": null,
+    "chance": "20%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Triple Shot",
+    "desc": "She shoots 3 arrows at the same time in multiple directions and inflict ."
+   },
+   {
+    "name": "Invisibility",
+    "desc": "She turns invisible while running to reposition herself."
+   },
+   {
+    "name": "Arrow Barrage",
+    "desc": "She shouts \"Freeze!\" and shoots 10 arrows upward that fall around her and inflict ."
+   }
+  ],
+  "brutal": false
+ },
+ {
+  "title": "Kodia the Ferocious Bear",
+  "slug": "kodia-the-ferocious-bear",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Ferociousbear.png",
+   "Weapon KodiaTheFerociousBear.png",
+   "Item KodiaTheFerociousBear.png",
+   "Armour KodiaTheFerociousBear.png",
+   "KodiaTheFerociousBear.png",
+   "KodiatheFerociousBear.png"
+  ],
+  "intro": "Kodia can be found in the Bear Cave in eastern Farbane Woods.",
+  "level": 35.0,
+  "unit_id": "-1391546313",
+  "unlock": "",
+  "location": "Bear Cave in Farbane Woods",
+  "description": "This mother bear is said to be ancient. Rumor has it that she wears a scar from every Bandit King that has ever lived, a rite of passage for the position. Her life stands as testament to the fact that no bandit leader has ever done well enough to finish the job.",
+  "loot": [
+   {
+    "name": "Rugged Hide",
+    "amount": 200,
+    "chance": "100%"
+   },
+   {
+    "name": "Bone",
+    "amount": 120,
+    "chance": "100%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": 1,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Smash",
+    "desc": "Basic melee attack."
+   },
+   {
+    "name": "Crush",
+    "desc": "It slams the ground, causing a large number of rocks to fall from the ceiling 4 times in a circle radiating out from them. These rocks cannot be blocked by counters."
+   },
+   {
+    "name": "Rage",
+    "desc": "It roars and glows red, automatically snaring the player and gaining increased attack speed for 3 attacks."
+   },
+   {
+    "name": "Charge",
+    "desc": "It crouches on its haunches before charging forward in a straight line."
+   }
+  ],
+  "brutal": true,
+  "icon": "/icons/kodia_the_ferocious_bear.png"
+ },
+ {
+  "title": "Kriig the Undead General",
+  "slug": "kriig-the-undead-general",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Kriigtheundeadgeneral.png",
+   "Weapon KriigTheUndeadGeneral.png",
+   "Item KriigTheUndeadGeneral.png",
+   "Armour KriigTheUndeadGeneral.png",
+   "KriigTheUndeadGeneral.png",
+   "KriigtheUndeadGeneral.png"
+  ],
+  "intro": "Kriig can be found in the Haunted Iron Mine in Dunley Farmlands. Another V Blood, Meredith the Bright Archer, also patrols the same area as Kriig and frequently fights him.",
+  "level": 47.0,
+  "unit_id": "-1365931036",
+  "unlock": "",
+  "location": "Haunted Iron Mine in Dunley Farmlands",
+  "description": "A truly impressive strategic mind in life, Kriig saw an early end for his mistaken faith in his allies. Though he was sent to an unjust grave, he was like any great mastermind, and had contingencies in place for just such an occasion. A dark deal with an entity of undeath allowed him to rise again and take his revenge. Now he serves the Cult of the Damned with renewed purpose, fully immersing himself into their enigmatic cause.",
+  "loot": [
+   {
+    "name": "Tier 2 Recipe Books",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Regular Ruby",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Slash",
+    "desc": "He sweeps his scythe in a wide arc forward, slashing a large area in front of him and on his sides."
+   },
+   {
+    "name": "Reaper Whirlwind",
+    "desc": "His scythe glows green and he draws back his scythe horizontally behind him with both hands, before spinning in a circle while dashing forward. This attack snares the player if it hits them."
+   },
+   {
+    "name": "Chain Harpoons",
+    "desc": "He draws back his left arm and throws 3 harpoons towards the player, which drag them back towards Kriig and briefly snare them if they hit."
+   },
+   {
+    "name": "Bone Circle",
+    "desc": "Kriig raises his scythe in the air, and after a brief delay summons an unholy circle around him that deals damage in melee range."
+   },
+   {
+    "name": "Ward of the Damned",
+    "desc": "He summons a shield similar to the player's Ward of the Damned, blocking any attacks that hit it and summoning skeletons that fight alongside Kriig."
+   }
+  ],
+  "brutal": true,
+  "icon": "/icons/kriig_the_undead_general.png"
+ },
+ {
+  "title": "Leandra the Shadow Priestess",
+  "slug": "leandra-the-shadow-priestess",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Leandratheshadowpriestess.png",
+   "Weapon LeandraTheShadowPriestess.png",
+   "Item LeandraTheShadowPriestess.png",
+   "Armour LeandraTheShadowPriestess.png",
+   "LeandraTheShadowPriestess.png",
+   "LeandratheShadowPriestess.png"
+  ],
+  "intro": "Leandra can be found in the Church of the Damned in northern Dunley Farmlands.",
+  "level": 47.0,
+  "unit_id": "939467639",
+  "unlock": "",
+  "location": "Church of the Damned",
+  "description": "There are few creatures on the face of Vardoran as ancient as Leandra. Mysterious and surrounded with shadow magic and undeath, it is said that when Dracula fell, and the poisonous blood rains soaked Vardoran, she stood willingly in the deadly downpour. Some say she embraced the dark power of that corruption and made it her own. Today she serves as High Priestess of the Cult of the Damned.",
+  "loot": [
+   {
+    "name": "Tier 2 Recipe Books",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Regular Ruby",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Shadow Bolt",
+    "desc": "She swings her left arm in a backhand motion, firing a single bolt of shadow at the player"
+   },
+   {
+    "name": "Shadow Orbs",
+    "desc": "She holds her left hand behind her as it glows purple, then fires three shadow orbs toward the player. The two orbs on the sides will arc in a semi-circle, and when all 3 orbs converge at the end of their arc they will detonate and deal damage in a large area around them."
+   },
+   {
+    "name": "Summon Shadow Soldier",
+    "desc": "She raises her left hand in the air and summons a shadow soldier that dashes toward the player after a brief delay. The shadow will make a single melee attack and then disappear, but can also be destroyed earlier by taking any amount of damage."
+   },
+   {
+    "name": "Summon Shadow Army",
+    "desc": "She levitates into the air and shouts \"Do you hear them? They're coming!\", and disappears as darkness obscures the edges of the player's vision. She then summons 4 shadow soldiers which will attack the player one after the other before disappearing. Leandra can use this ability multiple times per fight."
+   }
+  ],
+  "brutal": true,
+  "icon": "/icons/leandra_the_shadow_priestess.png"
+ },
+ {
+  "title": "Lidia the Chaos Archer",
+  "slug": "lidia-the-chaos-archer",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "lidiathechaosarcher.png",
+   "Weapon LidiaTheChaosArcher.png",
+   "Item LidiaTheChaosArcher.png",
+   "Armour LidiaTheChaosArcher.png",
+   "LidiaTheChaosArcher.png",
+   "LidiatheChaosArcher.png"
+  ],
+  "intro": "Lidia can be found patrolling the roadway between Bandit Copper Mine and Bandit Logging Camp in central Farbane Woods.",
+  "level": 30.0,
+  "unit_id": "763273073",
+  "unlock": "",
+  "location": "Patrolling the roads of Farbane Woods",
+  "description": "An adept but undisciplined archer, she lets her arrows fly and trusts that fate knows where to take them, and it works. Lidia is a force of chaos that cannot be contained, and the bandit king is happy to let her do as she likes as long as it benefits him.",
+  "loot": [
+   {
+    "name": "Tier 1 Recipe Books",
+    "amount": null,
+    "chance": "7.5%"
+   },
+   {
+    "name": "Crude Ruby",
+    "amount": null,
+    "chance": "20%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Row Shots",
+    "desc": "She shoots 3 arrows in a row that inflict ."
+   },
+   {
+    "name": "Invisibility",
+    "desc": "She goes turns invisible in order to run away and reposition."
+   },
+   {
+    "name": "Arrow Barrage",
+    "desc": "She shouts \"Think on your feet!\" and shoot 4 arrows that leave an area of effect that inflicts ."
+   }
+  ],
+  "brutal": true
+ },
+ {
+  "title": "Lord Styx the Night Champion",
+  "slug": "lord-styx-the-night-champion",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Nightmarshalstyxthesunderer.png",
+   "Weapon LordStyxTheNightChampion.png",
+   "Item LordStyxTheNightChampion.png",
+   "Armour LordStyxTheNightChampion.png",
+   "LordStyxTheNightChampion.png",
+   "LordStyxtheNightChampion.png"
+  ],
+  "intro": "Styx can be found encircling a giant Blood Crystal just south of Gloomrot at Dracula's Demise.",
+  "level": 84.0,
+  "unit_id": "1112948824",
+  "unlock": "Bat Form",
+  "location": "Dracula's Demise",
+  "description": "A legendary Vampire from the age of Dracula who was reawakened by the call of the Immortal King. Known for his ferocity on the battlefield against the forces of the church and rival Vampire alike, he has more than earned his place as the Night Champion of the Legion of Noctum. His presence over the operation at the heart of Dracula’s Demise must be of vital importance to Dracula’s plans.",
+  "loot": [
+   {
+    "name": "Epic Ancestral Sword",
+    "amount": null,
+    "chance": "5%"
+   },
+   {
+    "name": "Onyx Tear",
+    "amount": null,
+    "chance": "4%"
+   },
+   {
+    "name": "Tier 3 Recipe Books",
+    "amount": null,
+    "chance": "22%"
+   },
+   {
+    "name": "Blood Jewel Tier 3",
+    "amount": null,
+    "chance": "74%"
+   },
+   {
+    "name": "Flawless Ruby",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Exquisite Heart",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Double Kill",
+    "desc": "Styx does two fast slashes and a lunge."
+   },
+   {
+    "name": "Death Spin",
+    "desc": "He spins in a circle firing red blades in a 360° angle dealing damage. His spin attack deals area damage (for the circle) while the blades deal single target damage."
+   },
+   {
+    "name": "Lunge",
+    "desc": "At 80% health Styx unlocks a new ability. He teleports behind the player and dashes towards them."
+   },
+   {
+    "name": "Bat Swarm",
+    "desc": "He summons three bat-energy balls. Two from the sides closing in on the player and one from the front (it can sometimes curve)"
+   },
+   {
+    "name": "Gargoyles",
+    "desc": "At 50% HP he jumps into the air and summons two gargoyles to aid him in the fight."
+   },
+   {
+    "name": "Ultimate Power",
+    "desc": "Styx levitates into the air darkening the screen of the player and summons 10 of his bat swarm attacks."
+   },
+   {
+    "name": "Jump",
+    "desc": "Styx can now jump into the air and inflict \"Heart strike\""
+   },
+   {
+    "name": "Teleport",
+    "desc": "He can now teleport behind the player."
+   }
+  ],
+  "brutal": false,
+  "icon": "/icons/lord_styx_the_night_champion.png"
+ },
+ {
+  "title": "Lucile the Venom Alchemist",
+  "slug": "lucile-the-venom-alchemist",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Lucilethevenomalchemist.png",
+   "Weapon LucileTheVenomAlchemist.png",
+   "Item LucileTheVenomAlchemist.png",
+   "Armour LucileTheVenomAlchemist.png",
+   "LucileTheVenomAlchemist.png",
+   "LuciletheVenomAlchemist.png"
+  ],
+  "intro": "Lucile can be found at the Venom Mixing Outpost in the middle of Oakveil Woodlands.",
+  "level": 76.0,
+  "unit_id": "1295855316",
+  "unlock": "",
+  "location": "Venom Mixing Outpost in Oakveil Woodlands",
+  "description": "An energetic, maniacal alchemist with a famously resilient constitution. Lucile obsesses over creating the perfect Venom Sap brew for any occasion. She credits her brilliance to her Queen, Megara, who she claims delivers her divine inspiration. That inspiration just so happens to strike when she forgets to switch out the filters in her protective face mask.",
+  "loot": [
+   {
+    "name": "Rare Ancestral Sword",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Tier 3 Recipe Books",
+    "amount": null,
+    "chance": "40%"
+   },
+   {
+    "name": "Gold Jewelry",
+    "amount": null,
+    "chance": "60%"
+   },
+   {
+    "name": "Blood Jewel Tier 3",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 3",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Flawless Ruby",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Exquisite Heart",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [],
+  "brutal": false,
+  "icon": "/icons/lucile_the_venom_alchemist.png"
+ },
+ {
+  "title": "Mairwyn the Elementalist",
+  "slug": "mairwyn-the-elementalist",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Mairwyntheelementalist.png",
+   "Weapon MairwynTheElementalist.png",
+   "Item MairwynTheElementalist.png",
+   "Armour MairwynTheElementalist.png",
+   "MairwynTheElementalist.png",
+   "MairwyntheElementalist.png"
+  ],
+  "intro": "Mairwyn can be found in the South-East region of Silverlight Hills in Emberleaf Grove.",
+  "level": 70.0,
+  "unit_id": "-2013903325",
+  "unlock": "",
+  "location": "Emberleaf Grove",
+  "description": "A dangerous spell-caster in tune with the most ephemeral qualities of nature. Mairwyn speaks to the winds, which whisper for change, chaos, and destruction. However, she seems content to only massacre those who wander too close to her Grove.",
+  "loot": [
+   {
+    "name": "Rare Ancestral Sword",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Tier 3 Recipe Books",
+    "amount": null,
+    "chance": "40%"
+   },
+   {
+    "name": "Gold Jewelry",
+    "amount": null,
+    "chance": "60%"
+   },
+   {
+    "name": "Blood Jewel Tier 3",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 3",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Flawless Ruby",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Exquisite Heart",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Fire vortex",
+    "desc": "Mairwyn conjures a fiery vortex, throwing out 4 fireballs at 90 degree angles to each other as she spins and moves around. The fireballs apply a burn debuff."
+   },
+   {
+    "name": "Sparkles",
+    "desc": "Mairwyn puts an electric charge on the target, causing sparkles to spawn around them. They spawn in four directions around the taget, moving toward the target. The sparkles apply a stun."
+   },
+   {
+    "name": "Ice shard volly",
+    "desc": "Mairwyn throws a volley of 3 ice shards, slowing on hit."
+   },
+   {
+    "name": "Large ice shard",
+    "desc": "Mairwyn throws a large ice shard, stunning on hit."
+   },
+   {
+    "name": "Wind blast",
+    "desc": "Mairwyn yells \"Back to hell with you!\" conjuring a large wind blast over a time. Enemies hit are sent flying outwards."
+   },
+   {
+    "name": "Mirror image",
+    "desc": "Mairwyn turns invisible and teleports, creating a mirror image as she reappears. Both use the Shock blast ability at first, but Mairwyn herself switches to her normal abilities after a while."
+   },
+   {
+    "name": "Shock blast",
+    "desc": "Mairwyn (or her mirror image) throws 3 lightning balls, stunning on hit."
+   },
+   {
+    "name": "Frost and fire",
+    "desc": "Mairwyn freezes herself and summons a large fireball, the fireball rolls around, throwing small fireballs toward its target. the smaller fireballs can be intercepted by the frozen Mairwyn."
+   }
+  ],
+  "brutal": false,
+  "icon": "/icons/mairwyn_the_elementalist.png"
+ },
+ {
+  "title": "Maja the Dark Savant",
+  "slug": "maja-the-dark-savant",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Majathedarksavant.png",
+   "Weapon MajaTheDarkSavant.png",
+   "Item MajaTheDarkSavant.png",
+   "Armour MajaTheDarkSavant.png",
+   "MajaTheDarkSavant.png",
+   "MajatheDarkSavant.png"
+  ],
+  "intro": "Maja can be found in The Forbidden Tower in the North-East of Dunley Farmlands.",
+  "level": 47.0,
+  "unit_id": "1945956671",
+  "unlock": "",
+  "location": "The Forbidden Tower in Dunley Farmlands",
+  "description": "A brilliant, obsessive scholar that resides in an ancient family library, discovering its long-lost secrets in pursuit of a goal intuitively passed through her family's bloodline. The culmination of generations of work is at her ink-stained fingertips... to open a way to the world of demons.",
+  "loot": [
+   {
+    "name": "Tier 2 Recipe Books",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Regular Ruby",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Paper Barrage",
+    "desc": "She swings her book in front of her, firing 4 lines of pages at the player."
+   },
+   {
+    "name": "Ink Bolt",
+    "desc": "She holds her left hand back then swings her wand and fires an ink projectile at the player. If it hits them, it summons an Ink Demon to aid Maja. This projectile pierces through enemies and can therefore summon multiple Ink Demons in a single cast if it hits multiple players or summons (e.g. the skeletons created by Unholy spells)."
+   },
+   {
+    "name": "Ink Splatter",
+    "desc": "She shouts \"Flee interloper!\" or \"A taste of knowledge!\", then creates a large ink area around her that explodes after a brief delay and summons an Ink Demon."
+   },
+   {
+    "name": "Summon Ink Demons",
+    "desc": "She creates a small burst of ink dealing damage in an area around her, shouts \"Rise Demons! Accept these vessels!\" or \"Witness my little devils!\", then disappears while 3 ink projectiles begin springing up out of the ground. These projectiles create Ink Demons upon landing and will also snare the player if they hit them. Maja reappears in a random location once this attack ends."
+   },
+   {
+    "name": "Consume",
+    "desc": "She shouts \"A sacrifice is required!\" or \"Lend me your power!\" before channeling to create a large book in front of her that shields an Ink Demon and begins to drag it towards her. If the Ink Demon is dragged all the way to the book, it slams shut around it, destroying the demon and healing Maja for a substantial amount of health. This ability can be canceled by killing the demon before it reaches the book."
+   },
+   {
+    "name": "Paper Cut",
+    "desc": "She shouts \"Death by a thousand paper cuts!\" or \"The exquisite suffering of a paper cut!\" or \"Here is some mandatory reading!\" or \"Do you also thirst for research?!\", and summons 7 lines of pages that fire at the player, followed by 7 more from a different angle after a delay. These projectiles are spaced further apart than those created by her Paper Barrage ability and can be avoided by standing between them."
+   }
+  ],
+  "brutal": true,
+  "icon": "/icons/maja_the_dark_savant.png"
+ },
+ {
+  "title": "Matka the Curse Weaver",
+  "slug": "matka-the-curse-weaver",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Matkathecurseweaver.png",
+   "Weapon MatkaTheCurseWeaver.png",
+   "Item MatkaTheCurseWeaver.png",
+   "Armour MatkaTheCurseWeaver.png",
+   "MatkaTheCurseWeaver.png",
+   "MatkatheCurseWeaver.png"
+  ],
+  "intro": "Matka can be found in the Nest of the Curse Weaver located in the east of the Cursed Forest.",
+  "level": 76.0,
+  "unit_id": "-910296704",
+  "unlock": "",
+  "location": "Nest of the Curse Weaver",
+  "description": "Some say Matka is the oldest of the witches, but the truth is nobody knows how or when these timeless creatures were born. A force of nature and a mockery of humanity, she is utterly beyond reason.",
+  "loot": [
+   {
+    "name": "Rare Ancestral Sword",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Tier 3 Recipe Books",
+    "amount": null,
+    "chance": "40%"
+   },
+   {
+    "name": "Gold Jewelry",
+    "amount": null,
+    "chance": "60%"
+   },
+   {
+    "name": "Blood Jewel Tier 3",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 3",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Flawless Ruby",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Exquisite Heart",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Summon Mosquito",
+    "desc": "Matka summons two mosquitoes (there isn't a limit to how many there it can be)."
+   },
+   {
+    "name": "Swamp Bomb",
+    "desc": "She summons three area of attack bombs that inflict fading snare."
+   },
+   {
+    "name": "Crawling Snake",
+    "desc": "Matka summons a spell that crawls along the ground and summons a trio of explosions."
+   },
+   {
+    "name": "Pig Curse",
+    "desc": "She'll say \"veins of the world sing\" and turn you into a pig for a few seconds and summon four of these snake spells."
+   },
+   {
+    "name": "Unstable Mosquito",
+    "desc": "She will say \"bones of the tree be mine\" and summon five mosquitoes that will hunt you down and explode"
+   }
+  ],
+  "brutal": false,
+  "icon": "/icons/matka_the_curse_weaver.png"
+ },
+ {
+  "title": "Megara the Serpent Queen",
+  "slug": "megara-the-serpent-queen",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Megaratheserpentqueen.png",
+   "Weapon MegaraTheSerpentQueen.png",
+   "Item MegaraTheSerpentQueen.png",
+   "Armour MegaraTheSerpentQueen.png",
+   "MegaraTheSerpentQueen.png",
+   "MegaratheSerpentQueen.png"
+  ],
+  "intro": "Megara can be found in the Venom Blades Bastion in Oakveil Woodlands.",
+  "level": 88.0,
+  "unit_id": "591725925",
+  "unlock": "",
+  "location": "Venom Blades Bastion in Oakveil Woodlands",
+  "description": "There was once a small village of warriors, a place of little significance. When the great witch Megara appeared the villagers reacted with suspicion, gathering their forces to stand against her. Megara gave them a display of power that inspired such terror it crushed all hope of resistance, driving them to their knees. \"I am your Queen! The greatest half of you will become my first subjects, and will walk by my side. Come dusk, each of you that are holding the heart of one of your neighbors will earn your place.\" Those who obeyed became the first Venom Blades, worthy of receiving the secret of Venom Sap. This fuels their war effort, but more importantly, the great witch herself.",
+  "loot": [
+   {
+    "name": "Epic Ancestral Sword",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Onyx Tear",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Tier 3 Recipe Books",
+    "amount": null,
+    "chance": "20%"
+   },
+   {
+    "name": "Blood Jewel Tier 3",
+    "amount": null,
+    "chance": "33%"
+   },
+   {
+    "name": "Flawless Ruby",
+    "amount": 3,
+    "chance": "100%"
+   },
+   {
+    "name": "Exquisite Heart",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [],
+  "brutal": false,
+  "icon": "/icons/megara_the_serpent_queen.png"
+ },
+ {
+  "title": "Meredith the Bright Archer",
+  "slug": "meredith-the-bright-archer",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Merediththebrightarcher.png",
+   "Weapon MeredithTheBrightArcher.png",
+   "Item MeredithTheBrightArcher.png",
+   "Armour MeredithTheBrightArcher.png",
+   "MeredithTheBrightArcher.png",
+   "MerediththeBrightArcher.png"
+  ],
+  "intro": "Meredith can be found patrolling the Haunted Iron Mine in southern Dunley Farmlands. She is escorted by 2 Militia Archers and 2 Militia Guards. She will patrol the mine while attacking any undead she comes across, including Kriig the Undead General, but will occasionally exit the mine and take a brief break before returning to her hunt.",
+  "level": 50.0,
+  "unit_id": "850622034",
+  "unlock": "",
+  "location": "Haunted Iron Mine in Dunley Farmlands",
+  "description": "Meredith is a true believer in the Church of Luminance. She believes her power is a gift from the Light to wield against dark forces, much as the original Paladins were given the Light to strike down Dracula and the Vampire legions. As brave as she is naive to the Church’s descent into avarice and gluttony, this holy archer is blinded by the light, focused only on her pursuit of justice at any cost.",
+  "loot": [
+   {
+    "name": "Weapon",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Tier 2 Recipe Books",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Regular Ruby",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Arrow Shot",
+    "desc": "She fires a single arrow at the player."
+   },
+   {
+    "name": "Blessed Shot",
+    "desc": "She shouts \"Bless this shot!\" then fires an an arrow in the direction the player is moving, predicting their path. This arrow deals heavy damage and incapacitates the player if it hits them."
+   },
+   {
+    "name": "Dash",
+    "desc": "She occasionally dashes around the area up to 4 times, damaging targets she passes through."
+   },
+   {
+    "name": "Summon Militia Guard",
+    "desc": "She shouts \"For Luminance!\", and summons 2 Militia Guards."
+   },
+   {
+    "name": "Arrow Barrage",
+    "desc": "She shouts \"Light, guide my arrows!\", then shoots 10 arrows upward that will fall around her. This attack stuns the player if they get hit."
+   }
+  ],
+  "brutal": true,
+  "icon": "/icons/meredith_the_bright_archer.png"
+ },
+ {
+  "title": "Morian the Stormwing Matriarch",
+  "slug": "morian-the-stormwing-matriarch",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Morianthestormwingmatriarch.png",
+   "Weapon MorianTheStormwingMatriarch.png",
+   "Item MorianTheStormwingMatriarch.png",
+   "Armour MorianTheStormwingMatriarch.png",
+   "MorianTheStormwingMatriarch.png",
+   "MoriantheStormwingMatriarch.png"
+  ],
+  "intro": "Morian can be found in the Harpy Nest within the Silverlight Hills.",
+  "level": 70.0,
+  "unit_id": "685266977",
+  "unlock": "",
+  "location": "Harpy Nest",
+  "description": "The most dangerous of her kind, and fiercely protective of her tribe. It's said that the harpies are attracted to only the finest gemstones, and none has a sharper eye for quality than the matriarch herself. Wealthy folk are warned to keep their jewels out of sight if they dare travel outside the protection of Brighthaven.",
+  "loot": [
+   {
+    "name": "Rare Ancestral Sword",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Tier 3 Recipe Books",
+    "amount": null,
+    "chance": "40%"
+   },
+   {
+    "name": "Gold Jewelry",
+    "amount": null,
+    "chance": "60%"
+   },
+   {
+    "name": "Blood Jewel Tier 3",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 3",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Flawless Ruby",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Exquisite Heart",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [],
+  "brutal": false,
+  "icon": "/icons/morian_the_stormwing_matriarch.png"
+ },
+ {
+  "title": "Nibbles the Putrid Rat",
+  "slug": "nibbles-the-putrid-rat",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Putridrat.png",
+   "Weapon NibblesThePutridRat.png",
+   "Item NibblesThePutridRat.png",
+   "Armour NibblesThePutridRat.png",
+   "NibblesThePutridRat.png",
+   "NibblesthePutridRat.png"
+  ],
+  "intro": "Nibbles cannot spawn naturally, it only appears when summoned via the Vermin Nest. Nibbles will be summoned where the Vermin Nest is placed and will return to that location if de-aggroed. It will not change locations even if the Vermin Nest is moved by the player after it was summoned.",
+  "level": 30.0,
+  "unit_id": "-2039908510",
+  "unlock": "Rat Form",
+  "location": "",
+  "description": "Farmers try to be diligent in keeping their pest problems under control, as legend says that any place too infested might find themselves visited by the Putrid Rat. No one is quite sure how it gets in, but they know it by the stench of rotting flesh and its carnivorous appetite.",
+  "loot": [
+   {
+    "name": "Rat",
+    "amount": 6,
+    "chance": "100%"
+   },
+   {
+    "name": "Bone",
+    "amount": 80,
+    "chance": "100%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": 1,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Bite",
+    "desc": "The standard melee attack."
+   },
+   {
+    "name": "Rage",
+    "desc": "Nibbles glows red, then melee attacks 6 times in a row."
+   },
+   {
+    "name": "Poison Explosion",
+    "desc": "Nibbles shakes its coat and releases a green poison mist that explodes in an area around it after a delay."
+   },
+   {
+    "name": "Summon Minions",
+    "desc": "Nibbles burrows into the ground, temporarily leaving the fight while summoning 3 Giant Rats. More rats will steadily join the fight until 9 have been summoned in total."
+   }
+  ],
+  "brutal": true,
+  "icon": "/icons/nibbles_the_putrid_rat.png"
+ },
+ {
+  "title": "Nicholaus the Fallen",
+  "slug": "nicholaus-the-fallen",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Nicholausthefallen.png",
+   "Weapon NicholausTheFallen.png",
+   "Item NicholausTheFallen.png",
+   "Armour NicholausTheFallen.png",
+   "NicholausTheFallen.png",
+   "NicholaustheFallen.png"
+  ],
+  "intro": "Nicholaus can be found in the Forgotten Cemetery in central Farbane Woods.",
+  "level": 35.0,
+  "unit_id": "153390636",
+  "unlock": "",
+  "location": "Forgotten Cemetery in Farbane Woods",
+  "description": "A necromancer driven out of high society in Silverlight for his indulgence in the dark arts. Now he lives among the undead, using his unliving servants to fulfill his needs, as well as bring him back unwilling subjects for his experiments.",
+  "loot": [
+   {
+    "name": "MagicSource",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Tier 1 Recipe Books",
+    "amount": null,
+    "chance": "15%"
+   },
+   {
+    "name": "Blood Jewel Tier 1",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 1",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Crude Ruby",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Green Bolt",
+    "desc": "He fires a single skull ranged attack."
+   },
+   {
+    "name": "Teleport",
+    "desc": "He raises up in the air, disappears, then creates an area of effect under the player. After a moment he reappears in the area, and inflicts Fear on the player if haven't left the area, forcing them to run away from him."
+   },
+   {
+    "name": "Skulls",
+    "desc": "He says \"Your bones will be mine!\", then radiates 3 waves of skull projectiles in all directions around him. These projectiles wind back and forth while traveling through the air."
+   },
+   {
+    "name": "Summon Minions",
+    "desc": "He says \"Behold!\", then summons 3 Armoured Skeletons and 1 Skeleton Crossbow (Armoured)."
+   },
+   {
+    "name": "Summon Army",
+    "desc": "He says \"Let's test that meat suit of yours!\", then summons a large group of 14 Skeletons."
+   }
+  ],
+  "brutal": true
+ },
+ {
+  "title": "Octavian the Militia Captain",
+  "slug": "octavian-the-militia-captain",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Octavianthemilitiacaptain.png",
+   "Weapon OctavianTheMilitiaCaptain.png",
+   "Item OctavianTheMilitiaCaptain.png",
+   "Armour OctavianTheMilitiaCaptain.png",
+   "OctavianTheMilitiaCaptain.png",
+   "OctaviantheMilitiaCaptain.png"
+  ],
+  "intro": "Octavian can be found within the Bastion of Dunley in Dunley Farmlands.",
+  "level": 58.0,
+  "unit_id": "1688478381",
+  "unlock": "",
+  "location": "Bastion of Dunley",
+  "description": "An old soldier and a veteran of many battles, Octavian is perhaps the most trusted man in all of Dunley. The militia serves him without question, and he in turn serves them to the best of his ability. Don't let his age fool you, he's got plenty of fight left in him.",
+  "loot": [
+   {
+    "name": "Rare Ancestral Sword",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Armour",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Tier 2 Recipe Books",
+    "amount": null,
+    "chance": "15%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Exquisite Heart",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Flawless Ruby",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Wide Swing",
+    "desc": "He will swing his sword arching the front most of his sides and foreward, spawns a few projectiles"
+   },
+   {
+    "name": "Greatsword Reverse",
+    "desc": "He will swing his sword vertically which will shoot a projectile, if hit by the projectile will bring you right behind him and stun you."
+   },
+   {
+    "name": "Dash",
+    "desc": "He will dash at you with his sword out."
+   },
+   {
+    "name": "Minion Summon",
+    "desc": "He will yell \"To me!\" which will summon a Militia Longbow Enemies."
+   },
+   {
+    "name": "Enrage",
+    "desc": "He will glow red and start dash striking you."
+   },
+   {
+    "name": "Hurricane Spin",
+    "desc": "He will say \"Here's an old trick\" will start spinning around the arena, spawning projectiles as he spins."
+   },
+   {
+    "name": "Brutal and Incursion Rift",
+    "desc": ": His Enrage is changed to a jump attack which he will do multiple jumps. He will also chain attack his Wide Swing and Greatsword Reverse."
+   }
+  ],
+  "brutal": false,
+  "icon": "/icons/octavian_the_militia_captain.png"
+ },
+ {
+  "title": "Polora the Feywalker",
+  "slug": "polora-the-feywalker",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Polarathefeywalker.png",
+   "Weapon PoloraTheFeywalker.png",
+   "Item PoloraTheFeywalker.png",
+   "Armour PoloraTheFeywalker.png",
+   "PoloraTheFeywalker.png",
+   "PoloratheFeywalker.png"
+  ],
+  "intro": "Polora can be found in the Gleaming Meadows in western Farbane Woods.",
+  "level": 35.0,
+  "unit_id": "-484556888",
+  "unlock": "",
+  "location": "Gleaming Meadows in Farbane Woods",
+  "description": "A powerful psychopomp that taps into mysterious spiritual sources. Polora is one of the only known mortal links to fairy kind and driven to the brink of sanity by her intimate connection to nature. Her dream-like home is alive with unique, enchanted plant life.",
+  "loot": [
+   {
+    "name": "Tier 1 Recipe Books",
+    "amount": null,
+    "chance": "15%"
+   },
+   {
+    "name": "Blood Jewel Tier 1",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 1",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Crude Ruby",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Spirit Wave",
+    "desc": "Polora does a stationary channel, lifting her left arm up, before releasing 3 spread out spirit projectiles that move in a wave-like pattern."
+   },
+   {
+    "name": "Spirit Wolf",
+    "desc": "Polora does a short channel in front of her before launching a spirit wolf in a straight line. The wolf deals damage/heals depending on target hit. After a short delay, the wolf will bounce to a new target, up to 5 times, for a total of 6 hits. It can bounce back to Polora."
+   },
+   {
+    "name": "Fear",
+    "desc": "If the player is in close proximity to Polora, she'll shout \"Begone!\"and start a second long channel. When it ends she will Fear all targets in a small radius around her, forcing them to run away from her."
+   },
+   {
+    "name": "Invisibility",
+    "desc": "If the player is in close proximity to Polora, she will turn invisible for a few seconds, and gain increased movement speed. If afflicted by , her movement can be tracked."
+   },
+   {
+    "name": "Summon Minion",
+    "desc": "After losing 25% of her health, Polora will periodically shout \"Spirits, hear me!\" and summon a Pixie. They fire ranged wave-like spirit attacks, but their aiming turn rate is slower. If killed, Polora may resummon a new one."
+   }
+  ],
+  "brutal": true,
+  "icon": "/icons/polora_the_feywalker.png"
+ },
+ {
+  "title": "Quincey the Bandit King",
+  "slug": "quincey-the-bandit-king",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Quinceythebanditking.png",
+   "Weapon QuinceyTheBanditKing.png",
+   "Item QuinceyTheBanditKing.png",
+   "Armour QuinceyTheBanditKing.png",
+   "QuinceyTheBanditKing.png",
+   "QuinceytheBanditKing.png"
+  ],
+  "intro": "Quincey can be found in the Bandit Stronghold in Farbane Woods. Entering the stronghold requires either the usage of Minor Explosive Boxes, or Bear Form's Bear Form ability.",
+  "level": 37.0,
+  "unit_id": "-1659822956",
+  "unlock": "",
+  "location": "Bandit Stronghold in Farbane Woods",
+  "description": "The 'King' of the bandits, once heralded as a hero of the common people in Dunley. His lack of proper reverence for the Church of Luminance saw him driven into Farbane, where his prowess in battle earned the respect of the banditry and, eventually, a place as their champion and king. He may have been a good man, once.",
+  "loot": [
+   {
+    "name": "Tier 2 Recipe Books",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Regular Ruby",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Double Swipe",
+    "desc": "His basic melee attack consists of 2 swipes with his mace."
+   },
+   {
+    "name": "Shock Wave",
+    "desc": "After a brief charge, he'll do a knockback melee attack that inflicts a minor debuff. He'll then create 4 waving shockwave lines that explode after a couple seconds that also inflict the lesser . Stacks with regular ."
+   },
+   {
+    "name": "Mace Throw",
+    "desc": "He throws his weapon, tracking player movement and snaring them if it hits."
+   },
+   {
+    "name": "Chaos Barrier",
+    "desc": "He shouts \"Show me what you've got!\" and creates a reflective shield that inflicts if hit. The shield does not deflect AoE attacks such as Bone Explosion or the crossbow's Rain of Bolts."
+   },
+   {
+    "name": "Summon Minion",
+    "desc": "He shouts \"Rise to the challenge!\" and spawns a Trapper."
+   },
+   {
+    "name": "Merciless Charge",
+    "desc": "His shield will shine for a second before he does a charge attack that does heavy damage and stuns."
+   },
+   {
+    "name": "Triple Charge",
+    "desc": "At half health he shouts \"A rousing battle!\" and does 3 charges in a row. He'll be briefly stunned afterwards."
+   }
+  ],
+  "brutal": true,
+  "icon": "/icons/quincey_the_bandit_king.png"
+ },
+ {
+  "title": "Raziel the Shepherd",
+  "slug": "raziel-the-shepherd",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Razieltheshepherd.png",
+   "Weapon RazielTheShepherd.png",
+   "Item RazielTheShepherd.png",
+   "Armour RazielTheShepherd.png",
+   "RazielTheShepherd.png",
+   "RazieltheShepherd.png"
+  ],
+  "intro": "Raziel can be found in the Dunley Monastery, in the Dunley Farmlands region.",
+  "level": 57.0,
+  "unit_id": "-680831417",
+  "unlock": "",
+  "location": "Dunley Monastery",
+  "description": "The head and heart of the Dunley Monastery and a true believer in the Light, Raziel is known for his persuasive sermons and harsh, fire-and-brimstone rhetoric. It is believed that his holy power is granted by his incredible righteousness, largely because he keeps saying so.",
+  "loot": [
+   {
+    "name": "Rare Ancestral Sword",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "MagicSource",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Tier 2 Recipe Books",
+    "amount": null,
+    "chance": "15%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Exquisite Heart",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Flawless Ruby",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [],
+  "brutal": false,
+  "icon": "/icons/raziel_the_shepherd.png"
+ },
+ {
+  "title": "Rufus the Foreman",
+  "slug": "rufus-the-foreman",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Rufustheforeman.png",
+   "Weapon RufusTheForeman.png",
+   "Item RufusTheForeman.png",
+   "Armour RufusTheForeman.png",
+   "RufusTheForeman.png",
+   "RufustheForeman.png"
+  ],
+  "intro": "Rufus can be found in the Bandit Logging Camp in Farbane Woods alongside some other bandits.",
+  "level": 20.0,
+  "unit_id": "2122229952",
+  "unlock": "",
+  "location": "Bandit Logging Camp in Farbane Woods",
+  "description": "A lieutenant of the bandit forces charged with looking over the logging camp. Just because he's an expert woodworker doesn't mean he doesn't know his way around a crossbow, though. He didn't rise up in the bandit ranks for nothing.",
+  "loot": [
+   {
+    "name": "Tier 1 Recipe Books",
+    "amount": null,
+    "chance": "7.5%"
+   },
+   {
+    "name": "Crude Ruby",
+    "amount": null,
+    "chance": "20%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Crossbow Bolt",
+    "desc": "Rufus' standard attack. He fires a crossbow bolt with a red glow in a straight line."
+   },
+   {
+    "name": "Throw Net",
+    "desc": "Much like the Trapper ability, Rufus swings a net around before throwing it into the AoE indicator. Any player still in that zone when he throws the net will be pinned in place for several seconds."
+   },
+   {
+    "name": "Dodge Roll",
+    "desc": "If the player draws too close to him he can dodge-roll away."
+   },
+   {
+    "name": "Summon Minions",
+    "desc": "Rufus calls for some minions, a Thug and a Poacher, to join the fight."
+   },
+   {
+    "name": "Rage",
+    "desc": "Rufus will shield himself and any of his nearby allies, similar to the Blood Rage ability."
+   },
+   {
+    "name": "Rapid Crossbow",
+    "desc": "Once Rufus gets to about half health he says \"I'm gonna call you target practice!\" and fires 8 crossbow bolts in rapid succession. After that the weapon will clinck, indicating to the player that the attack is over."
+   }
+  ],
+  "brutal": false,
+  "icon": "/icons/rufus_the_foreman.png"
+ },
+ {
+  "title": "Simon Belmont the Vampire Hunter",
+  "slug": "simon-belmont-the-vampire-hunter",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Simonbelmontthevampirehunter.png",
+   "Weapon SimonBelmontTheVampireHunter.png",
+   "Item SimonBelmontTheVampireHunter.png",
+   "Armour SimonBelmontTheVampireHunter.png",
+   "SimonBelmontTheVampireHunter.png",
+   "SimonBelmonttheVampireHunter.png"
+  ],
+  "intro": "Simon can be found wandering the roads of 3 regions, Farbane Woods, Dunley Farmlands and Silverlight Hills. See his patrol route below:",
+  "level": 80.0,
+  "unit_id": "336560131",
+  "unlock": "",
+  "location": "Patrols all the roads of Vardoran, ending in the Colosseum.",
+  "description": "This mysterious Vampire hunter has arrived from lands unknown on a fervent mission to cut down anything they might deem a threat to mankind. Monster and Vampire alike will find themselves the target of this strangers ire, and even worse, on the wrong end of the exotic stranger's unique battle whip... an intriguing new tool of war.",
+  "loot": [
+   {
+    "name": "Epic Ancestral Sword",
+    "amount": null,
+    "chance": "5%"
+   },
+   {
+    "name": "Onyx Tear",
+    "amount": null,
+    "chance": "4%"
+   },
+   {
+    "name": "Tier 3 Recipe Books",
+    "amount": null,
+    "chance": "22%"
+   },
+   {
+    "name": "Blood Jewel Tier 3",
+    "amount": null,
+    "chance": "74%"
+   },
+   {
+    "name": "Flawless Ruby",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Exquisite Heart",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [],
+  "brutal": false,
+  "icon": "/icons/simon_belmont_the_vampire_hunter.png"
+ },
+ {
+  "title": "Sir Erwin the Gallant Cavalier",
+  "slug": "sir-erwin-the-gallant-cavalier",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "SirErwinthegallantcavalier.png",
+   "Weapon SirErwinTheGallantCavalier.png",
+   "Item SirErwinTheGallantCavalier.png",
+   "Armour SirErwinTheGallantCavalier.png",
+   "SirErwinTheGallantCavalier.png",
+   "SirErwintheGallantCavalier.png"
+  ],
+  "intro": "Sir Erwin can be found at the Horse Racing Track in the west of Dunley Farmlands.",
+  "level": 46.0,
+  "unit_id": "619948378",
+  "unlock": "",
+  "location": "Horse Racing Track in Dunley Farmlands",
+  "description": "Sir Erwin is an expert horseman, known both for his skill on horseback and unbearable company at formal events. Being generally disliked by his superiors but too skilled and devoted to the Light to exile to Farbane, he was instead sent to prepare for a grand offensive against the Cult of the Damned. Atop his fearless steed, Charger, he trains at the Dunley Horse Track, waiting for his promised troops. Surely, they'll arrive any day now.",
+  "loot": [
+   {
+    "name": "Tier 2 Recipe Books",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Regular Ruby",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Swipe",
+    "desc": "His basic melee attack consisting of a delayed horizontal swing with his sword. This attack has low range but swings in a wide arc."
+   },
+   {
+    "name": "Twin Lightning",
+    "desc": "He shouts \"Twin Lightning!\" or \"Spears of Glory!\" and fires 2 Ball Lightning projectiles. These projectiles track where the player is moving and launch in that direction rather than directly at the player. He will sometimes cancel this ability early to use another one, resulting in only 1 or even 0 projectiles."
+   },
+   {
+    "name": "Holy Artillery",
+    "desc": "He shouts \"Holy Artillery!\" or \"From the Heavens!\" and 2 area of effect lightning blasts strike from the sky after a brief delay."
+   },
+   {
+    "name": "Stunning Leap",
+    "desc": "His horse leaps high into the air, then crashes down dealing lightning damage in a large area. Erwin is briefly stunned after landing."
+   },
+   {
+    "name": "Lightning Charge",
+    "desc": "He shouts \"Bravely forward, Charger!\", \"Sally forth!\", or \"Charge!!!\" and charges at the player, stunning them if he hits."
+   },
+   {
+    "name": "Hyper Charge",
+    "desc": "His horse rears up on its hind legs, he raises his sword in the air, shouts \"Charger, I think I've got it!\", \"Charge like thunder!\", or \"The Heavens are on my side!\" and charges toward the player while small lightning bolts strike in a wave that follows his charge."
+   }
+  ],
+  "brutal": true,
+  "icon": "/icons/sir_erwin_the_gallant_cavalier.png"
+ },
+ {
+  "title": "Sir Magnus the Overseer",
+  "slug": "sir-magnus-the-overseer",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Sirmagnustheoverseer.png",
+   "Weapon SirMagnusTheOverseer.png",
+   "Item SirMagnusTheOverseer.png",
+   "Armour SirMagnusTheOverseer.png",
+   "SirMagnusTheOverseer.png",
+   "SirMagnustheOverseer.png"
+  ],
+  "intro": "Magnus can be found in the Sacred Silver Mine in Silverlight Hills. Magnus is at the mouth of the mine, blocked by a gate which cannot be opened from the outside. Skirting the western or eastern edge of the mine's perimeter heading north, the player will find an entrance by jumping from a series of ledges. To exit the mine, Magnus must be defeated or sprinted past to open the gate with the interact key (F).",
+  "level": 66.0,
+  "unit_id": "-26105228",
+  "unlock": "",
+  "location": "Sacred Silver Mine in Silverlight Hills",
+  "description": "A fanatical servant of the Church of Luminance, his blind faith in the Light makes him the perfect candidate for Overseer of the Silver Mines. He is willing to look past the vile actions of the church, and even enforce them if it's in the interest of what he believes is the greater good. Even if it means doing something he might never condone, such as forced labor, or exiling his beloved daughter.",
+  "loot": [
+   {
+    "name": "Rare Ancestral Sword",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Tier 3 Recipe Books",
+    "amount": null,
+    "chance": "40%"
+   },
+   {
+    "name": "Gold Jewelry",
+    "amount": null,
+    "chance": "60%"
+   },
+   {
+    "name": "Blood Jewel Tier 3",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 3",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Flawless Ruby",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Exquisite Heart",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [],
+  "brutal": false,
+  "icon": "/icons/sir_magnus_the_overseer.png"
+ },
+ {
+  "title": "Solarus the Immaculate",
+  "slug": "solarus-the-immaculate",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Solarustheimmaculate.png",
+   "Weapon SolarusTheImmaculate.png",
+   "Item SolarusTheImmaculate.png",
+   "Armour SolarusTheImmaculate.png",
+   "SolarusTheImmaculate.png",
+   "SolarustheImmaculate.png"
+  ],
+  "intro": "Solarus can be found inside the Fortress of Light located at the Eastern edge of the Silverlight Hills. __TOC__",
+  "level": 86.0,
+  "unit_id": "-740796338",
+  "unlock": "",
+  "location": "Fortress of Light",
+  "description": "A legendary paladin of the Light and the oldest living member of the Church of Luminance. He has watched firsthand the descent of mankind with disinterest. A pioneer from the age of heroes, he remembers the struggle of facing down Dracula’s armies until all hope was lost. He remembers finding the light... He remembers the satisfaction of lifting his holy blade to the Immortal King, and striking down the greatest evil the world has ever seen. He yearns to return to the days where he knew glory.",
+  "loot": [
+   {
+    "name": "Epic Ancestral Sword",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Onyx Tear",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Tier 3 Recipe Books",
+    "amount": null,
+    "chance": "20%"
+   },
+   {
+    "name": "Blood Jewel Tier 3",
+    "amount": null,
+    "chance": "33%"
+   },
+   {
+    "name": "Flawless Ruby",
+    "amount": 3,
+    "chance": "100%"
+   },
+   {
+    "name": "Exquisite Heart",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [],
+  "brutal": false,
+  "icon": "/icons/solarus_the_immaculate.png"
+ },
+ {
+  "title": "Stavros the Carver",
+  "slug": "stavros-the-carver",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Stavrosthecarver.png",
+   "Weapon StavrosTheCarver.png",
+   "Item StavrosTheCarver.png",
+   "Armour StavrosTheCarver.png",
+   "StavrosTheCarver.png",
+   "StavrostheCarver.png"
+  ],
+  "intro": "Stavros is found in the Carvers Logging Outpost in the west of Oakveil Woodlands.",
+  "level": 75.0,
+  "unit_id": "-1669199769",
+  "unlock": "",
+  "location": "Carvers Logging Outpost in Oakveil Woodlands",
+  "description": "One will not expect a simple craftsman to be so vicious in battle, but none represent the Venom Blades' endless thirst for havoc and consumption better that Stavros. From carving the trees with runes of corruption to harvesting the Venom Sap those trees produce, he works with a cold glee. Whether it be bark or flesh, every cut of his knife is a show of his devotion to the great witch Megara. Like any Venom Blade, he loves and fears his queen in equal measure, revering her as a goddess and looking to her for higher purpose.",
+  "loot": [
+   {
+    "name": "Rare Ancestral Sword",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Tier 3 Recipe Books",
+    "amount": null,
+    "chance": "40%"
+   },
+   {
+    "name": "Gold Jewelry",
+    "amount": null,
+    "chance": "60%"
+   },
+   {
+    "name": "Blood Jewel Tier 3",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 3",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Flawless Ruby",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Exquisite Heart",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [],
+  "brutal": false,
+  "icon": "/icons/stavros_the_carver.png"
+ },
+ {
+  "title": "Talzur the Winged Horror",
+  "slug": "talzur-the-winged-horror",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Talzurthewingedhorror.png",
+   "Weapon TalzurTheWingedHorror.png",
+   "Item TalzurTheWingedHorror.png",
+   "Armour TalzurTheWingedHorror.png",
+   "TalzurTheWingedHorror.png",
+   "TalzurtheWingedHorror.png"
+  ],
+  "intro": "Talzur can be found in the The Dreaded Peak located on the Eastern edge of the Farbane Woods. You will need to use Bat Form in order to reach this area. Talzur will also be found flying around Dracula's Demise, bombarding any player that enters, though she cannot be fought there.",
+  "level": 86.0,
+  "unit_id": "-393555055",
+  "unlock": "",
+  "location": "The Dreaded Peak",
+  "description": "A creature that was once one of Dracula’s favorite pets. The monster mourned the death of its master in a blood-soaked vigil, enduring the toxic, bloody rains that followed Dracula’s death for seven days and seven nights. Unlike the many creatures that suffered under the rains, this one embraced the agony. Through its love and devotion for the tyrant king, it was able to embrace all of the hatred passed down through the downpour’s curse and become The Winged Horror.",
+  "loot": [
+   {
+    "name": "Epic Ancestral Sword",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Onyx Tear",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Tier 3 Recipe Books",
+    "amount": null,
+    "chance": "20%"
+   },
+   {
+    "name": "Blood Jewel Tier 3",
+    "amount": null,
+    "chance": "33%"
+   },
+   {
+    "name": "Flawless Ruby",
+    "amount": 3,
+    "chance": "100%"
+   },
+   {
+    "name": "Exquisite Heart",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Retreat",
+    "desc": "During the fight, The Winged Horror will retreat directly away from the player whenever they get close. This weirdly happens even if The Winged Horror itself gets close to the player instead of the other way around."
+   },
+   {
+    "name": "Debuffs",
+    "desc": "The Winged Horror fight features two unique debuffs. The first is a damage over time, applied by it's Chaos attacks and the second one slowing down the player, applied by it's Frost attacks. If the player is burning and gets hit with a frost attack the burning will be cleansed and the slowing effect will take effect, and vice versa. This makes it so the player can never be affected by both debuffs at the same time. The debuffs last for about 10 seconds each."
+   },
+   {
+    "name": "Projectiles",
+    "desc": "The Winged Horror's projectiles are either Chaos Volley style fireballs or Crystal Lance icicles, applying the burning and slowing debuffs respectively. The icicles in particular always split into two additional icicles, forming a Y pattern. These secondary icicles do not split further."
+   },
+   {
+    "name": "Fire Breath",
+    "desc": "The Winged Horror flies up and spews fire down to the ground in one spot for a few seconds. Fireballs will shoot out from the location of the stream. When the fireballs land they deal damage and scorch the ground. The player will take damage and be inflicted with the burning debuff if they step on the scorched ground."
+   },
+   {
+    "name": "Flare Charge",
+    "desc": "The Winged Horror will unfurl it's wings one at a time while also summoning a fireball on either side of it's body. Afterwards, it and the fireballs quickly charge towards the location it was facing, dealing damage to the player. If the player is hit by The Winged Horror instead of the fireballs, they will be pushed back and will very likely be attacked by a swipe. If the player is behind The Winged Horror, it is likely The Horror will attempt a Tail Whip instead. Later in the fight, the charge will spread scorched ground if it comes into contact with any."
+   },
+   {
+    "name": "Swipe and Tail whip",
+    "desc": "The Winged Horror swipes forwards with it claws or whips with it's tail. Both attacks deal damage in an arc while shooting a volley of icicles. The tail whip is used only when the player is behind The Winged Horror."
+   },
+   {
+    "name": "Spin",
+    "desc": "The Winged Horror curls up before spinning in place, dealing damage around itself and knocking back players while firing icicles all around itself."
+   },
+   {
+    "name": "Fireball Drop",
+    "desc": "Starting at around 70% health, The Winged Horrror will fly up and across the battlefield while dropping fireballs that scorch the earth. Once it's done dropping fireballs, The Horror will violently crash back down to the arena. As the fight progresses, The Horror will do multiple flights over the battlefield, each with it's own set of fireballs."
+   },
+   {
+    "name": "Frost Vortex",
+    "desc": "Starting at around 70% health, The Winged Horror will roar, causing snow to build up in an area. Shortly afterwards, a blizzard will appear in the area, dealing damage to players inside."
+   },
+   {
+    "name": "Fireball Volley 1",
+    "desc": "Starting at around 50% health, The Winged Horror will breathe 4 sets of fireballs in a semi-circle in front of itself. The first and third set of fireballs are lighter in color and have consistent speed while the second and fourth set have darker and move at different speeds, causing them to cover the space between the first and third set's space in between the fireballs. The fireballs leave behind scorched earth when they disappear."
+   },
+   {
+    "name": "Fireball Volley 2",
+    "desc": "Starting at around 30% health, The Winged Horror will spawn 2 Chaos vortexes on either side of itself and begin violently batting it's wings, causing a strong gust of wind. The player is pushed back constantly by the wind while the vortexes shoot fireballs towards the player. The batting of it's wings will also spread scorched earth if any is caught in the area."
+   }
+  ],
+  "brutal": false,
+  "icon": "/icons/talzur_the_winged_horror.png"
+ },
+ {
+  "title": "Terah the Geomancer",
+  "slug": "terah-the-geomancer",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Terahthegeomancer.png",
+   "Weapon TerahTheGeomancer.png",
+   "Item TerahTheGeomancer.png",
+   "Armour TerahTheGeomancer.png",
+   "TerahTheGeomancer.png",
+   "TerahtheGeomancer.png"
+  ],
+  "intro": "She can be found in the Bedrock Pass located in the North-Western region of Dunley Farmlands.",
+  "level": 53.0,
+  "unit_id": "-1065970933",
+  "unlock": "",
+  "location": "Bedrock Pass",
+  "description": "The result of a long line of earth speakers, Terah resides up in the solitude of the mountains among sparkling gem veins and rugged boulders. Despite her stoic appearance and demeanour, communing with the spirits of nature has driven her quite insane.",
+  "loot": [
+   {
+    "name": "MagicSource",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Tier 2 Recipe Books",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Regular Ruby",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   }
+  ],
+  "attacks": [],
+  "brutal": false
+ },
+ {
+  "title": "Terrorclaw the Ogre",
+  "slug": "terrorclaw-the-ogre",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Terrorclawtheogre.png",
+   "Weapon TerrorclawTheOgre.png",
+   "Item TerrorclawTheOgre.png",
+   "Armour TerrorclawTheOgre.png",
+   "TerrorclawTheOgre.png",
+   "TerrorclawtheOgre.png"
+  ],
+  "intro": "Ogre can be found in the Frozen Cave within the Hallowed Mountains.",
+  "level": 76.0,
+  "unit_id": "-1347412392",
+  "unlock": "",
+  "location": "Frozen Cave",
+  "description": "A creature whose story has long since been lost to the ages, thought not without resemblance to some few legendary creatures that were once men. One cannot help but wonder what strange corruption has taken root in Vardoran.",
+  "loot": [
+   {
+    "name": "Rare Ancestral Sword",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Tier 3 Recipe Books",
+    "amount": null,
+    "chance": "40%"
+   },
+   {
+    "name": "Gold Jewelry",
+    "amount": null,
+    "chance": "60%"
+   },
+   {
+    "name": "Blood Jewel Tier 3",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 3",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Flawless Ruby",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Exquisite Heart",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Swipe",
+    "desc": "Terrorclaw swipes in front of him, then slams forward, freezing."
+   },
+   {
+    "name": "Charge",
+    "desc": "Terrorclaw roars, then leaps forward and bites."
+   },
+   {
+    "name": "Slam",
+    "desc": "Terrorclaw slams the ground, creating three lines of ice. After a delay, icicles appear on the lines, freezing. Ice Block/Phantom Aegis can be used to MITIGATE the damage received if a dodge/side step is not an option for you or a teammate."
+   },
+   {
+    "name": "Roar",
+    "desc": "Terrorclaw roars, incapacitating nearby enemies."
+   },
+   {
+    "name": "Icicles",
+    "desc": "Terrorclaw slams the ground multiple times, causing icicles to be dropped on the ground. These block most of his abilites."
+   },
+   {
+    "name": "Throw ice",
+    "desc": "Terrorclaw picks up a icicle, then throws to the player stunning on hit. This projectile pierces icicles on the ground. Looks to be intercepting (aimed toward a location which would hit if the target kept moving in the same direction). This attack can be fully parried with abilities such as Blood Rite, abilities such as Ward Of The Damned will NOT work(Ward of the Damned appears to work as of the Gloomrot update)."
+   },
+   {
+    "name": "Freezing breath",
+    "desc": "Terrorclaw glows blue-white, then releases two waves in a large cone, freezing. The damage scales with proximity. This attack is blocked by icicles."
+   },
+   {
+    "name": "Arctic leap",
+    "desc": "Terrorclaw leaps in the air, slamming down in a large area dealing AoE damage. Upon landing, 4 novas of frost radiate out from the center, freezing."
+   }
+  ],
+  "brutal": false,
+  "icon": "/icons/terrorclaw_the_ogre.png"
+ },
+ {
+  "title": "Tristan the Vampire Hunter",
+  "slug": "tristan-the-vampire-hunter",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Tristanthevampirehunter.png",
+   "Weapon TristanTheVampireHunter.png",
+   "Item TristanTheVampireHunter.png",
+   "Armour TristanTheVampireHunter.png",
+   "TristanTheVampireHunter.png",
+   "TristantheVampireHunter.png"
+  ],
+  "intro": "Tristan can be found patrolling on the northern roads of the Farbane Woods. The Militia and Bandits are passive to him and will allow him to pass by them without issue, but he is hostile towards Undead and Creature enemies.",
+  "level": 44.0,
+  "unit_id": "-1449631170",
+  "unlock": "Blood Hunger",
+  "location": "Roaming the roads of Farbane Woods & Dunley Farmlands",
+  "description": "A cold-blooded killer, and the scion of a long line of vampire hunters. Few are as prepared to face the rising tide of vampire threat as Tristan, and his drive to exterminate the last of the unholy threat is second to none.",
+  "loot": [
+   {
+    "name": "Tier 2 Recipe Books",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Regular Ruby",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Vampire Hunter",
+    "amount": null,
+    "chance": "15%"
+   },
+   {
+    "name": "Vampire Hunter 2",
+    "amount": null,
+    "chance": "5%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Flaming strike",
+    "desc": "He coats his sword with fire and then swipes forward in an overhead swing after a short delay. This attack lights the player on fire if it hits them."
+   },
+   {
+    "name": "Icy swing",
+    "desc": "He coats his sword with ice and then immediately sweeps it in a wide arc in front of him that inflicts . He often uses this as a follow-up attack after Flaming strike."
+   },
+   {
+    "name": "Lunge",
+    "desc": "He leaps forward while thrusting his sword. This attack briefly snares the player if it hits them, but can be blocked by counter or shield abilities."
+   },
+   {
+    "name": "Flaming Crossbow",
+    "desc": "He draws his crossbow and fires a flaming bolt at the player. If the bolt hits the player, a minion, or the environment it will detonate and light a large area of the ground on fire. If blocked by a shield spell or countered, the bolt will disappear without leaving a flame patch."
+   },
+   {
+    "name": "Fire Bombs",
+    "desc": "He throws a fire bomb in the air which explodes into 5 separate bombs, lighting the ground on fire for several seconds when they land. He will often follow up this attack by firing his crossbow immediately afterwards."
+   }
+  ],
+  "brutal": true,
+  "icon": "/icons/tristan_the_vampire_hunter.png"
+ },
+ {
+  "title": "Ungora the Spider Queen",
+  "slug": "ungora-the-spider-queen",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Ungorathespiderqueen.png",
+   "Weapon UngoraTheSpiderQueen.png",
+   "Item UngoraTheSpiderQueen.png",
+   "Armour UngoraTheSpiderQueen.png",
+   "UngoraTheSpiderQueen.png",
+   "UngoratheSpiderQueen.png"
+  ],
+  "intro": "Ungora can be found within the Spider Cave in the Cursed Forest region.",
+  "level": 63.0,
+  "unit_id": "-548489519",
+  "unlock": "Spider Form",
+  "location": "Spider Cave",
+  "description": "A massive spider of legendary age and progeny. The Spider Queen resides in the twisted, web-woven depths of Cursed Forest's winding caverns. No living creature save for her children has ever entered and lived to tell the tale.",
+  "loot": [
+   {
+    "name": "Rare Ancestral Sword",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Tier 2 Recipe Books",
+    "amount": null,
+    "chance": "15%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Exquisite Heart",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Flawless Ruby",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [],
+  "brutal": false,
+  "icon": "/icons/ungora_the_spider_queen.png"
+ },
+ {
+  "title": "Vincent the Frostbringer",
+  "slug": "vincent-the-frostbringer",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Vincentthefrostbringer.png",
+   "Weapon VincentTheFrostbringer.png",
+   "Item VincentTheFrostbringer.png",
+   "Armour VincentTheFrostbringer.png",
+   "VincentTheFrostbringer.png",
+   "VincenttheFrostbringer.png"
+  ],
+  "intro": "Vincent can be found patrolling the central region of the Dunley Farmlands, starting and ending in the Militia Encampment just north of Haunted Iron Mine. His path proceeds southwest before turning north around the eastern side of Mosswick Village, heading to the northern roads of Dunley, then turning south past the eastern side of the Dunley Farmers Market to circle back to his starting point. He is guarded by two Militia Crossbowmen.",
+  "level": 44.0,
+  "unit_id": "-29797003",
+  "unlock": "",
+  "location": "Patrols the roads of Dunley Farmlands",
+  "description": "A stalwart champion of law and order in Dunley, it's his mission to protect the common people with his chilling gifts. Some say his methods have been getting more harsh and violent ever since his sister was banished.",
+  "loot": [
+   {
+    "name": "Tier 2 Recipe Books",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Regular Ruby",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Double Swipe",
+    "desc": "His basic melee attack consists of 2 swipes with his mace that inflict ."
+   },
+   {
+    "name": "Frost Barrier",
+    "desc": "He creates a reflective shield that radiates a cone of frost damage which inflicts if hit. The shield does not deflect AoE attacks such as Bone Explosion or the crossbow's Rain of Bolts."
+   },
+   {
+    "name": "Crystal Lance",
+    "desc": "He holds his shield in the air, then swipes it in front of him, firing 5 ice projectiles in a cone that inflict . This ability is signaled by a distinct shrill sound effect."
+   },
+   {
+    "name": "Chill Charge",
+    "desc": "He shouts \"I feel a chill coming on!\" and gains increased movement speed as well as ice particles around his feet. After running back and forth for a moment he will charge toward the player and inflict if he hits them, then repeat this process 2 more times."
+   },
+   {
+    "name": "Ice Vortex",
+    "desc": "He holds his shield in the air and conjures a large vortex of ice around him that inflicts . After a brief delay the vortex detonates, dealing massive damage to players inside it. The explosion deals damage a little further than the area indicates and the damage cannot be blocked by counter or barrier spells but can be dodged with a Veil dash."
+   }
+  ],
+  "brutal": true,
+  "icon": "/icons/vincent_the_frostbringer.png"
+ },
+ {
+  "title": "Voltatia the Power Master",
+  "slug": "voltatia-the-power-master",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Voltatiathepowermaster.png",
+   "Weapon VoltatiaThePowerMaster.png",
+   "Item VoltatiaThePowerMaster.png",
+   "Armour VoltatiaThePowerMaster.png",
+   "VoltatiaThePowerMaster.png",
+   "VoltatiathePowerMaster.png"
+  ],
+  "intro": "Voltatia can be found in the Trancendum Power Plant in Gloomrot North.",
+  "level": 79.0,
+  "unit_id": "2054432370",
+  "unlock": "",
+  "location": "Trancendum Power Plant in Gloomrot North",
+  "description": "The trusted Right Hand of Doctor Henry Blackbrew, Voltatia is responsible for the maintenance and protection of the entire electric pipeline of Gloomrot, providing the region with their much needed energy supply. A stern professional and born leader, Voltatia operates with psychotic efficiency, and has little emotional desire beyond keeping The Doctor's operation running smoothly.",
+  "loot": [
+   {
+    "name": "Epic Ancestral Sword",
+    "amount": null,
+    "chance": "5%"
+   },
+   {
+    "name": "Onyx Tear",
+    "amount": null,
+    "chance": "4%"
+   },
+   {
+    "name": "Tier 3 Recipe Books",
+    "amount": null,
+    "chance": "22%"
+   },
+   {
+    "name": "Blood Jewel Tier 3",
+    "amount": null,
+    "chance": "74%"
+   },
+   {
+    "name": "Flawless Ruby",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Exquisite Heart",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [],
+  "brutal": false,
+  "icon": "/icons/voltatia_the_power_master.png"
+ },
+ {
+  "title": "Willfred the Village Elder",
+  "slug": "willfred-the-village-elder",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Willfredthewerewolfchief.png",
+   "Weapon WillfredTheVillageElder.png",
+   "Item WillfredTheVillageElder.png",
+   "Armour WillfredTheVillageElder.png",
+   "WillfredTheVillageElder.png",
+   "WillfredtheVillageElder.png"
+  ],
+  "intro": "Willfred can be found in the Gracefall Village located in the North-Eastern region of Dunley Farmlands, but can only be fought as Willfred the Werewolf Chief during nighttime. During Daytime, Willfred reverts to human form, becoming Willfred the Village Elder, and dies if you kill him, preventing you from drinking his blood. If human form Willfred is killed, the normal V blood respawn timer will start. It is not possible to try and fight Willfred at lower hp by damaging him during the day first; When Willfred transforms back into werewolf form, all HP is regained.",
+  "level": 64.0,
+  "unit_id": "-1007062401",
+  "unlock": "",
+  "location": "Gracefall Village",
+  "description": "An honored and deeply respected chief of a small, reclusive village of outcasts. Despite the imminent threat of the Cult of the Damned, dangerous wildlife, and even the rumor of Werewolves stalking northern Dunley, he manages to keep his people fed and happy.",
+  "loot": [
+   {
+    "name": "Rare Ancestral Sword",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Tier 2 Recipe Books",
+    "amount": null,
+    "chance": "15%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Exquisite Heart",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Flawless Ruby",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [
+   {
+    "name": "Swipe",
+    "desc": "Willfred will swipe at you up to 2 times. This is extended if he hits both swipes, or cut short if you leave his range."
+   },
+   {
+    "name": "Rage",
+    "desc": "Willfred glows red, walks towards you quickly, and bites at you 3 times in quick succession."
+   },
+   {
+    "name": "Lunge",
+    "desc": "Willfred gets on all fours and prepares to lunge at you. This will inflict a 3 second stun and deal heavy damage as he shouts \"Hold still\"."
+   },
+   {
+    "name": "Heart Strike",
+    "desc": "Willfred will turn invisible and encircle his prey. On Brutal Difficulty, Willfred will also summon a Frost Wolf for every player in combat. When he reveals himself again, Willfred will lunge at you with an attack that inflicts the Heart Strike debuff, This explodes and deals damage after 3 seconds. This attack's application and explosion cannot be countered, only evaded If an invulnerability effect is active when the effect expires, such as that from a successful counter or a dash, no damage will be taken . Occasionally Willfred will summon a copy of himself, which also performs Heart Strike once in close proximity. This appears to trigger randomly. Citation needed"
+   }
+  ],
+  "brutal": false,
+  "icon": "/icons/willfred_the_village_elder.png"
+ },
+ {
+  "title": "Ziva the Engineer",
+  "slug": "ziva-the-engineer",
+  "category": "V Blood",
+  "infobox": "Boss Infobox",
+  "images": [
+   "Zivatheengineer.png",
+   "Weapon ZivaTheEngineer.png",
+   "Item ZivaTheEngineer.png",
+   "Armour ZivaTheEngineer.png",
+   "ZivaTheEngineer.png",
+   "ZivatheEngineer.png"
+  ],
+  "intro": "Ziva can be found in the Trancendum Machine Factory in Gloomrot South.",
+  "level": 60.0,
+  "unit_id": "172235178",
+  "unlock": "",
+  "location": "Trancendum Machine Factory in Gloomrot South",
+  "description": "The beloved head engineer of weapons at the Machine Factory, Ziva is the embodiment of perfectly delightful destruction. Truly in love with her deadly experiments, she is always at the forefront at pushing for greater means of bringing a suitably painful and spectacular death to whoever ends up on the wrong end of her unstable technology. Which end often changes from trigger pull to trigger pull.",
+  "loot": [
+   {
+    "name": "Rare Ancestral Sword",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Tier 2 Recipe Books",
+    "amount": null,
+    "chance": "15%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "35%"
+   },
+   {
+    "name": "Blood Jewel Tier 2",
+    "amount": null,
+    "chance": "10%"
+   },
+   {
+    "name": "Unsullied Heart",
+    "amount": null,
+    "chance": "100%"
+   },
+   {
+    "name": "Exquisite Heart",
+    "amount": null,
+    "chance": "25%"
+   },
+   {
+    "name": "Flawless Ruby",
+    "amount": null,
+    "chance": "25%"
+   }
+  ],
+  "attacks": [],
+  "brutal": false,
+  "icon": "/icons/ziva_the_engineer.png"
+ }
+]

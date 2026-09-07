@@ -1,0 +1,92 @@
+---
+import Base from "../../layouts/Base.astro";
+import Related from "../../components/Related.astro";
+import armor from "../../data/vrising_armor.json";
+
+export async function getStaticPaths() {
+  return armor.map((a) => ({ params: { slug: a.slug }, props: { a } }));
+}
+const { a } = Astro.props;
+const sameGear = armor
+  .filter((x) => x.slug !== a.slug && x.gear_level && a.gear_level && Math.abs((x.gear_level ?? 0) - (a.gear_level ?? 0)) <= 1)
+  .sort((x, y) => (y.gear_level ?? 0) - (x.gear_level ?? 0))
+  .slice(0, 3);
+const infoRows: [string, string][] = [];
+if (a.is_set) infoRows.push(["Type", "Armour set"]);
+if (a.durability) infoRows.push(["Durability", String(a.durability)]);
+if (a.salvageable) infoRows.push(["Salvage", String(a.salvageable)]);
+---
+
+<Base
+  title={`${a.title} — V Rising Armor Stats (Gear ${a.gear_level ?? "—"})`}
+  description={`${a.title}: gear level ${a.gear_level ?? "—"}${a.stats ? ", " + a.stats : ""}${a.set_bonus ? ". Set bonus: " + a.set_bonus : ""} in V Rising.`}
+>
+  <p style="margin:0"><a href="/armor/">← All armour</a></p>
+  <h1 class="icon-h1">
+    {a.icon && <img src={a.icon} alt="" width="52" height="52" loading="eager" />}
+    {a.title}
+  </h1>
+  <p>
+    {a.is_set && <span class="tag">Armour set</span>}
+    {a.gear_level && <span class="tag">Gear {a.gear_level}</span>}
+  </p>
+
+  {a.intro && <p class="muted">{a.intro}</p>}
+
+  {a.gear_level !== null && (
+    <div class="card answer-card">
+      <div class="stat-row">
+        {a.gear_level !== null && (
+          <div>
+            <div class="stat-num">{a.gear_level}</div>
+            <div class="stat-label">Gear level</div>
+          </div>
+        )}
+        {a.durability !== null && (
+          <div>
+            <div class="stat-num">{a.durability}</div>
+            <div class="stat-label">Durability</div>
+          </div>
+        )}
+      </div>
+    </div>
+  )}
+
+  {a.stats && (
+    <section>
+      <h2>Stats</h2>
+      <p>{a.stats}</p>
+    </section>
+  )}
+
+  {a.set_bonus && (
+    <section>
+      <h2>Set bonus</h2>
+      <p>{a.set_bonus}</p>
+    </section>
+  )}
+
+  {infoRows.length > 0 && (
+    <section>
+      <h2>Details</h2>
+      <table>
+        <tbody>
+          {infoRows.map(([k, v]) => (
+            <tr><th style="width:40%">{k}</th><td>{v}</td></tr>
+          ))}
+        </tbody>
+      </table>
+    </section>
+  )}
+
+  <Related
+    heading="Next steps"
+    links={[
+      { href: "/rankings/#armor", title: "Armour gear-level ranking", sub: "Best armour in V Rising", tool: true },
+      { href: "/vblood/", title: "V Blood boss list", sub: "Farm the materials you need", tool: true },
+      ...sameGear.map((x) => ({
+        href: `/armor/${x.slug}/`, title: x.title, sub: `Gear ${x.gear_level}`, icon: x.icon,
+      })),
+    ]}
+  />
+</Base>

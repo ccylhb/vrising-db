@@ -1,0 +1,64 @@
+---
+import Base from "../../layouts/Base.astro";
+import DataTable from "../../components/DataTable.astro";
+import vblood from "../../data/vrising_vblood.json";
+
+const sorted = [...vblood].sort((a, b) => (a.level ?? 999) - (b.level ?? 999) || String(a.title).localeCompare(String(b.title)));
+const zones = new Map<string, number>();
+for (const b of vblood) {
+  const loc = String(b.location || "Unknown").trim();
+  zones.set(loc, (zones.get(loc) || 0) + 1);
+}
+const zoneList = [...zones.entries()].sort((a, b) => b[1] - a[1]).slice(0, 6);
+const brutalCount = vblood.filter((b) => b.brutal).length;
+---
+
+<Base
+  title="V Rising V Blood Carriers — Level, Location & Loot for Every Boss"
+  description={`All ${vblood.length} V Blood carriers ranked by level: where each boss lives, what vampire power they unlock and their full loot table with drop chances.`}
+>
+  <h1>V Blood Carriers</h1>
+  <p class="muted">
+    {vblood.length} V Blood bosses from level {Math.min(...vblood.map((b) => b.level ?? 99))} to {Math.max(...vblood.map((b) => b.level ?? 0))}. Defeat each to unlock its vampire power. {brutalCount} have brutal difficulty variants.
+  </p>
+
+  <div class="grid grid-3" style="margin:1.25rem 0">
+    <div class="card" style="padding:0.9rem 1.1rem">
+      <strong>{vblood.length}</strong>
+      <div class="muted">V Blood bosses</div>
+    </div>
+    <div class="card" style="padding:0.9rem 1.1rem">
+      <strong>{brutalCount}</strong>
+      <div class="muted">Brutal variants</div>
+    </div>
+    <div class="card" style="padding:0.9rem 1.1rem">
+      <strong>{zoneList.length > 0 ? zoneList[0][0] : "—"}</strong>
+      <div class="muted">Top hunting zone</div>
+    </div>
+  </div>
+
+  <h2>All V Blood by level</h2>
+  <DataTable
+    head={["Boss", "Level", "Power unlocked", "Location", "Loot items", "Brutal"]}
+    rows={sorted.map((b) => [
+      `<a href="/vblood/${b.slug}/">${b.title}</a>`,
+      b.level ?? "—",
+      b.unlock || "—",
+      b.location || "—",
+      b.loot && b.loot.length ? String(b.loot.length) : "—",
+      b.brutal ? "Yes" : "—",
+    ])}
+    searchPlaceholder="Search bosses (name, power, location)..."
+  />
+
+  <section>
+    <h2>Where to hunt</h2>
+    <table>
+      <tbody>
+        {zoneList.map(([z, n]) => (
+          <tr><th style="width:40%">{z}</th><td>{n} {n === 1 ? "boss" : "bosses"}</td></tr>
+        ))}
+      </tbody>
+    </table>
+  </section>
+</Base>

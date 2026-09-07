@@ -1,0 +1,31 @@
+{
+  "siteName": "VRisingDB",
+  "siteUrl": "https://vrising-db.pages.dev",
+  "tagline": "V Rising database — V Blood boss levels, weapon power & drops",
+  "description": "V Rising V Blood carrier levels & locations, weapon gear level and physical power, armour set bonuses and consumables — a searchable database with rankings.",
+  "adsenseClientId": "ca-pub-3245910354455258",
+  "adsensePublisherId": "pub-3245910354455258",
+  "theme": {
+    "bg": "#120d12",
+    "bgSoft": "#1c1419",
+    "card": "#251a21",
+    "border": "#3a2a34",
+    "text": "#f2e8ee",
+    "muted": "#b09aa6",
+    "accent": "#d6375c",
+    "accent2": "#c9a227",
+    "good": "#7bd88f",
+    "bad": "#f26d6d"
+  },
+  "favicon": "🩸",
+  "nav": [
+    { "label": "Home", "href": "/" },
+    { "label": "V Blood", "href": "/vblood/", "tool": true },
+    { "label": "Weapons", "href": "/weapons/" },
+    { "label": "Armor", "href": "/armor/" },
+    { "label": "Consumables", "href": "/consumables/" },
+    { "label": "Rankings", "href": "/rankings/", "tool": true },
+    { "label": "Loot Finder", "href": "/loot-finder/", "tool": true }
+  ],
+  "footerNote": "Fan-made database. V Rising is a trademark of Stunlock Studios. Not affiliated with the game developer or VRising Wiki."
+}

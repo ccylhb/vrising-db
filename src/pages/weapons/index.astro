@@ -1,0 +1,69 @@
+---
+import Base from "../../layouts/Base.astro";
+import DataTable from "../../components/DataTable.astro";
+import weapons from "../../data/vrising_weapons.json";
+
+const types = new Map<string, number>();
+for (const w of weapons) {
+  const t = String(w.weapon_type || "Other");
+  types.set(t, (types.get(t) || 0) + 1);
+}
+const typeList = [...types.entries()].sort((a, b) => b[1] - a[1]);
+const best = [...weapons].sort((a, b) => (b.physical_power ?? 0) - (a.physical_power ?? 0)).slice(0, 5);
+---
+
+<Base
+  title="V Rising Weapons — Gear Level & Physical Power for Every Weapon"
+  description={`V Rising weapon database: ${weapons.length} weapons across ${typeList.length} types with gear level, physical power, durability and bonus stats, from Bone to Sanguine tier.`}
+>
+  <h1>Weapons</h1>
+  <p class="muted">
+    {weapons.length} weapons. Physical power shown at base quality; every weapon type upgrades through copper, iron, dark silver and sanguine tiers.
+  </p>
+
+  <div class="grid grid-3" style="margin:1.25rem 0">
+    <div class="card" style="padding:0.9rem 1.1rem">
+      <strong>{weapons.length}</strong>
+      <div class="muted">Weapons</div>
+    </div>
+    <div class="card" style="padding:0.9rem 1.1rem">
+      <strong>{typeList.length}</strong>
+      <div class="muted">Weapon types</div>
+    </div>
+    <div class="card" style="padding:0.9rem 1.1rem">
+      <strong>{best[0]?.title || "—"}</strong>
+      <div class="muted">Highest physical power</div>
+    </div>
+  </div>
+
+  <h2>All weapons</h2>
+  <DataTable
+    head={["Weapon", "Type", "Gear", "Power", "Durability", "Bonus"]}
+    rows={[...weapons]
+      .sort((a, b) => (b.physical_power ?? 0) - (a.physical_power ?? 0) || String(a.title).localeCompare(String(b.title)))
+      .map((w) => [
+        `<a href="/weapons/${w.slug}/">${w.title}</a>`,
+        w.weapon_type || "—",
+        w.gear_level ?? "—",
+        w.physical_power ?? "—",
+        w.durability ?? "—",
+        w.stats || "—",
+      ])}
+    searchPlaceholder="Search weapons (name, type, bonus)..."
+  />
+
+  <section>
+    <h2>Top physical power</h2>
+    <table>
+      <tbody>
+        {best.map((w) => (
+          <tr>
+            <th style="width:50%"><a href={`/weapons/${w.slug}/`}>{w.title}</a></th>
+            <td>{w.weapon_type || "—"}</td>
+            <td>{w.physical_power} power</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </section>
+</Base>

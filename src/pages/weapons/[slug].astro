@@ -1,0 +1,98 @@
+---
+import Base from "../../layouts/Base.astro";
+import Related from "../../components/Related.astro";
+import weapons from "../../data/vrising_weapons.json";
+
+export async function getStaticPaths() {
+  return weapons.map((w) => ({ params: { slug: w.slug }, props: { w } }));
+}
+const { w } = Astro.props;
+const sameType = weapons
+  .filter((x) => x.slug !== w.slug && x.weapon_type && String(x.weapon_type).toLowerCase() === String(w.weapon_type || "").toLowerCase())
+  .sort((a, b) => (b.physical_power ?? 0) - (a.physical_power ?? 0))
+  .slice(0, 3);
+const infoRows: [string, string][] = [];
+if (w.weapon_type) infoRows.push(["Type", String(w.weapon_type)]);
+if (w.durability) infoRows.push(["Durability", String(w.durability)]);
+if (w.salvageable) infoRows.push(["Salvage", String(w.salvageable)]);
+---
+
+<Base
+  title={`${w.title} — V Rising Weapon Stats (Gear ${w.gear_level ?? "—"}, ${w.physical_power ?? "—"} Power)`}
+  description={`${w.title}: gear level ${w.gear_level ?? "—"}, ${w.physical_power ?? "—"} physical power${w.weapon_type ? ", a " + w.weapon_type : ""} in V Rising${w.stats ? ", bonus: " + w.stats : ""}.`}
+>
+  <p style="margin:0"><a href="/weapons/">← All weapons</a></p>
+  <h1 class="icon-h1">
+    {w.icon && <img src={w.icon} alt="" width="52" height="52" loading="eager" />}
+    {w.title}
+  </h1>
+  <p>
+    {w.weapon_type && <span class="tag">{w.weapon_type}</span>}
+    {w.gear_level && <span class="tag">Gear {w.gear_level}</span>}
+  </p>
+
+  {w.intro && <p class="muted">{w.intro}</p>}
+
+  {(w.gear_level !== null || w.physical_power !== null) && (
+    <div class="card answer-card">
+      <div class="stat-row">
+        {w.gear_level !== null && (
+          <div>
+            <div class="stat-num">{w.gear_level}</div>
+            <div class="stat-label">Gear level</div>
+          </div>
+        )}
+        {w.physical_power !== null && (
+          <div>
+            <div class="stat-num">{w.physical_power}</div>
+            <div class="stat-label">Physical power</div>
+          </div>
+        )}
+        {w.durability !== null && (
+          <div>
+            <div class="stat-num">{w.durability}</div>
+            <div class="stat-label">Durability</div>
+          </div>
+        )}
+      </div>
+    </div>
+  )}
+
+  {w.stats && (
+    <section>
+      <h2>Bonus stats</h2>
+      <p>{w.stats}</p>
+    </section>
+  )}
+
+  {w.description && (
+    <section>
+      <h2>Description</h2>
+      <p class="muted">{w.description}</p>
+    </section>
+  )}
+
+  {infoRows.length > 0 && (
+    <section>
+      <h2>Details</h2>
+      <table>
+        <tbody>
+          {infoRows.map(([k, v]) => (
+            <tr><th style="width:40%">{k}</th><td>{v}</td></tr>
+          ))}
+        </tbody>
+      </table>
+    </section>
+  )}
+
+  <Related
+    heading="Next steps"
+    links={[
+      { href: "/rankings/#weapons", title: "Weapon power rankings", sub: "Highest physical power weapons", tool: true },
+      { href: "/vblood/", title: "V Blood boss list", sub: "Find the boss that drops your next recipe", tool: true },
+      ...sameType.map((x) => ({
+        href: `/weapons/${x.slug}/`, title: x.title, sub: `${x.gear_level ?? "—"} gear · ${x.physical_power ?? "—"} power`, icon: x.icon,
+      })),
+    ]}
+  />
+</Base>

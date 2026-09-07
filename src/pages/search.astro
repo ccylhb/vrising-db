@@ -1,0 +1,47 @@
+---
+import Base from "../layouts/Base.astro";
+import vblood from "../data/vrising_vblood.json";
+import weapons from "../data/vrising_weapons.json";
+import armor from "../data/vrising_armor.json";
+import consumables from "../data/vrising_consumables.json";
+
+const all = [
+  ...vblood.map((x: any) => ({ ...x, kind: "Boss", href: `/vblood/${x.slug}/` })),
+  ...weapons.map((x: any) => ({ ...x, kind: "Weapon", href: `/weapons/${x.slug}/` })),
+  ...armor.map((x: any) => ({ ...x, kind: "Armour", href: `/armor/${x.slug}/` })),
+  ...consumables.map((x: any) => ({ ...x, kind: "Consumable", href: `/consumables/${x.slug}/` })),
+].sort((a, b) => String(a.title).localeCompare(String(b.title)));
+const letters = [...new Set(all.map((x) => String(x.title)[0].toUpperCase()))];
+---
+
+<Base
+  title="All V Rising Database Pages — A to Z"
+  description={`Every V Rising entry on one page: ${all.length} bosses, weapons, armour pieces and consumables, sorted A to Z.`}
+>
+  <h1>All pages (A–Z)</h1>
+  <p class="muted">{all.length} entries — bosses, weapons, armour and consumables.</p>
+
+  <div style="display:flex;flex-wrap:wrap;gap:0.35rem;margin:1rem 0">
+    {letters.map((l) => (
+      <a href={`#letter-${l}`} style="padding:0.25rem 0.6rem;border:1px solid var(--border);border-radius:6px;color:inherit;text-decoration:none">{l}</a>
+    ))}
+  </div>
+
+  {letters.map((l) => {
+    const group = all.filter((x) => String(x.title)[0].toUpperCase() === l);
+    return (
+      <section id={`letter-${l}`} style="margin:1.5rem 0">
+        <h2 style="border-bottom:1px solid var(--border);padding-bottom:0.3rem">{l} <span class="muted" style="font-size:0.85rem">({group.length})</span></h2>
+        <div style="columns:2 260px;column-gap:2rem">
+          {group.map((x) => (
+            <p style="margin:0.2rem 0;break-inside:avoid">
+              <a href={x.href} style="color:inherit;text-decoration:none">
+                <span class="muted" style="font-size:0.8rem">[{x.kind}]</span> {x.title}
+              </a>
+            </p>
+          ))}
+        </div>
+      </section>
+    );
+  })}
+</Base>
