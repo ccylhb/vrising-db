@@ -1161,7 +1161,8 @@
     "desc": ": Summons a Young Sea Serpent with a melee bite attack and ranged attack that launches 3 ice projectiles in a fan pattern and applies . Finn may use this attack multiple times if the fight lasts long enough, even if the first serpent is not killed."
    }
   ],
-  "brutal": true
+  "brutal": true,
+  "icon": "/icons/finn_the_fisherman.png"
  },
  {
   "title": "Foulrot the Soultaker",
@@ -3151,7 +3152,8 @@
     "desc": "He says \"Let's test that meat suit of yours!\", then summons a large group of 14 Skeletons."
    }
   ],
-  "brutal": true
+  "brutal": true,
+  "icon": "/icons/nicholaus_the_fallen.png"
  },
  {
   "title": "Octavian the Militia Captain",
@@ -3989,7 +3991,8 @@
    }
   ],
   "attacks": [],
-  "brutal": false
+  "brutal": false,
+  "icon": "/icons/terah_the_geomancer.png"
  },
  {
   "title": "Terrorclaw the Ogre",

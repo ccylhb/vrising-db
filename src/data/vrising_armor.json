@@ -963,7 +963,8 @@
   "set_bonus": "",
   "durability": null,
   "salvageable": "2 Copper Ingot 2 Leather",
-  "is_set": false
+  "is_set": false,
+  "icon": "/icons/immortal_king_s_greathelm.png"
  },
  {
   "title": "Immortal King's Mantle",
@@ -1150,7 +1151,8 @@
   "set_bonus": "(2) Increase movement speed by 4%. (4) Increase attack speed by 4% and increase Gear Level by 1.",
   "durability": 914.0,
   "salvageable": "9 Iron Ingot",
-  "is_set": false
+  "is_set": false,
+  "icon": "/icons/merciless_hollowfang_boots.png"
  },
  {
   "title": "Merciless Hollowfang Gloves",

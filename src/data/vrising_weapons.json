@@ -1246,7 +1246,8 @@
   "salvageable": "3 Greater Blood Essences 3 Reinforced Planks",
   "tags": [
    "Greatsword"
-  ]
+  ],
+  "icon": "/icons/merciless_iron_greatsword.png"
  },
  {
   "title": "Merciless Iron Longbow",
