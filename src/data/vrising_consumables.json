@@ -10,14 +10,13 @@
    "Armour BarrelDisguise.png",
    "BarrelDisguise.png"
   ],
-  "intro": "!Item!!Materials!!Structure ! style=\"width:165px\"|Unlocked By",
+  "intro": "Barrel Disguise is a consumable item in V Rising. The crafting recipe becomes available after defeating Baron du Bouchon the Sommelier, and it can be crafted using the Woodworking Bench. When used, after a short channeling time, it disguises the player while consuming the item. It has the effect of significantly reducing enemy aggro range and player movement speed, while also granting immunity to sunlight during its usage. Utilizing Waygates or interacting within your territory doesn't break the disguise, but taking damage or interacting with structures like chests and containers outside of yo",
   "item_type": "Consumable",
   "description": "Disguise yourself as a Barrel, significantly reduces aggro range but reduces movement speed. You can perform a barrel roll stunning any enemy that you roll into. Rolling into a solid object stuns you instead. Taking any damage breaks the effect. Produced at a Woodworking Bench.",
   "stack_size": 1.0,
   "teleportable": "Yes",
   "salvageable": "No",
-  "tags": [],
-  "icon": "/icons/barrel_disguise.png"
+  "tags": []
  },
  {
   "title": "Blood Coating",
@@ -30,14 +29,13 @@
    "Armour BloodCoating.png",
    "BloodCoating.png"
   ],
-  "intro": "!Item!!Materials!!Structure||Unlocked by",
+  "intro": "Blood Coating is a crafted consumable item. It does not stack with other imbuements. The most recently consumed one will override the other. In the 1.1 October patch its damage was increased to 50% from 40%, and the Blood Orb can no longer be picked up by enemy players. It will instead be \"greyed out\". Blood Orbs restore 7.5% of the player's max health and bypass the in-combat healing cap.",
   "item_type": "Consumable",
   "description": "Imbue your equipped weapon with the essence of blood. Your next primary attack inflicts and , dealing 50% magic damage after 2s and spawning a Blood Orb. The on hit effect recharges every 12s and the imbuement lasts for 60 minutes. Effect persists through death.",
   "stack_size": 10.0,
   "teleportable": "Yes",
   "salvageable": "No",
-  "tags": [],
-  "icon": "/icons/blood_coating.png"
+  "tags": []
  },
  {
   "title": "Blood Merlot",
@@ -50,7 +48,7 @@
    "Armour BloodMerlot.png",
    "BloodMerlot.png"
   ],
-  "intro": "!Resulting Item !Recipe !Structure",
+  "intro": "Blood Merlot is a consumable item in V Rising. It is an improved, more economical version of Blood Potion as it does less harm to the prisoner's health and misery percentages. The crafting recipe becomes available after defeating Baron du Bouchon the Sommelier. To craft a Blood Merlot, players need to harvest blood from prisoners confined within a Prison Cell. The potion retains the blood quality and type of the tapped prisoner at the expense of 25% to 50% of their health and a 5% to 15% increase in their misery. When consumed it fully replenishes one's blood pool with a corresponding quality ",
   "item_type": "Blood Potion",
   "description": "A bloody brew mixed with bitter-sweet grapes. Tap a prisoner of blood at the cost of -25% ~ -50% health. Increases misery by +5% ~ +15%.",
   "stack_size": 1.0,
@@ -58,8 +56,7 @@
   "salvageable": "No",
   "tags": [
    "Consumable"
-  ],
-  "icon": "/icons/blood_merlot.png"
+  ]
  },
  {
   "title": "Blood Potion",
@@ -72,7 +69,7 @@
    "Armour BloodPotion.png",
    "BloodPotion.png"
   ],
-  "intro": "!Resulting Item !Recipe !Structure",
+  "intro": "Blood Potion is a consumable item in V Rising. To craft a Blood Potion, players need to harvest blood from prisoners confined within a Prison Cell. The potion retains the blood quality and type of the tapped prisoner at the expense of 30% to 60% of their health and a 10% to 20% increase in their misery. When consumed it fully replenishes one's blood pool with a corresponding blood quality and type. Can be mixed with other Blood Potions at the Blood Homogenizer.",
   "item_type": "Blood Potion",
   "description": "Tap a prisoner on blood at the cost of -30% ~ -60% health. Increases misery by +10% ~ +20%.",
   "stack_size": 1.0,
@@ -80,8 +77,7 @@
   "salvageable": "No",
   "tags": [
    "Consumable"
-  ],
-  "icon": "/icons/blood_potion.png"
+  ]
  },
  {
   "title": "Blood Rose Brew",
@@ -94,14 +90,13 @@
    "Armour BloodRoseBrew.png",
    "BloodRoseBrew.png"
   ],
-  "intro": "!Item!!Materials!!Structure!!Unlocked By",
+  "intro": "Blood Rose Brew is a crafted consumable item. It can be purchased from the Shady Herb & Potion Dealer for Copper Coins.",
   "item_type": "Consumable",
   "description": "A brew that recovers 40% of your maximum health over 10s. The healing effect is limited when in combat and breaks upon taking damage.",
   "stack_size": 10.0,
   "teleportable": "Yes",
   "salvageable": "No",
-  "tags": [],
-  "icon": "/icons/blood_rose_brew.png"
+  "tags": []
  },
  {
   "title": "Blood Rose Potion",
@@ -114,14 +109,13 @@
    "Armour BloodRosePotion.png",
    "BloodRosePotion.png"
   ],
-  "intro": "!Item!!Materials!!Structure!!Unlocked By",
+  "intro": "Blood Rose Potion is a crafted consumable item. It can be purchased from the Rural Herb & Potion Merchant for Silver Coins or in the City Herb & Potion Vendor and Treasure Hunter Trade Post for Goldsun Coins.",
   "item_type": "Consumable",
   "description": "A potion that recovers 55% of your maximum health over 10s. The healing effect is limited when in combat and breaks upon taking damage.",
   "stack_size": 10.0,
   "teleportable": "Yes",
   "salvageable": "No",
-  "tags": [],
-  "icon": "/icons/blood_rose_potion.png"
+  "tags": []
  },
  {
   "title": "Brew of Ferocity",
@@ -135,7 +129,7 @@
    "BrewOfFerocity.png",
    "BrewofFerocity.png"
   ],
-  "intro": "!Item!!Materials!!Structure!!Unlocked By",
+  "intro": "Brew of Ferocity is a crafted consumable item. It can be purchased from the Shady Herb & Potion Dealer for Copper Coins or in the Rural Herb & Potion Merchant for Silver Coins. The blueprint can also be acquired from the Shady Book Dealer for Copper Coins. Brew of Ferocity Does not stack with Potion of Rage. The most recently consumed one will override the other.",
   "item_type": "Consumable",
   "description": "A brew that increases physical power by 3 for 60 minutes. Effect persists through death.",
   "stack_size": 10.0,
@@ -154,14 +148,13 @@
    "Armour ChaosCoating.png",
    "ChaosCoating.png"
   ],
-  "intro": "!Item!!Materials!!Structure||Unlocked by",
+  "intro": "Chaos Coating is a crafted consumable item. It does not stack with other imbuements. The most recently consumed one will override the other. In the 1.1 October patch its damage was reduced to 40% from 50%.",
   "item_type": "Consumable",
   "description": "Imbue your equipped weapon with blazing chaos. Your next primary attack triggers a dealing 40% magic damage in an area and inflicting . The on hit effect recharges every 12s and the imbuement lasts for 60 minutes. Effect persists through death.",
   "stack_size": 10.0,
   "teleportable": "Yes",
   "salvageable": "No",
-  "tags": [],
-  "icon": "/icons/chaos_coating.png"
+  "tags": []
  },
  {
   "title": "Dueling Banner",
@@ -174,14 +167,13 @@
    "Armour DuelingBanner.png",
    "DuelingBanner.png"
   ],
-  "intro": "To initiate a duel, simply place down the flag via the action bar or right clicking the banner in your Inventory. Once an opposing player has accepted the duel by interacting with the banner, the contest will commence after a 5 second countdown. A Death Vortex will form a perimeter around both players during the duel, damaging anyone venturing into it. The Arena Station allows for more elaborate contests, along with fine control over team size, arena size, Death Vortex speed, etc.",
+  "intro": "Dueling Banner is a unique item used for initiating duels, also known as Contests between 2 players. It can be initiated most places in the open world, and in player territories. Contests are risk-free, as instead of dying when your health is reduced to 0, you're instead restored to max health, meaning you do not drop a death bag or drain your Blood Pool / durability. The winner of the contest will be visually crowned temporarily. Is available on both PvE and PvP servers.",
   "item_type": "Consumable",
   "description": "A placeable banner that allows you to initiate a duel against another player. Crafted from Inventory.",
   "stack_size": 1.0,
   "teleportable": "Yes",
   "salvageable": "No",
-  "tags": [],
-  "icon": "/icons/dueling_banner.png"
+  "tags": []
  },
  {
   "title": "Dusk Caller",
@@ -194,14 +186,13 @@
    "Armour DuskCaller.png",
    "DuskCaller.png"
   ],
-  "intro": "! style=\"min-width:113px\"|Item!! style=\"min-width:203px\"|Materials!! style=\"min-width:120px\"|Structure!!Unlocked by",
+  "intro": "Dusk Caller is a crafted consumable item. It allows you to summon a swarm of bats to transport a subdued human back to the nearest unoccupied Prison Cell within your realm. Can only be used while Dominate is active. If you're in a clan, it will transport the human to nearest unoccupied prison cell within all your castles. If you'd like to ensure the target is transported to a specific prison cell, make sure that cell is the only unoccupied one at the time.",
   "item_type": "Consumable",
   "description": "Summon a swarm of bats to transport a subdued human back to the nearest unoccupied prison cell within your realm. Produced at an Alchemy Lab.",
   "stack_size": 5.0,
   "teleportable": "Yes",
   "salvageable": "No",
-  "tags": [],
-  "icon": "/icons/dusk_caller.png"
+  "tags": []
  },
  {
   "title": "Elixir of the Bat",
@@ -215,7 +206,7 @@
    "ElixirOfTheBat.png",
    "ElixiroftheBat.png"
   ],
-  "intro": "!Item!!Materials!!Structure||Unlocked by",
+  "intro": "Elixir of the Bat is a crafted consumable item. It does not stack with other elixirs. The most recently consumed one will override the other.",
   "item_type": "Consumable",
   "description": "A brew that increases Spell Leech by 4% and Spell Cooldown Rate by 6% for 60 minutes. Only one elixir may be may be active at a time. Effect persists through death.",
   "stack_size": 10.0,
@@ -235,7 +226,7 @@
    "ElixirOfTheBeast.png",
    "ElixiroftheBeast.png"
   ],
-  "intro": "!Item!!Materials!!Structure||Unlocked by",
+  "intro": "Elixir of the Beast is a crafted consumable item. It does not stack with other elixirs. The most recently consumed one will override the other.",
   "item_type": "Consumable",
   "description": "A brew that increases Maximum Health by 8% and Healing Received by 12% for 60 minutes. Only one elixir may be may be active at a time. Effect persists through death.",
   "stack_size": 10.0,
@@ -255,7 +246,7 @@
    "ElixirOfTheBlasphemous.png",
    "ElixiroftheBlasphemous.png"
   ],
-  "intro": "!Item!!Materials!!Structure||Unlocked by",
+  "intro": "Elixir of the Blasphemous is a crafted consumable item. It does not stack with other elixirs. The most recently consumed one will override the other.",
   "item_type": "Consumable",
   "description": "A brew that increases Ultimate Cooldown Rate by 14% and Ultimate Power by 10% for 60 minutes. Only one elixir may be may be active at a time. Effect persists through death.",
   "stack_size": 10.0,
@@ -275,7 +266,7 @@
    "ElixirOfTheCrow.png",
    "ElixiroftheCrow.png"
   ],
-  "intro": "!Item!!Materials!!Structure||Unlocked by",
+  "intro": "Elixir of the Crow is a crafted consumable item. It does not stack with other elixirs. The most recently consumed one will override the other.",
   "item_type": "Consumable",
   "description": "A brew that increases Weapon Leech by 5% and Weapon Cooldown Rate by 7% for 60 minutes. Only one elixir may be may be active at a time. Effect persists through death.",
   "stack_size": 10.0,
@@ -295,7 +286,7 @@
    "ElixirOfTheProwler.png",
    "ElixiroftheProwler.png"
   ],
-  "intro": "!Item!!Materials!!Structure||Unlocked by",
+  "intro": "Elixir of the Prowler is a crafted consumable item. It does not stack with other elixirs. The most recently consumed one will override the other.",
   "item_type": "Consumable",
   "description": "A brew that increases Bonus Movement Speed by 4% and Veil Cooldown Rate by 7% for 60 minutes. Only one elixir may be may be active at a time. Effect persists through death.",
   "stack_size": 10.0,
@@ -315,7 +306,7 @@
    "ElixirOfTheRaven.png",
    "ElixiroftheRaven.png"
   ],
-  "intro": "!Item!!Materials!!Structure||Unlocked by",
+  "intro": "Elixir of the Raven is a crafted consumable item. It does not stack with other elixirs. The most recently consumed one will override the other.",
   "item_type": "Consumable",
   "description": "A brew that increases Physical Critical Chance by 8% and Physical Critical Power by 8% for 60 minutes. Only one elixir may be may be active at a time. Effect persists through death.",
   "stack_size": 10.0,
@@ -335,7 +326,7 @@
    "ElixirOfTheTwisted.png",
    "ElixiroftheTwisted.png"
   ],
-  "intro": "!Item!!Materials!!Structure||Unlocked by",
+  "intro": "Elixir of the Twisted is a crafted consumable item. It does not stack with other elixirs. The most recently consumed one will override the other.",
   "item_type": "Consumable",
   "description": "A brew that increases Spell Critical Chance by 8% and Spell Critical Power by 8% for 60 minutes. Only one elixir may be may be active at a time. Effect persists through death.",
   "stack_size": 10.0,
@@ -355,7 +346,7 @@
    "ElixirOfTheWerewolf.png",
    "ElixiroftheWerewolf.png"
   ],
-  "intro": "!Item!!Materials!!Structure||Unlocked by",
+  "intro": "Elixir of the Werewolf is a crafted consumable item. It does not stack with other elixirs. The most recently consumed one will override the other.",
   "item_type": "Consumable",
   "description": "A brew that increases Attack Speed by 7% and Weapon Skill Power by 9% for 60 minutes. Only one elixir may be may be active at a time. Effect persists through death.",
   "stack_size": 10.0,
@@ -374,14 +365,13 @@
    "Armour EMP.png",
    "EMP.png"
   ],
-  "intro": "! style=\"width:106px\"|Resulting Item !Recipe ! style=\"width:134px\"|Structure ! style=\"width:128px\"|Unlocked By",
+  "intro": "EMP is a deployable item akin to Major Explosive Box. One is required to disable the electrified gate and door of Doctor Blackbrew's Castle, where Adam the Firstborn is held. It is possible to fly over the gate using Bat Form to save an EMP, but the door must be disabled. It can also be used to stun machine enemies such as Lightning Protectors, but cannot be placed near POIs.",
   "item_type": "Consumable",
   "description": "A device that triggers an electro magnetic pulse when struck. Can be used to temporarily disable electrical sources.",
   "stack_size": 10.0,
   "teleportable": "Yes",
   "salvageable": "No",
-  "tags": [],
-  "icon": "/icons/emp.png"
+  "tags": []
  },
  {
   "title": "Empty Glass Bottle",
@@ -394,14 +384,13 @@
    "Armour EmptyGlassBottle.png",
    "EmptyGlassBottle.png"
   ],
-  "intro": "!Item!!Materials!!Duration!!Structure||Unlocked by",
+  "intro": "Empty Glass Bottle is a key component for all potion making in V Rising. It is notably used by the Prison Cell to make Blood Potions and Blood Merlots. It is sold by the Rural Goods Merchant in stacks of 5 for Silver Coins. __TOC__ __NOTOC__",
   "item_type": "Consumable",
   "description": "An empty glass bottle, useful for creating potions.",
   "stack_size": 10.0,
   "teleportable": "Yes",
   "salvageable": "Yes",
-  "tags": [],
-  "icon": "/icons/empty_glass_bottle.png"
+  "tags": []
  },
  {
   "title": "Empty Waterskin",
@@ -414,14 +403,13 @@
    "Armour EmptyWaterskin.png",
    "EmptyWaterskin.png"
   ],
-  "intro": "!style=\"width:124px\"|Item!!style=\"width:168px\"|Materials!!Structure!!Unlocked By",
+  "intro": "Empty Waterskin is a key component for all early-game potion making.",
   "item_type": "Consumable",
   "description": "An empty Waterskin, useful for creating potions.",
   "stack_size": 10.0,
   "teleportable": "Yes",
   "salvageable": "Yes",
-  "tags": [],
-  "icon": "/icons/empty_waterskin.png"
+  "tags": []
  },
  {
   "title": "Enchanted Brew",
@@ -434,14 +422,13 @@
    "Armour EnchantedBrew.png",
    "EnchantedBrew.png"
   ],
-  "intro": "!Item!!Materials!!Structure!!Unlocked By",
+  "intro": "Enchanted Brew is a crafted consumable item. It can be purchased from the Shady Herb & Potion Dealer for Copper Coins or in the Rural Herb & Potion Merchant for Silver Coins. The blueprint can also be acquired from the Shady Book Dealer for Copper Coins. Enchanted Brew Does not stack with Witch Potion. The most recently consumed one will override the other.",
   "item_type": "Consumable",
   "description": "A brew that increases spell power by 3 for 60 minutes. Effect persists through death.",
   "stack_size": 10.0,
   "teleportable": "Yes",
   "salvageable": "No",
-  "tags": [],
-  "icon": "/icons/enchanted_brew.png"
+  "tags": []
  },
  {
   "title": "Fire Resistance Brew",
@@ -454,14 +441,13 @@
    "Armour FireResistanceBrew.png",
    "FireResistanceBrew.png"
   ],
-  "intro": "!Item!!Materials!!Structure!!Unlocked By",
+  "intro": "Fire Resistance Brew is a crafted consumable item. It can be purchased from the Rural Herb & Potion Merchant for Silver Coins. The blueprint can also be acquired from the Shady Book Dealer for Silver Coins.",
   "item_type": "Consumable",
   "description": "A brew that increases fire resistance rating by 50 for 60 minutes. Effect persists through death.",
   "stack_size": 10.0,
   "teleportable": "Yes",
   "salvageable": "No",
-  "tags": [],
-  "icon": "/icons/fire_resistance_brew.png"
+  "tags": []
  },
  {
   "title": "Frost Coating",
@@ -474,14 +460,13 @@
    "Armour FrostCoating.png",
    "FrostCoating.png"
   ],
-  "intro": "!Item!!Materials!!Structure||Unlocked by",
+  "intro": "Frost Coating is a crafted consumable item. It does not stack with other imbuements. The most recently consumed one will override the other.",
   "item_type": "Consumable",
   "description": "Imbue your equipped weapon with chilling frost. Your next primary attack triggers a dealing 30% magic damage in an area and inflicting . The on hit effect recharges every 12s and the imbuement lasts for 60 minutes. Effect persists through death.",
   "stack_size": 10.0,
   "teleportable": "Yes",
   "salvageable": "No",
-  "tags": [],
-  "icon": "/icons/frost_coating.png"
+  "tags": []
  },
  {
   "title": "Garlic Resistance Potion",
@@ -494,14 +479,13 @@
    "Armour GarlicResistancePotion.png",
    "GarlicResistancePotion.png"
   ],
-  "intro": "!style=\"width:150px\" |Resulting Item !Recipe !Structure",
+  "intro": "Garlic Resistance Potion is a crafted consumable item. It can be purchased from the City Herb & Potion Vendor or Treasure Hunter Trade Post for Goldsun Coins. The blueprint can also be acquired from the Shady Book Dealer for Silver Coins. Garlic Resistance causes Garlic Exposure stacks from Cotton Farms in the Dunley Farmlands to accumulate at a slower rate and drop off faster. Garlic Resistance Potion Does not stack with Minor Garlic Resistance Brew. The most recently consumed one will override the other.",
   "item_type": "Consumable",
   "description": "A potion that increases garlic resistance rating by 80 for 60 minutes. Effect persists through death.",
   "stack_size": 10.0,
   "teleportable": "Yes",
   "salvageable": "No",
-  "tags": [],
-  "icon": "/icons/garlic_resistance_potion.png"
+  "tags": []
  },
  {
   "title": "Holy Resistance Flask",
@@ -514,14 +498,13 @@
    "Armour HolyResistanceFlask.png",
    "HolyResistanceFlask.png"
   ],
-  "intro": "",
+  "intro": "Holy Resistance Flask is a crafted consumable item. It can be purchased from the City Herb & Potion Vendor or Treasure Hunter Trade Post for Goldsun Coins. Holy Resistance protects the user from Holy Radiation found in Dunley Monastery (Raziel the Shepherd), Brighthaven Cathedral (Azariel the Sunbringer) and Fortress of Light (Solarus the Immaculate). Holy Resistance Flask Does not stack with Holy Resistance Potion. The most recently consumed one will override the other.",
   "item_type": "Consumable",
   "description": "A potion that increases holy resistance rating by 75 for 60 minutes. Effect persists through death.",
   "stack_size": 10.0,
   "teleportable": "Yes",
   "salvageable": "No",
-  "tags": [],
-  "icon": "/icons/holy_resistance_flask.png"
+  "tags": []
  },
  {
   "title": "Holy Resistance Potion",
@@ -534,14 +517,13 @@
    "Armour HolyResistancePotion.png",
    "HolyResistancePotion.png"
   ],
-  "intro": "!Item!!Materials!!Structure||Unlocked by",
+  "intro": "Holy Resistance Potion is a crafted consumable item. Holy Resistance protects the user from Holy Radiation found in Dunley Monastery (Raziel the Shepherd), Brighthaven Cathedral (Azariel the Sunbringer) and Fortress of Light (Solarus the Immaculate). Holy Resistance Potion Does not stack with Holy Resistance Flask. The most recently consumed one will override the other.",
   "item_type": "Consumable",
   "description": "A potion that increases holy resistance rating by 50 for 60 minutes. Effect persists through death.",
   "stack_size": 10.0,
   "teleportable": "Yes",
   "salvageable": "No",
-  "tags": [],
-  "icon": "/icons/holy_resistance_potion.png"
+  "tags": []
  },
  {
   "title": "Illusion Coating",
@@ -554,14 +536,13 @@
    "Armour IllusionCoating.png",
    "IllusionCoating.png"
   ],
-  "intro": "!Item!!Materials!!Structure||Unlocked by",
+  "intro": "Illusion Coating is a crafted consumable item. It does not stack with other imbuements. The most recently consumed one will override the other.",
   "item_type": "Consumable",
   "description": "Imbue your equipped weapon with spectral energy. Your next primary attack triggers an dealing 30% magic damage in an area, inflicting and granting 4 stacks of . The on hit effect recharges every 12s and the imbuement lasts for 60 minutes. Effect persists through death.",
   "stack_size": 10.0,
   "teleportable": "Yes",
   "salvageable": "No",
-  "tags": [],
-  "icon": "/icons/illusion_coating.png"
+  "tags": []
  },
  {
   "title": "Irradiant Gruel",
@@ -574,14 +555,13 @@
    "Armour IrradiantGruel.png",
    "IrradiantGruel.png"
   ],
-  "intro": "!Item!!Materials!! style=\"width:120px\"|Structure!!Unlocked by",
+  "intro": "Irradiant Gruel is a crafted consumable item. It increases the blood quality of a prisoner by +1% ~ +2%, but has a 35% chance to turn the prisoner into a raging mutant. The Mutant created will always be the mutant Abomination and cannot be dominated. If a prisoner is transformed into an abomination, it must be killed.",
   "item_type": "Consumable",
   "description": "A brew with blood-mutating effects. Not recommended to drink.",
   "stack_size": 30.0,
   "teleportable": "Yes",
   "salvageable": "No",
-  "tags": [],
-  "icon": "/icons/irradiant_gruel.png"
+  "tags": []
  },
  {
   "title": "Major Explosive Box",
@@ -594,14 +574,13 @@
    "Armour MajorExplosiveBox.png",
    "MajorExplosiveBox.png"
   ],
-  "intro": "*Castle Heart *Bone Castle Key *Copper Castle Key *Iron Castle Key *Golden Castle Key",
+  "intro": "The Major Explosive Box is a recipe obtained from Angram the Purifier. This is the second raiding method players get access to. It is used to destroy stone structures by moving it to the hotbar and placing it down. Once the fuse is lit by any weapon attack or spell, including enemy attacks, it will explode after 3 seconds. It does 40% of a structure's max health in damage, meaning it requires 3 boxes to fully destroy a structure. Note that explosives can only damage stone structures after they have been breached by a Siege Golem Stone. It can also be used for mining large resource deposits loc",
   "item_type": "Consumable",
   "description": "A box full of explosives, handle with care. Can be used to destroy Massive Resource Veins, Walls and Doors. More powerful against castle walls.",
   "stack_size": 5.0,
   "teleportable": "No",
   "salvageable": "No",
-  "tags": [],
-  "icon": "/icons/major_explosive_box.png"
+  "tags": []
  },
  {
   "title": "Minor Explosive Box",
@@ -614,14 +593,13 @@
    "Armour MinorExplosiveBox.png",
    "MinorExplosiveBox.png"
   ],
-  "intro": "*Castle Heart *Bone Castle Key *Copper Castle Key *Iron Castle Key *Golden Castle Key",
+  "intro": "The Minor Explosive Box is a recipe obtained from Clive the Firestarter. This is the first raiding method players get access to. It is used to destroy wooden structures by moving it to the hotbar and placing it down. It is notably used to enter Quincey the Bandit King's stronghold. Once the fuse is lit by any weapon attack or spell, including enemy attacks, it will explode after 3 seconds. It does 20% of a structure's max health in damage, meaning it requires 5 boxes to fully destroy a structure. It can also be used for mining large resource deposits located throughout the map that can't be mi",
   "item_type": "Consumable",
   "description": "A box full of explosives, handle with care. Can be used to destroy Massive Resource Veins, Walls and Doors.",
   "stack_size": 5.0,
   "teleportable": "No",
   "salvageable": "No",
-  "tags": [],
-  "icon": "/icons/minor_explosive_box.png"
+  "tags": []
  },
  {
   "title": "Minor Garlic Resistance Brew",
@@ -634,14 +612,13 @@
    "Armour MinorGarlicResistanceBrew.png",
    "MinorGarlicResistanceBrew.png"
   ],
-  "intro": "!Item!!Materials!!Structure!!Unlocked By",
+  "intro": "Minor Garlic Resistance Brew is a crafted consumable item. It can be purchased from the Rural Herb & Potion Merchant for Silver Coins Minor Garlic Resistance Brew Does not stack with Garlic Resistance Potion. The most recently consumed one will override the other.",
   "item_type": "Consumable",
   "description": "A brew that increases garlic resistance rating by 40 for 60 minutes. Effect persists through death.",
   "stack_size": 10.0,
   "teleportable": "Yes",
   "salvageable": "No",
-  "tags": [],
-  "icon": "/icons/minor_garlic_resistance_brew.png"
+  "tags": []
  },
  {
   "title": "Minor Sun Resistance Brew",
@@ -654,14 +631,13 @@
    "Armour MinorSunResistanceBrew.png",
    "MinorSunResistanceBrew.png"
   ],
-  "intro": "!Item!!Materials!!Structure!!Unlocked By",
+  "intro": "Minor Sun Resistance Brew is a crafted consumable item. It can be purchased from the Shady Herb & Potion Dealer for Copper Coins. It is also a common drop in the world.",
   "item_type": "Consumable",
   "description": "A brew that increases sun resistance rating by 25 for 60 minutes. Effect persists through death.",
   "stack_size": 10.0,
   "teleportable": "Yes",
   "salvageable": "No",
-  "tags": [],
-  "icon": "/icons/minor_sun_resistance_brew.png"
+  "tags": []
  },
  {
   "title": "Potion of Rage",
@@ -675,7 +651,7 @@
    "PotionOfRage.png",
    "PotionofRage.png"
   ],
-  "intro": "!Item!!Materials!!Structure||Unlocked by",
+  "intro": "Potion of Rage is a crafted consumable item. It can be purchased from the City Herb & Potion Vendor or Treasure Hunter Trade Post for Goldsun Coins. Potion of Rage Does not stack with Brew of Ferocity. The most recently consumed one will override the other.",
   "item_type": "Consumable",
   "description": "A brew that increases physical power by 5 for 60 minutes. Effect persists through death.",
   "stack_size": 10.0,
@@ -694,14 +670,13 @@
    "Armour SiegeGolemStone.png",
    "SiegeGolemStone.png"
   ],
-  "intro": "!Item!!Materials!!Structure!!Unlocked By",
+  "intro": "Siege Golems are used to breach stone castles. Each siege golem attack on a castle triggers the \"Castle Under Attack\" status effect for 1 minute. Disabling Castle Teleporters and the ability to repair structures or interact with Servant Coffins to revive Servants. Once a Castle Wall / Door has been destroyed, it triggers the \"Breached\" status effect for 8 minutes. All structures now take damage from by all sources including Major Explosive Box, and the damage is multiplied by 4 for the duration. Finally, any newly placed structure is fragile for a few seconds after being built, able to be dest",
   "item_type": "Consumable",
   "description": "Place the Siege Stone in an uncontested location. It takes 150s for the stone to activate. When activated you can interact with it to transform into a Siege Golem for up to 300s allowing you to break into stone structures. You can absorb a set amount of damage before the form breaks, the amount of damage you can absorb scales based on the health of the Siege Stone. Depending on server settings the placement of a Siege Stone may be announced to other players and may be visible for everyone on the map.",
   "stack_size": 1.0,
   "teleportable": "No",
   "salvageable": "Yes",
-  "tags": [],
-  "icon": "/icons/siege_golem_stone.png"
+  "tags": []
  },
  {
   "title": "Silver Resistance Brew",
@@ -714,14 +689,13 @@
    "Armour SilverResistanceBrew.png",
    "SilverResistanceBrew.png"
   ],
-  "intro": "!Item!!Materials!!Structure!!Unlocked By",
+  "intro": "Silver Resistance Brew is a crafted consumable item. It can be purchased from the Shady Herb & Potion Dealer for Copper Coins. Silver Resistance protects the user from Silver Sickness caused by carrying items with the Silver tag. Silver Resistance Brew Does not stack with Silver Resistance Potion. The most recently consumed one will override the other.",
   "item_type": "Consumable",
   "description": "A brew that increases silver resistance rating by 15 for 60 minutes. Effect persists through death.",
   "stack_size": 10.0,
   "teleportable": "Yes",
   "salvageable": "No",
-  "tags": [],
-  "icon": "/icons/silver_resistance_brew.png"
+  "tags": []
  },
  {
   "title": "Silver Resistance Potion",
@@ -734,14 +708,13 @@
    "Armour SilverResistancePotion.png",
    "SilverResistancePotion.png"
   ],
-  "intro": "!Item!!Materials!!Structure!!Unlocked By",
+  "intro": "Silver Resistance Potion is a crafted consumable item. It can be purchased from the City Herb & Potion Vendor or Treasure Hunter Trade Post for Goldsun Coins. Silver Resistance protects the user from Silver Sickness caused by carrying items with the Silver tag. Silver Resistance Potion Does not stack with Silver Resistance Brew. The most recently consumed one will override the other.",
   "item_type": "Consumable",
   "description": "A potion that increases silver resistance rating by 50 for 60 minutes. Effect persists through death.",
   "stack_size": 10.0,
   "teleportable": "Yes",
   "salvageable": "No",
-  "tags": [],
-  "icon": "/icons/silver_resistance_potion.png"
+  "tags": []
  },
  {
   "title": "Storm Coating",
@@ -754,14 +727,13 @@
    "Armour StormCoating.png",
    "StormCoating.png"
   ],
-  "intro": "!Item!!Materials!!Structure||Unlocked by",
+  "intro": "Storm Coating is a crafted consumable item. It does not stack with other imbuements. The most recently consumed one will override the other.",
   "item_type": "Consumable",
   "description": "Imbue your equipped weapon with crackling thunder. Your next primary attack deals 40% bonus magic damage and triggers . The on hit effect recharges every 12s and the imbuement lasts for 60 minutes. Effect persists through death.",
   "stack_size": 10.0,
   "teleportable": "Yes",
   "salvageable": "No",
-  "tags": [],
-  "icon": "/icons/storm_coating.png"
+  "tags": []
  },
  {
   "title": "Trippy Shroom",
@@ -774,7 +746,7 @@
    "Armour TrippyShroom.png",
    "TrippyShroom.png"
   ],
-  "intro": "",
+  "intro": "Trippy Shroom is a resource in V Rising. It can be harvested from purple mushrooms found at Gleaming Meadows, Bear Cave, Nest of the Curse Weaver, Lair of the Behemoth & south Venom Mixing Outpost. It can also be grown from Trippy Spores. Consuming it causes the screen to Warp for 45s.",
   "item_type": "Flower",
   "description": "Might make you feel trippy. Not recommended to eat.",
   "stack_size": 5.0,
@@ -782,8 +754,7 @@
   "salvageable": "No",
   "tags": [
    "Consumable"
-  ],
-  "icon": "/icons/trippy_shroom.png"
+  ]
  },
  {
   "title": "Unholy Coating",
@@ -796,14 +767,13 @@
    "Armour UnholyCoating.png",
    "UnholyCoating.png"
   ],
-  "intro": "!Item!!Materials!!Structure||Unlocked by",
+  "intro": "Unholy Coating is a crafted consumable item. It does not stack with other imbuements. The most recently consumed one will override the other.",
   "item_type": "Consumable",
   "description": "Imbue your equipped weapon with unholy corruption. Your next primary attack deals 40% bonus magic damage, inflicts and conjures a bone spirit that circles around the target dealing 50% damage and inflicting to any enemy it hits. The on hit effect recharges every 12s and the imbuement lasts for 60 minutes. Effect persists through death.",
   "stack_size": 10.0,
   "teleportable": "Yes",
   "salvageable": "No",
-  "tags": [],
-  "icon": "/icons/unholy_coating.png"
+  "tags": []
  },
  {
   "title": "Vermin Salve",
@@ -816,14 +786,13 @@
    "Armour VerminSalve.png",
    "VerminSalve.png"
   ],
-  "intro": "!Item!!Materials!!Structure",
+  "intro": "Vermin Salve is a crafted consumable item. Consume to recover 3.5% of your health every 1.5 seconds for 15 seconds (10 times).",
   "item_type": "Consumable",
   "description": "A salve that recovers 35% of your maximum health over 15s. The healing effect is limited when in combat and breaks upon taking damage.",
   "stack_size": 10.0,
   "teleportable": "Yes",
   "salvageable": "No",
-  "tags": [],
-  "icon": "/icons/vermin_salve.png"
+  "tags": []
  },
  {
   "title": "Witch Potion",
@@ -836,14 +805,13 @@
    "Armour WitchPotion.png",
    "WitchPotion.png"
   ],
-  "intro": "!Item!!Materials!!Structure||Unlocked by",
+  "intro": "Witch Potion is a crafted consumable item. It can be purchased from the City Herb & Potion Vendor or Treasure Hunter Trade Post for Goldsun Coins. Witch Potion Does not stack with Enchanted Brew. The most recently consumed one will override the other.",
   "item_type": "Consumable",
   "description": "A brew that increases spell power by 5 for 60 minutes. Effect persists through death.",
   "stack_size": 10.0,
   "teleportable": "Yes",
   "salvageable": "No",
-  "tags": [],
-  "icon": "/icons/witch_potion.png"
+  "tags": []
  },
  {
   "title": "Wrangler's Potion",
@@ -858,13 +826,12 @@
    "Wrangler'SPotion.png",
    "Wrangler'sPotion.png"
   ],
-  "intro": "!Item!!Materials!!Structure!!Unlocked by",
+  "intro": "Wrangler's Potion is a crafted consumable item. It can be purchased from the Rural Herb & Potion Merchant for Silver Coins.",
   "item_type": "Consumable",
   "description": "A potion that increases your movement speed when mounted by 15% for 60 minutes. Effect persists through death.",
   "stack_size": 10.0,
   "teleportable": "Yes",
   "salvageable": "No",
-  "tags": [],
-  "icon": "/icons/wrangler_s_potion.png"
+  "tags": []
  }
 ]

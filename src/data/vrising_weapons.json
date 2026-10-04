@@ -10,7 +10,7 @@
    "Armour Apocalypse.png",
    "Apocalypse.png"
   ],
-  "intro": "! style=\"padding-top:2px; padding-bottom:0; height:57px; width:110px\" |Skill ! style=\"padding-top:2px; padding-bottom:0\" |Modification",
+  "intro": "Apocalypse is the Legendary Greatsword forged using its corresponding Apocalypse Shard. It's obtained as a rare drop from tier 2 Rift Incursions.",
   "description": "A Greatsword reforged out of the remains of a legendary enchanted weapon, its name carved into the history of Vardoran.",
   "weapon_type": "Greatsword",
   "gear_level": 30.0,
@@ -20,8 +20,7 @@
   "salvageable": "8 Gold Ingot 4 Spectral Dust 4 Radium Alloy 1 Onyx Tear",
   "tags": [
    "Greatsword"
-  ],
-  "icon": "/icons/apocalypse.png"
+  ]
  },
  {
   "title": "Bone Axes",
@@ -34,7 +33,7 @@
    "Armour BoneAxes.png",
    "BoneAxes.png"
   ],
-  "intro": "!Item!!Materials!!Structure!!Unlocked By",
+  "intro": "Bone Axes is the first tier of Axes. Unlocked after completing Armour of Bones (Quest)",
   "description": "Dual wield axes that deal chop damage and has a greater effect on wood.",
   "weapon_type": "Axes",
   "gear_level": 3.0,
@@ -44,8 +43,7 @@
   "salvageable": "12 Bone",
   "tags": [
    "Axes"
-  ],
-  "icon": "/icons/bone_axes.png"
+  ]
  },
  {
   "title": "Bone Crossbow",
@@ -58,7 +56,7 @@
    "Armour BoneCrossbow.png",
    "BoneCrossbow.png"
   ],
-  "intro": "!Item!!Materials!!Structure!!Unlocked By",
+  "intro": "Bone Crossbow is the first tier of Crossbow.",
   "description": "A ranged Weapon that fires bolts.",
   "weapon_type": "Crossbow",
   "gear_level": 3.0,
@@ -68,8 +66,7 @@
   "salvageable": "12 Bone",
   "tags": [
    "Crossbow"
-  ],
-  "icon": "/icons/bone_crossbow.png"
+  ]
  },
  {
   "title": "Bone Mace",
@@ -82,7 +79,7 @@
    "Armour BoneMace.png",
    "BoneMace.png"
   ],
-  "intro": "!Item!!Materials!!Structure!!Unlocked By",
+  "intro": "Bone Mace is the first tier of Mace. Unlocked after completing Into the Woods (Quest)",
   "description": "A heavy weapon that deals blunt damage that has a greater effect on minerals & rocks.",
   "weapon_type": "Mace",
   "gear_level": 3.0,
@@ -92,8 +89,7 @@
   "salvageable": "12 Bone",
   "tags": [
    "Mace"
-  ],
-  "icon": "/icons/bone_mace.png"
+  ]
  },
  {
   "title": "Bone Sword",
@@ -106,7 +102,7 @@
    "Armour BoneSword.png",
    "BoneSword.png"
   ],
-  "intro": "!Item !Recipe !Structure !Unlocked By",
+  "intro": "Bone Sword is the first tier of Sword. It is the first Weapon the player crafts By Hand through the inventory menu.",
   "description": "An all-round weapon that deals slash damage and has a greater effect on vegetation and thickets.",
   "weapon_type": "Sword",
   "gear_level": 3.0,
@@ -116,8 +112,7 @@
   "salvageable": "12 Bone",
   "tags": [
    "Sword"
-  ],
-  "icon": "/icons/bone_sword.png"
+  ]
  },
  {
   "title": "Cloud Dancers",
@@ -130,7 +125,7 @@
    "Armour CloudDancers.png",
    "CloudDancers.png"
   ],
-  "intro": "! style=\"padding-top:2px; padding-bottom:0; height:57px; width:110px\" |Skill ! style=\"padding-top:2px; padding-bottom:0\" |Modification",
+  "intro": "Cloud Dancers is one of two Legendary Slashers forged using its corresponding Cloud Dancers Shard. It's obtained as a rare drop from tier 2 Rift Incursions. __TOC__ __NOTOC__",
   "description": "Slashers reforged out of the remains of a legendary enchanted weapon, its name carved into the history of Vardoran.",
   "weapon_type": "Slashers",
   "gear_level": 30.0,
@@ -140,8 +135,7 @@
   "salvageable": "8 Gold Ingot 4 Spectral Dust 4 Radium Alloy 1 Onyx Tear",
   "tags": [
    "Slashers"
-  ],
-  "icon": "/icons/cloud_dancers.png"
+  ]
  },
  {
   "title": "Copper Axes",
@@ -154,7 +148,7 @@
    "Armour CopperAxes.png",
    "CopperAxes.png"
   ],
-  "intro": "!Item !Recipe !Structure",
+  "intro": "Copper Axes is the third tier of Axes after Reinforced Bone Axes.",
   "description": "Dual wield axes that deal chop damage and has a greater effect on wood.",
   "weapon_type": "Axes",
   "gear_level": 9.0,
@@ -164,8 +158,7 @@
   "salvageable": "12 Copper Ingot 9 Plank",
   "tags": [
    "Axes"
-  ],
-  "icon": "/icons/copper_axes.png"
+  ]
  },
  {
   "title": "Copper Crossbow",
@@ -178,7 +171,7 @@
    "Armour CopperCrossbow.png",
    "CopperCrossbow.png"
   ],
-  "intro": "!Item ! style=\"width:33%\" |Recipe !Structure",
+  "intro": "Copper Crossbow is the third tier of Crossbow after Reinforced Bone Crossbow. The ability to craft Copper Crossbow is learned by slaying Rufus the Foreman.",
   "description": "A ranged Weapon that fires bolts.",
   "weapon_type": "Crossbow",
   "gear_level": 9.0,
@@ -188,8 +181,7 @@
   "salvageable": "9 Planks 4 Leather",
   "tags": [
    "Crossbow"
-  ],
-  "icon": "/icons/copper_crossbow.png"
+  ]
  },
  {
   "title": "Copper Longbow",
@@ -202,7 +194,7 @@
    "Armour CopperLongbow.png",
    "CopperLongbow.png"
   ],
-  "intro": "!Item ! style=\"width:33%\" |Recipe !Structure",
+  "intro": "Copper Longbow is the first tier of Longbow. The ability to craft Longbows is learned by slaying Lidia the Chaos Archer.",
   "description": "A ranged Weapon that fires arrows.",
   "weapon_type": "Longbow",
   "gear_level": 9.0,
@@ -212,8 +204,7 @@
   "salvageable": "9 Planks 4 Leather",
   "tags": [
    "Longbow"
-  ],
-  "icon": "/icons/copper_longbow.png"
+  ]
  },
  {
   "title": "Copper Mace",
@@ -226,7 +217,7 @@
    "Armour CopperMace.png",
    "CopperMace.png"
   ],
-  "intro": "!Item !Recipe !Structure",
+  "intro": "Copper Mace is the third tier of Mace after Reinforced Bone Mace.",
   "description": "A heavy weapon that deals blunt damage that has a greater effect on minerals & rocks.",
   "weapon_type": "Mace",
   "gear_level": 9.0,
@@ -236,8 +227,7 @@
   "salvageable": "12 Copper Ingot 9 Plank",
   "tags": [
    "Mace"
-  ],
-  "icon": "/icons/copper_mace.png"
+  ]
  },
  {
   "title": "Copper Spear",
@@ -250,7 +240,7 @@
    "Armour CopperSpear.png",
    "CopperSpear.png"
   ],
-  "intro": "!Item !Recipe !Structure",
+  "intro": "Copper Spear is the third tier of Spear after Reinforced Bone Spear.",
   "description": "A spear with long-ranged attack and deals thrust damage that has a greater effect on creatures.",
   "weapon_type": "Spear",
   "gear_level": 9.0,
@@ -260,8 +250,7 @@
   "salvageable": "12 Copper Ingot 9 Plank",
   "tags": [
    "Spear"
-  ],
-  "icon": "/icons/copper_spear.png"
+  ]
  },
  {
   "title": "Copper Sword",
@@ -274,7 +263,7 @@
    "Armour CopperSword.png",
    "CopperSword.png"
   ],
-  "intro": "!Item !Recipe !Structure",
+  "intro": "Copper Sword is the third tier of Sword after Reinforced Bone Sword.",
   "description": "An all-round weapon that deals slash damage and has a greater effect on vegetation and thickets.",
   "weapon_type": "Sword",
   "gear_level": 9.0,
@@ -284,8 +273,7 @@
   "salvageable": "12 Copper Ingot 9 Plank",
   "tags": [
    "Sword"
-  ],
-  "icon": "/icons/copper_sword.png"
+  ]
  },
  {
   "title": "Dark Silver Axes",
@@ -298,7 +286,7 @@
    "Armour DarkSilverAxes.png",
    "DarkSilverAxes.png"
   ],
-  "intro": "!Item ! style=\"width:43%\" |Recipe !Structure",
+  "intro": "Dark Silver Axes is the seventh tier of Axes after Merciless Iron Axes.",
   "description": "Dual wield axes that deal chop damage and has a greater effect on wood.",
   "weapon_type": "Axes",
   "gear_level": 23.0,
@@ -308,8 +296,7 @@
   "salvageable": "9 Dark Silver Ingot 6 Reinforced Plank",
   "tags": [
    "Axes"
-  ],
-  "icon": "/icons/dark_silver_axes.png"
+  ]
  },
  {
   "title": "Dark Silver Claws",
@@ -322,7 +309,7 @@
    "Armour DarkSilverClaws.png",
    "DarkSilverClaws.png"
   ],
-  "intro": "!Item ! style=\"width:43%\" |Recipe !Structure",
+  "intro": "Dark Silver Claws is the third tier of Claws after Merciless Iron Claws. Crafting Claws is learned by slaying Frostmaw the Mountain Terror.",
   "description": "A double-edged weapon that deals physical damage.",
   "weapon_type": "Claws",
   "gear_level": 23.0,
@@ -332,8 +319,7 @@
   "salvageable": "9 Dark Silver Ingot 6 Reinforced Plank",
   "tags": [
    "Claws"
-  ],
-  "icon": "/icons/dark_silver_claws.png"
+  ]
  },
  {
   "title": "Dark Silver Crossbow",
@@ -346,7 +332,7 @@
    "Armour DarkSilverCrossbow.png",
    "DarkSilverCrossbow.png"
   ],
-  "intro": "!Item ! style=\"width:43%\" |Recipe !Structure",
+  "intro": "Dark Silver Crossbow is the seventh tier of Crossbow after Merciless Iron Crossbow.",
   "description": "A ranged Weapon that fires bolts.",
   "weapon_type": "Crossbow",
   "gear_level": 23.0,
@@ -356,8 +342,7 @@
   "salvageable": "9 Dark Silver Ingot 6 Reinforced Plank",
   "tags": [
    "Crossbow"
-  ],
-  "icon": "/icons/dark_silver_crossbow.png"
+  ]
  },
  {
   "title": "Dark Silver Daggers",
@@ -370,7 +355,7 @@
    "Armour DarkSilverDaggers.png",
    "DarkSilverDaggers.png"
   ],
-  "intro": "!Item !Recipe !Structure",
+  "intro": "Dark Silver Daggers is the third tier of Daggers after Merciless Iron Daggers. Crafting Daggers is learned by slaying Bane the Shadowblade.",
   "description": "A throwing weapon that deals physical damage.",
   "weapon_type": "Daggers",
   "gear_level": 23.0,
@@ -380,8 +365,7 @@
   "salvageable": "9 Dark Silver Ingot 6 Reinforced Plank",
   "tags": [
    "Daggers"
-  ],
-  "icon": "/icons/dark_silver_daggers.png"
+  ]
  },
  {
   "title": "Dark Silver Greatsword",
@@ -394,7 +378,7 @@
    "Armour DarkSilverGreatsword.png",
    "DarkSilverGreatsword.png"
   ],
-  "intro": "!Item ! style=\"width:43%\" |Recipe !Structure",
+  "intro": "Dark Silver Greatsword is the third tier of Greatsword after Merciless Iron Greatsword.",
   "description": "A great heavy sword that deals physical damage. Has a greater effect on wood.",
   "weapon_type": "Greatsword",
   "gear_level": 23.0,
@@ -404,8 +388,7 @@
   "salvageable": "9 Dark Silver Ingot 6 Reinforced Plank",
   "tags": [
    "Greatsword"
-  ],
-  "icon": "/icons/dark_silver_greatsword.png"
+  ]
  },
  {
   "title": "Dark Silver Longbow",
@@ -418,7 +401,7 @@
    "Armour DarkSilverLongbow.png",
    "DarkSilverLongbow.png"
   ],
-  "intro": "!Item ! style=\"width:43%\" |Recipe !Structure",
+  "intro": "Dark Silver Longbow is the fifth tier of Longbow after Merciless Iron Longbow.",
   "description": "A ranged Weapon that fires arrows.",
   "weapon_type": "Longbow",
   "gear_level": 23.0,
@@ -428,8 +411,7 @@
   "salvageable": "9 Dark Silver Ingot 6 Reinforced Plank",
   "tags": [
    "Longbow"
-  ],
-  "icon": "/icons/dark_silver_longbow.png"
+  ]
  },
  {
   "title": "Dark Silver Mace",
@@ -442,7 +424,7 @@
    "Armour DarkSilverMace.png",
    "DarkSilverMace.png"
   ],
-  "intro": "!Item ! style=\"width:43%\" |Recipe !Structure",
+  "intro": "Dark Silver Mace is the seventh tier of Mace after Merciless Iron Mace.",
   "description": "A heavy weapon that deals blunt damage that has a greater effect on minerals & rocks.",
   "weapon_type": "Mace",
   "gear_level": 23.0,
@@ -452,8 +434,7 @@
   "salvageable": "9 Dark Silver Ingot 6 Reinforced Plank",
   "tags": [
    "Mace"
-  ],
-  "icon": "/icons/dark_silver_mace.png"
+  ]
  },
  {
   "title": "Dark Silver Pistols",
@@ -466,7 +447,7 @@
    "Armour DarkSilverPistols.png",
    "DarkSilverPistols.png"
   ],
-  "intro": "!Item ! style=\"width:43%\" |Recipe !Structure",
+  "intro": "Dark Silver Pistols is the third tier of Pistols after Merciless Iron Pistols. Crafting Pistols is learned by slaying Jade the Vampire Hunter.",
   "description": "Black-powder Weapons effective at medium range.",
   "weapon_type": "Pistols",
   "gear_level": 23.0,
@@ -476,8 +457,7 @@
   "salvageable": "9 Dark Silver Ingot 6 Reinforced Plank",
   "tags": [
    "Pistols"
-  ],
-  "icon": "/icons/dark_silver_pistols.png"
+  ]
  },
  {
   "title": "Dark Silver Reaper",
@@ -490,7 +470,7 @@
    "Armour DarkSilverReaper.png",
    "DarkSilverReaper.png"
   ],
-  "intro": "!Item ! style=\"width:43%\" |Recipe !Structure",
+  "intro": "Dark Silver Reaper is the third tier of Reaper after Merciless Iron Reaper. Crafting Reapers is learned by slaying Kriig the Undead General.",
   "description": "A two-handed weapon that deals slash damage and has a greater effect on undead.",
   "weapon_type": "Reaper",
   "gear_level": 23.0,
@@ -500,8 +480,7 @@
   "salvageable": "9 Dark Silver Ingot 6 Reinforced Plank",
   "tags": [
    "Reaper"
-  ],
-  "icon": "/icons/dark_silver_reaper.png"
+  ]
  },
  {
   "title": "Dark Silver Slashers",
@@ -514,7 +493,7 @@
    "Armour DarkSilverSlashers.png",
    "DarkSilverSlashers.png"
   ],
-  "intro": "!Item ! style=\"width:43%\" |Recipe !Structure",
+  "intro": "Dark Silver Slashers is the third tier of Slashers after Merciless Iron Slashers.",
   "description": "Dual-wield blades that deal slash damage and has a greater effect on vegetation and thickets.",
   "weapon_type": "Slashers",
   "gear_level": 23.0,
@@ -524,8 +503,7 @@
   "salvageable": "9 Dark Silver Ingot 6 Reinforced Plank",
   "tags": [
    "Slashers"
-  ],
-  "icon": "/icons/dark_silver_slashers.png"
+  ]
  },
  {
   "title": "Dark Silver Spear",
@@ -538,7 +516,7 @@
    "Armour DarkSilverSpear.png",
    "DarkSilverSpear.png"
   ],
-  "intro": "!Item ! style=\"width:43%\" |Recipe !Structure",
+  "intro": "Dark Silver Spear is the seventh tier of Spear after Merciless Iron Spear.",
   "description": "A spear with long-ranged attack and deals thrust damage that has a greater effect on creatures.",
   "weapon_type": "Spear",
   "gear_level": 23.0,
@@ -548,8 +526,7 @@
   "salvageable": "9 Dark Silver Ingot 6 Reinforced Plank",
   "tags": [
    "Spear"
-  ],
-  "icon": "/icons/dark_silver_spear.png"
+  ]
  },
  {
   "title": "Dark Silver Sword",
@@ -562,7 +539,7 @@
    "Armour DarkSilverSword.png",
    "DarkSilverSword.png"
   ],
-  "intro": "!Item ! style=\"width:43%\" |Recipe !Structure",
+  "intro": "Dark Silver Sword is the seventh tier of Sword after Merciless Iron Sword.",
   "description": "An all-round weapon that deals slash damage and has a greater effect on vegetation and thickets.",
   "weapon_type": "Sword",
   "gear_level": 23.0,
@@ -572,8 +549,7 @@
   "salvageable": "9 Dark Silver Ingot 6 Reinforced Plank",
   "tags": [
    "Sword"
-  ],
-  "icon": "/icons/dark_silver_sword.png"
+  ]
  },
  {
   "title": "Dark Silver Twinblade",
@@ -586,7 +562,7 @@
    "Armour DarkSilverTwinblade.png",
    "DarkSilverTwinblade.png"
   ],
-  "intro": "!Item ! style=\"width:43%\" |Recipe !Structure",
+  "intro": "Dark Silver Twinblade is the third tier of Twinblade after Merciless Iron Twinblade. Crafting Twinblade is learned by slaying Gaius the Cursed Champion.",
   "description": "A double-edged weapon that deals physical damage.",
   "weapon_type": "Twinblade",
   "gear_level": 23.0,
@@ -596,8 +572,7 @@
   "salvageable": "9 Dark Silver Ingot 6 Reinforced Plank",
   "tags": [
    "Twinblade"
-  ],
-  "icon": "/icons/dark_silver_twinblade.png"
+  ]
  },
  {
   "title": "Dark Silver Whip",
@@ -610,7 +585,7 @@
    "Armour DarkSilverWhip.png",
    "DarkSilverWhip.png"
   ],
-  "intro": "!Item ! style=\"width:43%\" |Recipe !Structure",
+  "intro": "Dark Silver Whip is the third tier of Whip after Merciless Iron Whip. Crafting Whip is learned by slaying Domina the Blade Dancer.",
   "description": "A weapon with a piercing attack that deals additional physical damage in an area at mid-range.",
   "weapon_type": "Whip",
   "gear_level": 23.0,
@@ -620,8 +595,7 @@
   "salvageable": "9 Dark Silver Ingot 6 Reinforced Plank",
   "tags": [
    "Whip"
-  ],
-  "icon": "/icons/dark_silver_whip.png"
+  ]
  },
  {
   "title": "Hand of Winter",
@@ -635,7 +609,7 @@
    "HandOfWinter.png",
    "HandofWinter.png"
   ],
-  "intro": "! style=\"padding-top:2px; padding-bottom:0; height:57px; width:110px\" |Skill ! style=\"padding-top:2px; padding-bottom:0\" |Modification",
+  "intro": "Hand of Winter is the Legendary Mace forged using its corresponding Hand of Winter Shard. It's obtained as a rare drop from tier 2 Rift Incursions.",
   "description": "A Mace reforged out of the remains of a legendary enchanted weapon, its name carved into the history of Vardoran.",
   "weapon_type": "Mace",
   "gear_level": 30.0,
@@ -658,7 +632,7 @@
    "Armour IronAxes.png",
    "IronAxes.png"
   ],
-  "intro": "!Item !Recipe !Structure",
+  "intro": "Iron Axes is the fifth tier of Axes after Merciless Copper Axes.",
   "description": "Dual wield axes that deal chop damage and has a greater effect on wood.",
   "weapon_type": "Axes",
   "gear_level": 15.0,
@@ -668,8 +642,7 @@
   "salvageable": "9 Iron Ingots 6 Planks",
   "tags": [
    "Axes"
-  ],
-  "icon": "/icons/iron_axes.png"
+  ]
  },
  {
   "title": "Iron Claws",
@@ -682,7 +655,7 @@
    "Armour IronClaws.png",
    "IronClaws.png"
   ],
-  "intro": "!Item !Recipe !Structure",
+  "intro": "Iron Claws is the first tier of Claws. Crafting Claws is learned by slaying Frostmaw the Mountain Terror.",
   "description": "A fierce weapon that deals physical damage.",
   "weapon_type": "Claws",
   "gear_level": 15.0,
@@ -692,8 +665,7 @@
   "salvageable": "9 Iron Ingots 6 Planks",
   "tags": [
    "Claws"
-  ],
-  "icon": "/icons/iron_claws.png"
+  ]
  },
  {
   "title": "Iron Crossbow",
@@ -706,7 +678,7 @@
    "Armour IronCrossbow.png",
    "IronCrossbow.png"
   ],
-  "intro": "!Item ! style=\"width:33%\" |Recipe !Structure",
+  "intro": "Iron Crossbow is the fifth tier of Crossbow after Merciless Copper Crossbow.",
   "description": "A ranged Weapon that fires bolts.",
   "weapon_type": "Crossbow",
   "gear_level": 15.0,
@@ -716,8 +688,7 @@
   "salvageable": "9 Iron Ingots 6 Planks",
   "tags": [
    "Crossbow"
-  ],
-  "icon": "/icons/iron_crossbow.png"
+  ]
  },
  {
   "title": "Iron Daggers",
@@ -730,7 +701,7 @@
    "Armour IronDaggers.png",
    "IronDaggers.png"
   ],
-  "intro": "!Item !Recipe !Structure",
+  "intro": "Iron Daggers is the first tier of Daggers. Crafting Daggers is learned by slaying Bane the Shadowblade.",
   "description": "A throwing weapon that deals physical damage.",
   "weapon_type": "Daggers",
   "gear_level": 15.0,
@@ -740,8 +711,7 @@
   "salvageable": "9 Iron Ingots 6 Planks",
   "tags": [
    "Daggers"
-  ],
-  "icon": "/icons/iron_daggers.png"
+  ]
  },
  {
   "title": "Iron Greatsword",
@@ -754,7 +724,7 @@
    "Armour IronGreatsword.png",
    "IronGreatsword.png"
   ],
-  "intro": "!Item !Recipe !Structure",
+  "intro": "Iron Greatsword is the first tier of Greatsword. Crafting Greatswords is learned by slaying Tristan the Vampire Hunter.",
   "description": "A great heavy sword that deals physical damage. Has a greater effect on wood.",
   "weapon_type": "Greatsword",
   "gear_level": 15.0,
@@ -764,8 +734,7 @@
   "salvageable": "9 Iron Ingots 6 Planks",
   "tags": [
    "Greatsword"
-  ],
-  "icon": "/icons/iron_greatsword.png"
+  ]
  },
  {
   "title": "Iron Longbow",
@@ -778,7 +747,7 @@
    "Armour IronLongbow.png",
    "IronLongbow.png"
   ],
-  "intro": "!Item ! style=\"width:33%\" |Recipe !Structure",
+  "intro": "Iron Longbow is the third tier of Longbow after Merciless Copper Longbow.",
   "description": "A ranged Weapon that fires arrows.",
   "weapon_type": "Longbow",
   "gear_level": 15.0,
@@ -788,8 +757,7 @@
   "salvageable": "9 Iron Ingots 6 Planks",
   "tags": [
    "Longbow"
-  ],
-  "icon": "/icons/iron_longbow.png"
+  ]
  },
  {
   "title": "Iron Mace",
@@ -802,7 +770,7 @@
    "Armour IronMace.png",
    "IronMace.png"
   ],
-  "intro": "!Item !Recipe !Structure",
+  "intro": "Iron Mace is the fifth tier of Mace after Merciless Copper Mace.",
   "description": "A heavy weapon that deals blunt damage that has a greater effect on minerals & rocks.",
   "weapon_type": "Mace",
   "gear_level": 15.0,
@@ -812,8 +780,7 @@
   "salvageable": "9 Iron Ingots 6 Planks",
   "tags": [
    "Mace"
-  ],
-  "icon": "/icons/iron_mace.png"
+  ]
  },
  {
   "title": "Iron Pistols",
@@ -826,7 +793,7 @@
    "Armour IronPistols.png",
    "IronPistols.png"
   ],
-  "intro": "!Item ! style=\"width:33%\" |Recipe !Structure",
+  "intro": "Iron Pistols is the first tier of Pistols. Crafting Pistols is learned by slaying Jade the Vampire Hunter.",
   "description": "Black-powder Weapons effective at medium range.",
   "weapon_type": "Pistols",
   "gear_level": 15.0,
@@ -836,8 +803,7 @@
   "salvageable": "9 Iron Ingots 6 Planks",
   "tags": [
    "Pistols"
-  ],
-  "icon": "/icons/iron_pistols.png"
+  ]
  },
  {
   "title": "Iron Reaper",
@@ -850,7 +816,7 @@
    "Armour IronReaper.png",
    "IronReaper.png"
   ],
-  "intro": "!Item !Recipe !Structure",
+  "intro": "Iron Reaper is the first tier of Reaper. Crafting Reapers is learned by slaying Kriig the Undead General.",
   "description": "A two-handed weapon that deals slash damage and has a greater effect on undead.",
   "weapon_type": "Reaper",
   "gear_level": 15.0,
@@ -860,8 +826,7 @@
   "salvageable": "9 Iron Ingots 6 Planks",
   "tags": [
    "Reaper"
-  ],
-  "icon": "/icons/iron_reaper.png"
+  ]
  },
  {
   "title": "Iron Slashers",
@@ -874,7 +839,7 @@
    "Armour IronSlashers.png",
    "IronSlashers.png"
   ],
-  "intro": "!Item !Recipe !Structure",
+  "intro": "Iron Slashers is the first tier of Slashers. Crafting Slashers is learned by slaying Jakira the Shadow Huntress.",
   "description": "Dual-wield blades that deal slash damage and has a greater effect on vegetation and thickets.",
   "weapon_type": "Slashers",
   "gear_level": 15.0,
@@ -884,8 +849,7 @@
   "salvageable": "9 Iron Ingots 6 Planks",
   "tags": [
    "Slashers"
-  ],
-  "icon": "/icons/iron_slashers.png"
+  ]
  },
  {
   "title": "Iron Sword",
@@ -898,7 +862,7 @@
    "Armour IronSword.png",
    "IronSword.png"
   ],
-  "intro": "!Item !Recipe !Structure",
+  "intro": "Iron Sword is the fifth tier of Sword after Merciless Copper Sword.",
   "description": "An all-round weapon that deals slash damage and has a greater effect on vegetation and thickets.",
   "weapon_type": "Sword",
   "gear_level": 15.0,
@@ -908,8 +872,7 @@
   "salvageable": "9 Iron Ingots 6 Planks",
   "tags": [
    "Sword"
-  ],
-  "icon": "/icons/iron_sword.png"
+  ]
  },
  {
   "title": "Iron Twinblade",
@@ -922,7 +885,7 @@
    "Armour IronTwinblade.png",
    "IronTwinblade.png"
   ],
-  "intro": "!Item !Recipe !Structure",
+  "intro": "Iron Twinblade is the first tier of Twinblade. Crafting Twinblade is learned by slaying Gaius the Cursed Champion.",
   "description": "A double-edged weapon that deals physical damage.",
   "weapon_type": "Twinblade",
   "gear_level": 15.0,
@@ -932,8 +895,7 @@
   "salvageable": "9 Iron Ingots 6 Planks",
   "tags": [
    "Twinblade"
-  ],
-  "icon": "/icons/iron_twinblade.png"
+  ]
  },
  {
   "title": "Iron Whip",
@@ -946,7 +908,7 @@
    "Armour IronWhip.png",
    "IronWhip.png"
   ],
-  "intro": "!Item !Recipe !Structure",
+  "intro": "Iron Whip is the first tier of Whip. Crafting Whip is learned by slaying Domina the Blade Dancer.",
   "description": "A weapon with a piercing attack that deals additional physical damage in an area at mid-range.",
   "weapon_type": "Whip",
   "gear_level": 15.0,
@@ -956,8 +918,7 @@
   "salvageable": "9 Iron Ingots 6 Planks",
   "tags": [
    "Whip"
-  ],
-  "icon": "/icons/iron_whip.png"
+  ]
  },
  {
   "title": "Lumberjack's Axes",
@@ -971,7 +932,7 @@
    "Lumberjack'SAxes.png",
    "Lumberjack'sAxes.png"
   ],
-  "intro": "",
+  "intro": "Lumberjack's Axes is a unique pair of Axes that can drop rarely in the Farbane Woods (more frequently in the Bandit Logging Camp) or be purchased from Shady Goods Dealer for Copper Coins.",
   "description": "Dual wield axes that deal chop damage and has a greater effect on wood.",
   "weapon_type": "Axes",
   "gear_level": 7.0,
@@ -994,7 +955,7 @@
    "Armour MercilessCopperAxes.png",
    "MercilessCopperAxes.png"
   ],
-  "intro": "!Item ! style=\"width:33%\" |Recipe !Structure",
+  "intro": "Merciless Copper Axes is the fourth tier of Axes after Copper Axes. This blueprint has a 16.6% chance to drop from Clive the Firestarter. The blueprint is sold at the Shady Book Dealer for Copper Coins.",
   "description": "Dual wield axes that deal chop damage and has a greater effect on wood.",
   "weapon_type": "Axes",
   "gear_level": 12.0,
@@ -1004,8 +965,7 @@
   "salvageable": "1 Crude Ruby 6 Whetstone 3 Leather",
   "tags": [
    "Axes"
-  ],
-  "icon": "/icons/merciless_copper_axes.png"
+  ]
  },
  {
   "title": "Merciless Copper Crossbow",
@@ -1019,7 +979,7 @@
    "Armour MercilessCopperCrossbow.png",
    "MercilessCopperCrossbow.png"
   ],
-  "intro": "!Item ! style=\"width:33%\" | Recipe ! Structure !Unlocked By",
+  "intro": "Merciless Copper Crossbow is the fourth tier of Crossbow after Copper Crossbow. This blueprint has a 16.6% chance to drop from Clive the Firestarter. The blueprint is sold at the Shady Book Dealer for Copper Coins.",
   "description": "A ranged Weapon that fires bolts.",
   "weapon_type": "Crossbow",
   "gear_level": 12.0,
@@ -1029,8 +989,7 @@
   "salvageable": "1 Gem Dust 6 Whetstone 3 Leather",
   "tags": [
    "Crossbow"
-  ],
-  "icon": "/icons/merciless_copper_crossbow.png"
+  ]
  },
  {
   "title": "Merciless Copper Longbow",
@@ -1044,7 +1003,7 @@
    "Armour MercilessCopperLongbow.png",
    "MercilessCopperLongbow.png"
   ],
-  "intro": "!Item ! style=\"width:33%\" |Recipe !Structure !Unlocked By",
+  "intro": "Merciless Copper Longbow is the second tier of Longbow after Copper Longbow. This blueprint has a 16.6% chance to drop from Clive the Firestarter. The blueprint is sold at the Shady Book Dealer for Copper Coins.",
   "description": "A ranged Weapon that fires arrows.",
   "weapon_type": "Longbow",
   "gear_level": 12.0,
@@ -1054,8 +1013,7 @@
   "salvageable": "1 Crude Amethyst 9 Whetstone 3 Leather",
   "tags": [
    "Longbow"
-  ],
-  "icon": "/icons/merciless_copper_longbow.png"
+  ]
  },
  {
   "title": "Merciless Copper Mace",
@@ -1068,7 +1026,7 @@
    "Armour MercilessCopperMace.png",
    "MercilessCopperMace.png"
   ],
-  "intro": "!Item ! style=\"width:33%\" |Recipe !Structure",
+  "intro": "Merciless Copper Mace is the fourth tier of Mace after Copper Mace. This blueprint has a 16.6% chance to drop from Clive the Firestarter. The blueprint is sold at the Shady Book Dealer for Copper Coins.",
   "description": "A heavy weapon that deals blunt damage that has a greater effect on minerals & rocks.",
   "weapon_type": "Mace",
   "gear_level": 12.0,
@@ -1078,8 +1036,7 @@
   "salvageable": "1 Crude Topaz 6 Whetstone 3 Leather",
   "tags": [
    "Mace"
-  ],
-  "icon": "/icons/merciless_copper_mace.png"
+  ]
  },
  {
   "title": "Merciless Copper Spear",
@@ -1092,7 +1049,7 @@
    "Armour MercilessCopperSpear.png",
    "MercilessCopperSpear.png"
   ],
-  "intro": "! Item ! style=\"width:33.5%\" |Recipe !Structure",
+  "intro": "Merciless Copper Spear is the fourth tier of Spear after Copper Spear. This blueprint has a 16.6% chance to drop from Clive the Firestarter. The blueprint is sold at the Shady Book Dealer for Copper Coins.",
   "description": "A spear with long-ranged attack and deals thrust damage that has a greater effect on creatures.",
   "weapon_type": "Spear",
   "gear_level": 12.0,
@@ -1102,8 +1059,7 @@
   "salvageable": "1 Crude Emerald 6 Whetstone 3 Leather",
   "tags": [
    "Spear"
-  ],
-  "icon": "/icons/merciless_copper_spear.png"
+  ]
  },
  {
   "title": "Merciless Copper Sword",
@@ -1116,7 +1072,7 @@
    "Armour MercilessCopperSword.png",
    "MercilessCopperSword.png"
   ],
-  "intro": "!Item ! style=\"width:35%\" |Recipe !Structure",
+  "intro": "Merciless Copper Sword is the fourth tier of Sword after Copper Sword. This blueprint has a 16.6% chance to drop from Clive the Firestarter. The blueprint is sold at the Shady Book Dealer for Copper Coins.",
   "description": "An all-round weapon that deals slash damage and has a greater effect on vegetation and thickets.",
   "weapon_type": "Sword",
   "gear_level": 12.0,
@@ -1126,8 +1082,7 @@
   "salvageable": "1 Crude Sapphire 6 Whetstone 3 Leather",
   "tags": [
    "Sword"
-  ],
-  "icon": "/icons/merciless_copper_sword.png"
+  ]
  },
  {
   "title": "Merciless Iron Axes",
@@ -1140,7 +1095,7 @@
    "Armour MercilessIronAxes.png",
    "MercilessIronAxes.png"
   ],
-  "intro": "!Item ! style=\"width:35%\" |Recipe !Structure",
+  "intro": "Merciless Iron Axes is the sixth tier of Axes after Iron Axes. The blueprint has a 7% chance to drop from V Bloods Meredith and Jade. Blueprint is sold at the Rural Book Merchant for Silver Coin.",
   "description": "Dual wield axes that deal chop damage and has a greater effect on wood.",
   "weapon_type": "Axes",
   "gear_level": 18.0,
@@ -1150,8 +1105,7 @@
   "salvageable": "3 Greater Blood Essences 3 Reinforced Planks",
   "tags": [
    "Axes"
-  ],
-  "icon": "/icons/merciless_iron_axes.png"
+  ]
  },
  {
   "title": "Merciless Iron Claws",
@@ -1164,7 +1118,7 @@
    "Armour MercilessIronClaws.png",
    "MercilessIronClaws.png"
   ],
-  "intro": "!Item !Recipe !Structure",
+  "intro": "Merciless Iron Claws is the second tier of Claws after Iron Claws. Crafting Claws is learned by slaying Frostmaw the Mountain Terror. The blueprint has a 7% chance to drop from V Bloods Meredith and Jade. Blueprint is sold at the Rural Book Merchant for Silver Coin.",
   "description": "A double-edged weapon that deals physical damage. Has a greater effect on vegetation and thickets.",
   "weapon_type": "Claws",
   "gear_level": 18.0,
@@ -1174,8 +1128,7 @@
   "salvageable": "3 Greater Blood Essences 3 Reinforced Planks",
   "tags": [
    "Claws"
-  ],
-  "icon": "/icons/merciless_iron_claws.png"
+  ]
  },
  {
   "title": "Merciless Iron Crossbow",
@@ -1188,7 +1141,7 @@
    "Armour MercilessIronCrossbow.png",
    "MercilessIronCrossbow.png"
   ],
-  "intro": "!Item ! style=\"width:43%\" |Recipe !Structure",
+  "intro": "Merciless Iron Crossbow is the sixth tier of Crossbow after Iron Crossbow. The blueprint has a 7% chance to drop from V Bloods Meredith and Jade. Blueprint is sold at the Rural Book Merchant for Silver Coin.",
   "description": "A ranged Weapon that fires bolts.",
   "weapon_type": "Crossbow",
   "gear_level": 18.0,
@@ -1198,8 +1151,7 @@
   "salvageable": "3 Greater Blood Essences 3 Reinforced Planks",
   "tags": [
    "Crossbow"
-  ],
-  "icon": "/icons/merciless_iron_crossbow.png"
+  ]
  },
  {
   "title": "Merciless Iron Daggers",
@@ -1212,7 +1164,7 @@
    "Armour MercilessIronDaggers.png",
    "MercilessIronDaggers.png"
   ],
-  "intro": "!Item !Recipe !Structure",
+  "intro": "Merciless Iron Daggers is the second tier of Daggers after Iron Daggers. Crafting Daggers is learned by slaying Bane the Shadowblade. The blueprint has a 7% chance to drop from V Bloods Meredith and Jade. Blueprint is sold at the Rural Book Merchant for Silver Coin.",
   "description": "A throwing weapon that deals physical damage.",
   "weapon_type": "Daggers",
   "gear_level": 18.0,
@@ -1222,8 +1174,7 @@
   "salvageable": "3 Greater Blood Essences 3 Reinforced Planks",
   "tags": [
    "Daggers"
-  ],
-  "icon": "/icons/merciless_iron_daggers.png"
+  ]
  },
  {
   "title": "Merciless Iron Greatsword",
@@ -1236,7 +1187,7 @@
    "Armour MercilessIronGreatsword.png",
    "MercilessIronGreatsword.png"
   ],
-  "intro": "!Item ! style=\"width:35%\" |Recipe !Structure",
+  "intro": "Merciless Iron Greatsword is the second tier of Greatsword after Iron Greatsword The blueprint has a 7% chance to drop from V Bloods Meredith and Jade. Blueprint is sold at the Rural Book Merchant for Silver Coin.",
   "description": "A great heavy sword that deals physical damage. Has a greater effect on wood.",
   "weapon_type": "Greatsword",
   "gear_level": 18.0,
@@ -1246,8 +1197,7 @@
   "salvageable": "3 Greater Blood Essences 3 Reinforced Planks",
   "tags": [
    "Greatsword"
-  ],
-  "icon": "/icons/merciless_iron_greatsword.png"
+  ]
  },
  {
   "title": "Merciless Iron Longbow",
@@ -1260,7 +1210,7 @@
    "Armour MercilessIronLongbow.png",
    "MercilessIronLongbow.png"
   ],
-  "intro": "!Item ! style=\"width:33%\" |Recipe !Structure",
+  "intro": "Merciless Iron Longbow is the fourth tier of Longbow after Merciless Copper Longbow. The blueprint has a 7% chance to drop from V Bloods Meredith and Jade. Blueprint is sold at the Rural Book Merchant for Silver Coin.",
   "description": "A ranged Weapon that fires arrows.",
   "weapon_type": "Longbow",
   "gear_level": 18.0,
@@ -1270,8 +1220,7 @@
   "salvageable": "3 Greater Blood Essences 3 Reinforced Planks",
   "tags": [
    "Longbow"
-  ],
-  "icon": "/icons/merciless_iron_longbow.png"
+  ]
  },
  {
   "title": "Merciless Iron Mace",
@@ -1284,7 +1233,7 @@
    "Armour MercilessIronMace.png",
    "MercilessIronMace.png"
   ],
-  "intro": "!Item ! style=\"width:35%\" |Recipe !Structure",
+  "intro": "Merciless Iron Mace is the sixth tier of Mace after Iron Mace. The blueprint has a 7% chance to drop from V Bloods Meredith and Jade. Blueprint is sold at the Rural Book Merchant for Silver Coin.",
   "description": "A heavy weapon that deals blunt damage that has a greater effect on minerals & rocks.",
   "weapon_type": "Mace",
   "gear_level": 18.0,
@@ -1294,8 +1243,7 @@
   "salvageable": "3 Greater Blood Essences 3 Reinforced Planks",
   "tags": [
    "Mace"
-  ],
-  "icon": "/icons/merciless_iron_mace.png"
+  ]
  },
  {
   "title": "Merciless Iron Pistols",
@@ -1308,7 +1256,7 @@
    "Armour MercilessIronPistols.png",
    "MercilessIronPistols.png"
   ],
-  "intro": "!Item ! style=\"width:43%\" |Recipe !Structure",
+  "intro": "Merciless Iron Pistols are the second tier of Pistols after Iron Pistols. Crafting Pistols is learned by slaying Jade the Vampire Hunter. The blueprint has a 7% chance to drop from V Bloods Meredith and Jade. Blueprint is sold at the Rural Book Merchant for Silver Coin.",
   "description": "Black-powder Weapons effective at medium range.",
   "weapon_type": "Pistols",
   "gear_level": 18.0,
@@ -1318,8 +1266,7 @@
   "salvageable": "3 Greater Blood Essences 3 Reinforced Planks",
   "tags": [
    "Pistols"
-  ],
-  "icon": "/icons/merciless_iron_pistols.png"
+  ]
  },
  {
   "title": "Merciless Iron Reaper",
@@ -1332,7 +1279,7 @@
    "Armour MercilessIronReaper.png",
    "MercilessIronReaper.png"
   ],
-  "intro": "!Item ! style=\"width:35%\" |Recipe !Structure",
+  "intro": "Merciless Iron Reaper is the second tier of Reaper after Iron Reaper. Crafting Reapers is learned by slaying Kriig the Undead General. The blueprint has a 7% chance to drop from V Bloods Meredith and Jade. Blueprint is sold at the Rural Book Merchant for Silver Coin.",
   "description": "A two-handed weapon that deals slash damage and has a greater effect on undead.",
   "weapon_type": "Reaper",
   "gear_level": 18.0,
@@ -1342,8 +1289,7 @@
   "salvageable": "3 Greater Blood Essences 3 Reinforced Planks",
   "tags": [
    "Reaper"
-  ],
-  "icon": "/icons/merciless_iron_reaper.png"
+  ]
  },
  {
   "title": "Merciless Iron Slashers",
@@ -1356,7 +1302,7 @@
    "Armour MercilessIronSlashers.png",
    "MercilessIronSlashers.png"
   ],
-  "intro": "!Item ! style=\"width:35%\" |Recipe !Structure",
+  "intro": "Merciless Iron Slashers is the second tier of Slashers after Iron Slashers The blueprint has a 7% chance to drop from V Bloods Meredith and Jade. Blueprint is sold at the Rural Book Merchant for Silver Coin.",
   "description": "Dual-wield blades that deal slash damage and has a greater effect on vegetation and thickets.",
   "weapon_type": "Slashers",
   "gear_level": 18.0,
@@ -1366,8 +1312,7 @@
   "salvageable": "3 Greater Blood Essences 3 Reinforced Planks",
   "tags": [
    "Slashers"
-  ],
-  "icon": "/icons/merciless_iron_slashers.png"
+  ]
  },
  {
   "title": "Merciless Iron Spear",
@@ -1380,7 +1325,7 @@
    "Armour MercilessIronSpear.png",
    "MercilessIronSpear.png"
   ],
-  "intro": "!Item ! style=\"width:35%\" |Recipe !Structure",
+  "intro": "Merciless Iron Spear is the sixth tier of Spear after Iron Spear. The blueprint has a 7% chance to drop from V Bloods Meredith and Jade. Blueprint is sold at the Rural Book Merchant for Silver Coin.",
   "description": "A spear with long-ranged attack and deals thrust damage that has a greater effect on creatures.",
   "weapon_type": "Spear",
   "gear_level": 18.0,
@@ -1390,8 +1335,7 @@
   "salvageable": "3 Greater Blood Essences 3 Reinforced Planks",
   "tags": [
    "Spear"
-  ],
-  "icon": "/icons/merciless_iron_spear.png"
+  ]
  },
  {
   "title": "Merciless Iron Sword",
@@ -1404,7 +1348,7 @@
    "Armour MercilessIronSword.png",
    "MercilessIronSword.png"
   ],
-  "intro": "!Item ! style=\"width:35%\" |Recipe ! Structure",
+  "intro": "Merciless Iron Sword is the sixth tier of Sword after Iron Sword. The blueprint has a 7% chance to drop from V Bloods Meredith and Jade. Blueprint is sold at the Rural Book Merchant for Silver Coin.",
   "description": "An all-round weapon that deals slash damage and has a greater effect on vegetation and thickets.",
   "weapon_type": "Sword",
   "gear_level": 18.0,
@@ -1414,8 +1358,7 @@
   "salvageable": "3 Greater Blood Essences 3 Reinforced Planks",
   "tags": [
    "Sword"
-  ],
-  "icon": "/icons/merciless_iron_sword.png"
+  ]
  },
  {
   "title": "Merciless Iron Twinblade",
@@ -1428,7 +1371,7 @@
    "Armour MercilessIronTwinblade.png",
    "MercilessIronTwinblade.png"
   ],
-  "intro": "!Item !Recipe !Structure",
+  "intro": "Merciless Iron Twinblade is the second tier of Twinblade after Iron Twinblade. Crafting Twinblades is learned by slaying Gaius the Cursed Champion. The blueprint has a 7% chance to drop from V Bloods Meredith and Jade. Blueprint is sold at the Rural Book Merchant for Silver Coin.",
   "description": "A double-edged weapon that deals physical damage. Has a greater effect on vegetation and thickets.",
   "weapon_type": "Twinblade",
   "gear_level": 18.0,
@@ -1438,8 +1381,7 @@
   "salvageable": "3 Greater Blood Essences 3 Reinforced Planks",
   "tags": [
    "Twinblade"
-  ],
-  "icon": "/icons/merciless_iron_twinblade.png"
+  ]
  },
  {
   "title": "Merciless Iron Whip",
@@ -1452,7 +1394,7 @@
    "Armour MercilessIronWhip.png",
    "MercilessIronWhip.png"
   ],
-  "intro": "!Item ! style=\"width:43%\" |Recipe !Structure",
+  "intro": "Merciless Iron Whip is the second tier of Whip after Iron Whip. Crafting Whips is learned by slaying Domina the Blade Dancer. The blueprint has a 7% chance to drop from V Bloods Meredith and Jade. Blueprint is sold at the Rural Book Merchant for Silver Coin.",
   "description": "A weapon with a piercing attack that deals additional physical damage in an area at mid-range.",
   "weapon_type": "Whip",
   "gear_level": 18.0,
@@ -1462,8 +1404,7 @@
   "salvageable": "3 Greater Blood Essences 3 Reinforced Planks",
   "tags": [
    "Whip"
-  ],
-  "icon": "/icons/merciless_iron_whip.png"
+  ]
  },
  {
   "title": "Miner's Mace",
@@ -1477,7 +1418,7 @@
    "Miner'SMace.png",
    "Miner'sMace.png"
   ],
-  "intro": "",
+  "intro": "Miner's Mace is a unique Mace that can drop rarely in the Farbane Woods (more frequently in the Bandit Copper Mine) or be purchased from Shady Goods Dealer for Copper Coins. Its gear level only allows it to mine up to Copper; Sulphur & beyond will require a copper mace or higher.",
   "description": "A heavy weapon that deals blunt damage that has a greater effect on minerals & rocks.",
   "weapon_type": "Mace",
   "gear_level": 7.0,
@@ -1501,7 +1442,7 @@
    "Mortira'SLament.png",
    "Mortira'sLament.png"
   ],
-  "intro": "! style=\"padding-top:2px; padding-bottom:0; height:57px; width:110px\" |Skill ! style=\"padding-top:2px; padding-bottom:0\" |Modification",
+  "intro": "Mortira's Lament is the Legendary Reaper forged using its corresponding Mortira's Lament Shard. It's obtained as a rare drop from tier 2 Rift Incursions.",
   "description": "A Reaper reforged out of the remains of a legendary enchanted weapon, its name carved into the history of Vardoran.",
   "weapon_type": "Reaper",
   "gear_level": 30.0,
@@ -1524,7 +1465,7 @@
    "Armour Oaksong.png",
    "Oaksong.png"
   ],
-  "intro": "! style=\"padding-top:2px; padding-bottom:0; height:57px; width:110px\" |Skill ! style=\"padding-top:2px; padding-bottom:0\" |Modification",
+  "intro": "Oaksong is the Legendary Longbow that can be forged using its corresponding Oaksong Shard. It's obtained as a rare drop from tier 2 Rift Incursions. It was buffed significantly in the 1.1 October patch, as Multishot now inflicts , and the stun is no longer conditional on full Focus stacks.",
   "description": "A Longbow reforged out of the remains of a legendary enchanted weapon, its name carved into the history of Vardoran.",
   "weapon_type": "Longbow",
   "gear_level": 30.0,
@@ -1534,8 +1475,7 @@
   "salvageable": "8 Gold Ingot 4 Spectral Dust 4 Radium Alloy 1 Onyx Tear",
   "tags": [
    "Longbow"
-  ],
-  "icon": "/icons/oaksong.png"
+  ]
  },
  {
   "title": "Reinforced Bone Axes",
@@ -1548,7 +1488,7 @@
    "Armour ReinforcedBoneAxes.png",
    "ReinforcedBoneAxes.png"
   ],
-  "intro": "!Item ! style=\"width:35%\" |Recipe !Structure",
+  "intro": "Reinforced Bone Axes is the second tier of Axes after Bone Axes.",
   "description": "Dual wield axes that deal chop damage and has a greater effect on wood.",
   "weapon_type": "Axes",
   "gear_level": 6.0,
@@ -1558,8 +1498,7 @@
   "salvageable": "96 Stone 3 Plank",
   "tags": [
    "Axes"
-  ],
-  "icon": "/icons/reinforced_bone_axes.png"
+  ]
  },
  {
   "title": "Reinforced Bone Crossbow",
@@ -1572,7 +1511,7 @@
    "Armour ReinforcedBoneCrossbow.png",
    "ReinforcedBoneCrossbow.png"
   ],
-  "intro": "!Item !Recipe !Structure",
+  "intro": "Reinforced Bone Crossbow is the second tier of Crossbow.",
   "description": "A ranged Weapon that fires bolts.",
   "weapon_type": "Crossbow",
   "gear_level": 6.0,
@@ -1582,8 +1521,7 @@
   "salvageable": "3 Plank 96 Stone",
   "tags": [
    "Crossbow"
-  ],
-  "icon": "/icons/reinforced_bone_crossbow.png"
+  ]
  },
  {
   "title": "Reinforced Bone Mace",
@@ -1596,7 +1534,7 @@
    "Armour ReinforcedBoneMace.png",
    "ReinforcedBoneMace.png"
   ],
-  "intro": "!Item ! style=\"width:33%\" |Recipe !Structure",
+  "intro": "Reinforced Bone Mace is the second tier of Mace after Bone Mace.",
   "description": "A heavy weapon that deals blunt damage that has a greater effect on minerals & rocks.",
   "weapon_type": "Mace",
   "gear_level": 6.0,
@@ -1606,8 +1544,7 @@
   "salvageable": "96 Stone 3 Plank",
   "tags": [
    "Mace"
-  ],
-  "icon": "/icons/reinforced_bone_mace.png"
+  ]
  },
  {
   "title": "Reinforced Bone Spear",
@@ -1620,7 +1557,7 @@
    "Armour ReinforcedBoneSpear.png",
    "ReinforcedBoneSpear.png"
   ],
-  "intro": "!Item ! style=\"width:35%\" |Recipe ! Structure",
+  "intro": "Reinforced Bone Spear is the second tier of Spear after Bone Spear.",
   "description": "A spear with a long-ranged attack and deals thrust damage that has a greater effect on creatures.",
   "weapon_type": "Spear",
   "gear_level": 6.0,
@@ -1630,8 +1567,7 @@
   "salvageable": "3 Plank 96 Stone",
   "tags": [
    "Spear"
-  ],
-  "icon": "/icons/reinforced_bone_spear.png"
+  ]
  },
  {
   "title": "Reinforced Bone Sword",
@@ -1644,7 +1580,7 @@
    "Armour ReinforcedBoneSword.png",
    "ReinforcedBoneSword.png"
   ],
-  "intro": "!Item ! style=\"width:35%\" |Recipe !Structure",
+  "intro": "Reinforced Bone Sword is the second tier of Sword after Bone Sword.",
   "description": "An all-round weapon that deals slash damage and has a greater effect on vegetation and thickets.",
   "weapon_type": "Sword",
   "gear_level": 6.0,
@@ -1654,8 +1590,7 @@
   "salvageable": "96 Stone 3 Plank",
   "tags": [
    "Sword"
-  ],
-  "icon": "/icons/reinforced_bone_sword.png"
+  ]
  },
  {
   "title": "Sanguine Axes",
@@ -1668,7 +1603,7 @@
    "Armour SanguineAxes.png",
    "SanguineAxes.png"
   ],
-  "intro": "!Item ! style=\"width:35%\" |Recipe ! Structure",
+  "intro": "Sanguine Axes is the eighth tier of Axes after Dark Silver Axes. Blueprint is dropped by level 60+ V Blood Carriers and sold at the Treasure Hunter Trade Post for Goldsun Coin.",
   "description": "Dual wield axes that deal chop damage and has a greater effect on wood.",
   "weapon_type": "Axes",
   "gear_level": 26.0,
@@ -1678,8 +1613,7 @@
   "salvageable": "3 Flawless Ruby 1 Primal Blood Essence 3 Gold Ingot",
   "tags": [
    "Axes"
-  ],
-  "icon": "/icons/sanguine_axes.png"
+  ]
  },
  {
   "title": "Sanguine Claws",
@@ -1692,7 +1626,7 @@
    "Armour SanguineClaws.png",
    "SanguineClaws.png"
   ],
-  "intro": "!Item ! style=\"width:35%\" |Recipe !Structure",
+  "intro": "Sanguine Claws is the fourth tier of Claws after Dark Silver Claws. Crafting Claws is learned by slaying Frostmaw the Mountain Terror. Blueprint is dropped by level 60+ V Blood Carriers and sold at the Treasure Hunter Trade Post for Goldsun Coin.",
   "description": "A double-edged weapon that deals physical damage.",
   "weapon_type": "Claws",
   "gear_level": 26.0,
@@ -1702,8 +1636,7 @@
   "salvageable": "9 Gold Ingot",
   "tags": [
    "Claws"
-  ],
-  "icon": "/icons/sanguine_claws.png"
+  ]
  },
  {
   "title": "Sanguine Crossbow",
@@ -1716,7 +1649,7 @@
    "Armour SanguineCrossbow.png",
    "SanguineCrossbow.png"
   ],
-  "intro": "!Item ! style=\"width:43%\" |Recipe !Structure",
+  "intro": "Sanguine Crossbow is the eighth tier of Crossbow after Dark Silver Crossbow. Blueprint is dropped by level 60+ V Blood Carriers and sold at the Treasure Hunter Trade Post for Goldsun Coin.",
   "description": "A ranged Weapon that fires bolts.",
   "weapon_type": "Crossbow",
   "gear_level": 26.0,
@@ -1726,8 +1659,7 @@
   "salvageable": "1 Primal Blood Essence 3 Gold Ingot",
   "tags": [
    "Crossbow"
-  ],
-  "icon": "/icons/sanguine_crossbow.png"
+  ]
  },
  {
   "title": "Sanguine Daggers",
@@ -1740,7 +1672,7 @@
    "Armour SanguineDaggers.png",
    "SanguineDaggers.png"
   ],
-  "intro": "!Item ! style=\"width:35%\" |Recipe !Structure",
+  "intro": "Sanguine Daggers is the fourth tier of Daggers after Dark Silver Daggers. Crafting Daggers is learned by slaying Bane the Shadowblade. Blueprint is dropped by level 60+ V Blood Carriers and sold at the Treasure Hunter Trade Post for Goldsun Coin.",
   "description": "A throwing weapon that deals physical damage.",
   "weapon_type": "Daggers",
   "gear_level": 26.0,
@@ -1750,8 +1682,7 @@
   "salvageable": "9 Gold Ingot",
   "tags": [
    "Daggers"
-  ],
-  "icon": "/icons/sanguine_daggers.png"
+  ]
  },
  {
   "title": "Sanguine Greatsword",
@@ -1764,7 +1695,7 @@
    "Armour SanguineGreatsword.png",
    "SanguineGreatsword.png"
   ],
-  "intro": "!Item ! style=\"width:35%\" |Recipe !Structure",
+  "intro": "Sanguine Greatsword is the fourth tier of Greatsword after Dark Silver Greatsword. Blueprint is dropped by level 60+ V Blood Carriers and sold at the Treasure Hunter Trade Post for Goldsun Coin.",
   "description": "A great heavy sword that deals physical damage. Has a greater effect on wood.",
   "weapon_type": "Greatsword",
   "gear_level": 26.0,
@@ -1774,8 +1705,7 @@
   "salvageable": "3 Flawless Sapphire 1 Primal Blood Essence 3 Gold Ingot",
   "tags": [
    "Greatsword"
-  ],
-  "icon": "/icons/sanguine_greatsword.png"
+  ]
  },
  {
   "title": "Sanguine Longbow",
@@ -1788,7 +1718,7 @@
    "Armour SanguineLongbow.png",
    "SanguineLongbow.png"
   ],
-  "intro": "!Item ! style=\"width:43%\" |Recipe !Structure",
+  "intro": "Sanguine Longbow is the sixth tier of Longbow after Dark Silver Longbow. Blueprint is dropped by level 60+ V Blood Carriers and sold at the Treasure Hunter Trade Post for Goldsun Coin.",
   "description": "A ranged Weapon that fires arrows.",
   "weapon_type": "Longbow",
   "gear_level": 26.0,
@@ -1798,8 +1728,7 @@
   "salvageable": "1 Primal Blood Essence 3 Gold Ingot",
   "tags": [
    "Longbow"
-  ],
-  "icon": "/icons/sanguine_longbow.png"
+  ]
  },
  {
   "title": "Sanguine Mace",
@@ -1812,7 +1741,7 @@
    "Armour SanguineMace.png",
    "SanguineMace.png"
   ],
-  "intro": "!Item ! style=\"width:35%\" |Recipe !Structure",
+  "intro": "Sanguine Mace is the eighth tier of Mace after Dark Silver Mace. Blueprint is dropped by level 60+ V Blood Carriers and sold at the Treasure Hunter Trade Post for Goldsun Coin.",
   "description": "A heavy weapon that deals blunt damage that has a greater effect on minerals & rocks.",
   "weapon_type": "Mace",
   "gear_level": 26.0,
@@ -1822,8 +1751,7 @@
   "salvageable": "3 Flawless Topaz 1 Primal Blood Essence 3 Gold Ingot",
   "tags": [
    "Mace"
-  ],
-  "icon": "/icons/sanguine_mace.png"
+  ]
  },
  {
   "title": "Sanguine Pistols",
@@ -1836,7 +1764,7 @@
    "Armour SanguinePistols.png",
    "SanguinePistols.png"
   ],
-  "intro": "!Item ! style=\"width:35%\" |Recipe !Structure",
+  "intro": "Sanguine Pistols is the fourth tier of Pistols after Dark Silver Pistols. Crafting Pistols is learned by slaying Jade the Vampire Hunter. Blueprint is dropped by level 60+ V Blood Carriers and sold at the Treasure Hunter Trade Post for Goldsun Coin.",
   "description": "Black-powder Weapons effective at medium range.",
   "weapon_type": "Pistols",
   "gear_level": 26.0,
@@ -1846,8 +1774,7 @@
   "salvageable": "3 Flawless Sapphire 1 Primal Blood Essence 3 Gold Ingot",
   "tags": [
    "Pistols"
-  ],
-  "icon": "/icons/sanguine_pistols.png"
+  ]
  },
  {
   "title": "Sanguine Reaper",
@@ -1860,7 +1787,7 @@
    "Armour SanguineReaper.png",
    "SanguineReaper.png"
   ],
-  "intro": "! Item ! style=\"width:35%\" |Recipe !Structure",
+  "intro": "Sanguine Reaper is the fourth tier of Reaper after Dark Silver Reaper. Crafting Reapers is learned by slaying Kriig the Undead General. Blueprint is dropped by level 60+ V Blood Carriers and sold at the Treasure Hunter Trade Post for Goldsun Coin.",
   "description": "A two-handed weapon that deals slash damage and has a greater effect on undead.",
   "weapon_type": "Reaper",
   "gear_level": 26.0,
@@ -1870,8 +1797,7 @@
   "salvageable": "3 Flawless Miststone 1 Primal Blood Essence 3 Gold Ingot",
   "tags": [
    "Reaper"
-  ],
-  "icon": "/icons/sanguine_reaper.png"
+  ]
  },
  {
   "title": "Sanguine Slashers",
@@ -1884,7 +1810,7 @@
    "Armour SanguineSlashers.png",
    "SanguineSlashers.png"
   ],
-  "intro": "!Item ! style=\"width:35%\" |Recipe !Structure",
+  "intro": "Sanguine Slashers is the fourth tier of Slashers after Dark Silver Slashers. Blueprint is dropped by level 60+ V Blood Carriers and sold at the Treasure Hunter Trade Post for Goldsun Coin.",
   "description": "Dual-wield blades that deal slash damage and has a greater effect on vegetation and thickets.",
   "weapon_type": "Slashers",
   "gear_level": 26.0,
@@ -1894,8 +1820,7 @@
   "salvageable": "3 Flawless Amethyst 1 Primal Blood Essence 3 Gold Ingot",
   "tags": [
    "Slashers"
-  ],
-  "icon": "/icons/sanguine_slashers.png"
+  ]
  },
  {
   "title": "Sanguine Spear",
@@ -1908,7 +1833,7 @@
    "Armour SanguineSpear.png",
    "SanguineSpear.png"
   ],
-  "intro": "!Item ! style=\"width:35%\" |Recipe !Structure",
+  "intro": "Sanguine Spear is the eighth tier of Spear after Dark Silver Spear. Blueprint is dropped by level 60+ V Blood Carriers and sold at the Treasure Hunter Trade Post for Goldsun Coin.",
   "description": "A spear with long-ranged attack and deals thrust damage that has a greater effect on creatures.",
   "weapon_type": "Spear",
   "gear_level": 26.0,
@@ -1918,8 +1843,7 @@
   "salvageable": "3 Flawless Emerald 1 Primal Blood Essence 3 Gold Ingot",
   "tags": [
    "Spear"
-  ],
-  "icon": "/icons/sanguine_spear.png"
+  ]
  },
  {
   "title": "Sanguine Sword",
@@ -1932,7 +1856,7 @@
    "Armour SanguineSword.png",
    "SanguineSword.png"
   ],
-  "intro": "!Item ! style=\"width:35%\" |Recipe !Structure",
+  "intro": "Sanguine Sword is the eighth tier of Sword after Dark Silver Sword. Blueprint is dropped by level 60+ V Blood Carriers and sold at the Treasure Hunter Trade Post for Goldsun Coin.",
   "description": "An all-round weapon that deals slash damage and has a greater effect on vegetation and thickets.",
   "weapon_type": "Sword",
   "gear_level": 26.0,
@@ -1942,8 +1866,7 @@
   "salvageable": "3 Flawless Sapphire 1 Primal Blood Essence 3 Gold Ingot",
   "tags": [
    "Sword"
-  ],
-  "icon": "/icons/sanguine_sword.png"
+  ]
  },
  {
   "title": "Sanguine Twinblade",
@@ -1956,7 +1879,7 @@
    "Armour SanguineTwinblade.png",
    "SanguineTwinblade.png"
   ],
-  "intro": "!Item ! style=\"width:35%\" |Recipe !Structure",
+  "intro": "Sanguine Twinblade is the fourth tier of Twinblade after Dark Silver Twinblade. Crafting Twinblade is learned by slaying Gaius the Cursed Champion. Blueprint is dropped by level 60+ V Blood Carriers and sold at the Treasure Hunter Trade Post for Goldsun Coin.",
   "description": "A double-edged weapon that deals physical damage.",
   "weapon_type": "Twinblade",
   "gear_level": 26.0,
@@ -1966,8 +1889,7 @@
   "salvageable": "9 Gold Ingot",
   "tags": [
    "Twinblade"
-  ],
-  "icon": "/icons/sanguine_twinblade.png"
+  ]
  },
  {
   "title": "Sanguine Whip",
@@ -1980,7 +1902,7 @@
    "Armour SanguineWhip.png",
    "SanguineWhip.png"
   ],
-  "intro": "! Item ! style=\"width:35%\" |Recipe !Structure",
+  "intro": "Sanguine Whip is the fifth tier of Whip after Dark Silver Whip. Crafting Whips in general is learned by slaying Domina the Blade Dancer, but the Sanguine Whip is learned by slaying Simon Belmont the Vampire Hunter.",
   "description": "A weapon with a piercing attack that deals additional physical damage in an area at mid-range.",
   "weapon_type": "Whip",
   "gear_level": 26.0,
@@ -1990,8 +1912,7 @@
   "salvageable": "1 Flawless Miststone 1 Primal Blood Essence 3 Gold Ingot",
   "tags": [
    "Whip"
-  ],
-  "icon": "/icons/sanguine_whip.png"
+  ]
  },
  {
   "title": "Talons of the Lich Beast",
@@ -2005,7 +1926,7 @@
    "TalonsOfTheLichBeast.png",
    "TalonsoftheLichBeast.png"
   ],
-  "intro": "! style=\"padding-top:2px; padding-bottom:0; height:57px; width:110px\" |Skill ! style=\"padding-top:2px; padding-bottom:0\" |Modification *: Skeleton explodes dealing 80% spell damage after 3s.",
+  "intro": "Talons of the Lich Beast is the Legendary Claws forged using its corresponding Talons of the Lich Beast Shard. It's obtained as a rare drop from tier 2 Rift Incursions.",
   "description": "Claws reforged out of the remains of a legendary enchanted weapon, its name carved into the history of a far away land.",
   "weapon_type": "Claws",
   "gear_level": 30.0,
@@ -2028,7 +1949,7 @@
    "Armour TheEndbringers.png",
    "TheEndbringers.png"
   ],
-  "intro": "! style=\"padding-top:2px; padding-bottom:0; height:57px; width:110px\" |Skill ! style=\"padding-top:2px; padding-bottom:0\" |Modification *Explosive Bullet Recast window is 2 seconds. *In the 1.1 October patch Fan the Hammer was granted 35% movement speed while channeling by default, and The Endbringers bonus was increased to 50% total. *Explosive Bullet's recast explosion damage was reduced to 50% from 75%.",
+  "intro": "The Endbringers are the Legendary Pistols forged using their corresponding The Endbringers Shard. They're obtained as a rare drop from tier 2 Rift Incursions.",
   "description": "Pistols reforged out of the remains of a legendary enchanted weapon, its name carved into the history of Vardoran.",
   "weapon_type": "Pistols",
   "gear_level": 30.0,
@@ -2038,8 +1959,7 @@
   "salvageable": "8 Gold Ingot 4 Spectral Dust 4 Radium Alloy 1 Onyx Tear",
   "tags": [
    "Pistols"
-  ],
-  "icon": "/icons/the_endbringers.png"
+  ]
  },
  {
   "title": "The Fate Dancers",
@@ -2052,7 +1972,7 @@
    "Armour TheFateDancers.png",
    "TheFateDancers.png"
   ],
-  "intro": "! style=\"padding-top:2px; padding-bottom:0; height:57px; width:110px\" |Skill ! style=\"padding-top:2px; padding-bottom:0\" |Modification",
+  "intro": "The Fate Dancers is the Legendary Twinblade forged using its corresponding The Fate Dancers Shard. It's obtained as a rare drop from tier 2 Rift Incursions.",
   "description": "A twinblade reforged out of the remains of a legendary enchanted weapon, its name carved into the history of Vardoran.",
   "weapon_type": "Twinblade",
   "gear_level": 30.0,
@@ -2062,8 +1982,7 @@
   "salvageable": "8 Gold Ingot 4 Spectral Dust 4 Radium Alloy 1 Onyx Tear",
   "tags": [
    "Twinblade"
-  ],
-  "icon": "/icons/the_fate_dancers.png"
+  ]
  },
  {
   "title": "The General's Soul Reaper",
@@ -2077,7 +1996,7 @@
    "TheGeneral'SSoulReaper.png",
    "TheGeneral'sSoulReaper.png"
   ],
-  "intro": "VRISINGPAGE used to be crafted after obtaining The General's Soul Reaper Orb dropped by an Undead Commander in Haunted Iron Mine or Church of the Damned. It was removed with the Gloomrot update. It was likely meant as a prerequisite test for the current Ancestral Weapons.",
+  "intro": "The General's Soul Reaper used to be crafted after obtaining The General's Soul Reaper Orb dropped by an Undead Commander in Haunted Iron Mine or Church of the Damned. It was removed with the Gloomrot update. It was likely meant as a prerequisite test for the current Ancestral Weapons.",
   "description": "A two-handed weapon that deals slash damage and has a greater effect on undead.",
   "weapon_type": "Reaper",
   "gear_level": 18.0,
@@ -2100,7 +2019,7 @@
    "Armour TheGravecaller.png",
    "TheGravecaller.png"
   ],
-  "intro": "! style=\"padding-top:2px; padding-bottom:0; height:57px; width:110px\" |Skill ! style=\"padding-top:2px; padding-bottom:0\" |Modification",
+  "intro": "The Gravecaller is the Legendary Sword forged using its corresponding The Gravecaller Shard, which can be obtained as a rare drop from tier 2 Rift Incursions.",
   "description": "A Sword reforged out of the remains of a legendary enchanted weapon, its name carved into the history of Vardoran.",
   "weapon_type": "Sword",
   "gear_level": 30.0,
@@ -2110,8 +2029,7 @@
   "salvageable": "8 Gold Ingot 4 Spectral Dust 4 Radium Alloy 1 Onyx Tear",
   "tags": [
    "Sword"
-  ],
-  "icon": "/icons/the_gravecaller.png"
+  ]
  },
  {
   "title": "The Morning Star",
@@ -2124,7 +2042,7 @@
    "Armour TheMorningStar.png",
    "TheMorningStar.png"
   ],
-  "intro": "! style=\"padding-top:2px; padding-bottom:0; height:57px; width:110px\" |Skill ! style=\"padding-top:2px; padding-bottom:0\" |Modification *Burn does 3 ticks of 20% physical damage over 3 seconds, and the fire will spread to nearby vegetation.",
+  "intro": "The Morning Star is the Legendary Whip forged using its corresponding The Morning Star Shard. It's obtained as a rare drop from tier 2 Rift Incursions. __TOC__ __NOTOC__",
   "description": "A Whip reforged out of the remains of a legendary enchanted weapon, its name carved into the history of a far away land.",
   "weapon_type": "Whip",
   "gear_level": 30.0,
@@ -2134,8 +2052,7 @@
   "salvageable": "8 Gold Ingot 4 Spectral Dust 4 Radium Alloy 1 Onyx Tear",
   "tags": [
    "Whip"
-  ],
-  "icon": "/icons/the_morning_star.png"
+  ]
  },
  {
   "title": "The Red Twins",
@@ -2148,7 +2065,7 @@
    "Armour TheRedTwins.png",
    "TheRedTwins.png"
   ],
-  "intro": "! style=\"padding-top:2px; padding-bottom:0; height:57px; width:110px\" |Skill ! style=\"padding-top:2px; padding-bottom:0\" |Modification",
+  "intro": "The Red Twins are Legendary Axes which are forged using its corresponding The Red Twins Shard. It's obtained as a rare drop from tier 2 Rift Incursions.",
   "description": "An Axe reforged out of the remains of a legendary enchanted weapon, its name carved into the history of Vardoran.",
   "weapon_type": "Axes",
   "gear_level": 30.0,
@@ -2158,8 +2075,7 @@
   "salvageable": "8 Gold Ingot 4 Spectral Dust 4 Radium Alloy 1 Onyx Tear",
   "tags": [
    "Axes"
-  ],
-  "icon": "/icons/the_red_twins.png"
+  ]
  },
  {
   "title": "The Siren's Wail",
@@ -2173,7 +2089,7 @@
    "TheSiren'SWail.png",
    "TheSiren'sWail.png"
   ],
-  "intro": "! style=\"padding-top:2px; padding-bottom:0; height:57px; width:110px\" |Skill ! style=\"padding-top:2px; padding-bottom:0\" |Modification",
+  "intro": "The Siren's Wail is the Legendary Crossbow forged using its corresponding The Siren's Wail Shard. It's obtained as a rare drop from tier 2 Rift Incursions. __TOC__ __NOTOC__",
   "description": "A Crossbow reforged out of the remains of a legendary enchanted weapon, its name carved into the history of Vardoran.",
   "weapon_type": "Crossbow",
   "gear_level": 30.0,
@@ -2196,7 +2112,7 @@
    "Armour TheThousandStorms.png",
    "TheThousandStorms.png"
   ],
-  "intro": "! style=\"padding-top:2px; padding-bottom:0; height:57px; width:110px\" |Skill ! style=\"padding-top:2px; padding-bottom:0\" |Modification",
+  "intro": "The Thousand Storms is the Legendary Spear forged using its corresponding The Thousand Storms Shard. It's obtained as a rare drop from tier 2 Rift Incursions. __TOC__ __NOTOC__",
   "description": "A Spear reforged out of the remains of a legendary enchanted weapon, its name carved into the history of Vardoran.",
   "weapon_type": "Spear",
   "gear_level": 30.0,
@@ -2206,8 +2122,7 @@
   "salvageable": "8 Gold Ingot 4 Spectral Dust 4 Radium Alloy 1 Onyx Tear",
   "tags": [
    "Spear"
-  ],
-  "icon": "/icons/the_thousand_storms.png"
+  ]
  },
  {
   "title": "The Wraithblades",
@@ -2220,7 +2135,7 @@
    "Armour TheWraithblades.png",
    "TheWraithblades.png"
   ],
-  "intro": "! style=\"padding-top:2px; padding-bottom:0; height:57px; width:110px\" |Skill ! style=\"padding-top:2px; padding-bottom:0\" |Modification",
+  "intro": "The Wraithblades are the Legendary Daggers forged using their corresponding The Wraithblades Shard. They're obtained as a rare drop from tier 2 Rift Incursions.",
   "description": "Daggers reforged out of the remains of a legendary enchanted weapon, its name carved into the history of a far away land.",
   "weapon_type": "Daggers",
   "gear_level": 30.0,
@@ -2230,8 +2145,7 @@
   "salvageable": "8 Gold Ingot 4 Spectral Dust 4 Radium Alloy 1 Onyx Tear",
   "tags": [
    "Daggers"
-  ],
-  "icon": "/icons/the_wraithblades.png"
+  ]
  },
  {
   "title": "Wings of the Fallen",
@@ -2245,7 +2159,7 @@
    "WingsOfTheFallen.png",
    "WingsoftheFallen.png"
   ],
-  "intro": "! style=\"padding-top:2px; padding-bottom:0; height:57px; width:110px\" |Skill ! style=\"padding-top:2px; padding-bottom:0\" |Modification",
+  "intro": "Wings of the Fallen is one of two Legendary Slashers forged using its corresponding Wings of the Fallen Shard. It's obtained as a rare drop from tier 2 Rift Incursions. __NOTOC__",
   "description": "Slashers reforged out of the remains of a legendary enchanted weapon, its name carved into the history of Vardoran.",
   "weapon_type": "Slashers",
   "gear_level": 30.0,

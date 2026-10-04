@@ -12,7 +12,7 @@
    "AdamTheFirstborn.png",
    "AdamtheFirstborn.png"
   ],
-  "intro": "Adam can be found in the Doctor Blackbrew's Castle on the western edge of Gloomrot north, above Trancendum Laboratories. Access to the boss is blocked by a gate and a door. Each can be destroyed for 1 hour by using an EMP. Alternatively, it is possible to fly over the gate using Bat Form to save 1 EMP. It is also possible to bypass both obstacles when leaving by getting out through a breach in the wall near the switch and then jumping off the cliff. __TOC__",
+  "intro": "Adam the Firstborn is a Level 88 V Blood Carrier.",
   "level": 88.0,
   "unit_id": "1233988687",
   "unlock": "",
@@ -56,8 +56,7 @@
     "desc": "The arena which Adam is fought within has eight lightning towers, two on each wall. Towers opposite one another create a continuous stream of lightning that deals damage and slows the player as long as they remain within it. A pair of towers can be deactivated by dealing sufficient damage to one of the towers. Adam will start the fight by activating all towers. Occasionally, Adam will reactivate a pair of towers. He can do this in both phases."
    }
   ],
-  "brutal": false,
-  "icon": "/icons/adam_the_firstborn.png"
+  "brutal": false
  },
  {
   "title": "Albert the Duke of Balaton",
@@ -72,7 +71,7 @@
    "AlbertTheDukeOfBalaton.png",
    "AlberttheDukeofBalaton.png"
   ],
-  "intro": "Albert can be found in the Swamp of Greed, in the northern edge of the Cursed Forest.",
+  "intro": "__TOC__ __NOTOC__ Albert the Duke of Balaton is a Level 64 V Blood Carrier.",
   "level": 64.0,
   "unit_id": "-203043163",
   "unlock": "Toad Form",
@@ -116,8 +115,7 @@
    }
   ],
   "attacks": [],
-  "brutal": false,
-  "icon": "/icons/albert_the_duke_of_balaton.png"
+  "brutal": false
  },
  {
   "title": "Alpha the White Wolf",
@@ -132,7 +130,7 @@
    "AlphaTheWhiteWolf.png",
    "AlphatheWhiteWolf.png"
   ],
-  "intro": "Alpha Wolf can be found roaming the roads of the Farbane Woods region. It tends to walk along the roads in a circuit around the central part of the region, near the Wolf Den. It will often cross paths with and fight Lidia the Chaos Archer and Goreswine the Ravager. It will also fight any Bandit or Undead enemy that crosses its path.",
+  "intro": "__TOC__ __NOTOC__ Alpha the White Wolf is the lowest level (Level 16) V Blood Carrier in V Rising, and likely the first that a player will successfully hunt. The Alpha Wolf will attack any non-wolf creatures that it meets along its path. Interestingly, if the player is in Wolf Form the Alpha Wolf will ignore them.",
   "level": 16.0,
   "unit_id": "-1905691330",
   "unlock": "Wolf Form",
@@ -173,8 +171,7 @@
     "desc": "The Alpha Wolf stops for a moment, howls, and summons 2 regular wolves to join the fight."
    }
   ],
-  "brutal": true,
-  "icon": "/icons/alpha_the_white_wolf.png"
+  "brutal": true
  },
  {
   "title": "Angram the Purifier",
@@ -189,7 +186,7 @@
    "AngramThePurifier.png",
    "AngramthePurifier.png"
   ],
-  "intro": "Angram can be found patrolling the Pools of Rebirth in Gloomrot South.",
+  "intro": "__TOC__ __NOTOC__ Angram the Purifier is a Level 61 V Blood Carrier.",
   "level": 61.0,
   "unit_id": "106480588",
   "unlock": "",
@@ -238,8 +235,7 @@
    }
   ],
   "attacks": [],
-  "brutal": false,
-  "icon": "/icons/angram_the_purifier.png"
+  "brutal": false
  },
  {
   "title": "Azariel the Sunbringer",
@@ -254,7 +250,7 @@
    "AzarielTheSunbringer.png",
    "AzarieltheSunbringer.png"
   ],
-  "intro": "Azariel can be found in the West region of Silverlight Hills; Brighthaven Cathedral.",
+  "intro": "__TOC__ __NOTOC__ Azariel the Sunbringer is a Level 79 V Blood Carrier.",
   "level": 79.0,
   "unit_id": "114912615",
   "unlock": "",
@@ -298,8 +294,7 @@
    }
   ],
   "attacks": [],
-  "brutal": false,
-  "icon": "/icons/azariel_the_sunbringer.png"
+  "brutal": false
  },
  {
   "title": "Bane the Shadowblade",
@@ -314,7 +309,7 @@
    "BaneTheShadowblade.png",
    "BanetheShadowblade.png"
   ],
-  "intro": "Bane can be found roaming the roads of Dunley Farmlands, disguised as a human. He only fights when he is attacked. People attack him as soon as his camouflage ends. It can make the fight easier if guards attack with you.",
+  "intro": "__TOC__ __NOTOC__ Bane the Shadowblade is a Level 50 V Blood Carrier.",
   "level": 50.0,
   "unit_id": "613251918",
   "unlock": "Human Form",
@@ -382,8 +377,7 @@
     "desc": ": His Knife attack can be chained multiple times in a row. For Incursion only, his Into the Shadow move will have an aura above him, but the minions spawned are Draculin mobs."
    }
   ],
-  "brutal": false,
-  "icon": "/icons/bane_the_shadowblade.png"
+  "brutal": false
  },
  {
   "title": "Baron du Bouchon the Sommelier",
@@ -398,7 +392,7 @@
    "BaronDuBouchonTheSommelier.png",
    "BaronduBouchontheSommelier.png"
   ],
-  "intro": "Baron can be found in the Brighthaven Vineyards in Silverlight Hills.",
+  "intro": "__TOC__ __NOTOC__ Baron du Bouchon the Sommelier is a Level 70 V Blood Carrier.",
   "level": 70.0,
   "unit_id": "192051202",
   "unlock": "",
@@ -459,8 +453,7 @@
     "desc": "baron starts a barrel dance, causing barrels to roll from the entrance side of the room to the other side. these can be dodged and don't usually need to be destroyed."
    }
   ],
-  "brutal": false,
-  "icon": "/icons/baron_du_bouchon_the_sommelier.png"
+  "brutal": false
  },
  {
   "title": "Beatrice the Tailor",
@@ -475,7 +468,7 @@
    "BeatriceTheTailor.png",
    "BeatricetheTailor.png"
   ],
-  "intro": "Beatrice can be found in the Dawnbreak Village in the South-East of Dunley Farmlands.",
+  "intro": "__TOC__ __NOTOC__ Beatrice the Tailor is a Level 40 V Blood Carrier.",
   "level": 40.0,
   "unit_id": "-1942352521",
   "unlock": "",
@@ -509,8 +502,7 @@
    }
   ],
   "attacks": [],
-  "brutal": true,
-  "icon": "/icons/beatrice_the_tailor.png"
+  "brutal": true
  },
  {
   "title": "Ben the Old Wanderer",
@@ -525,7 +517,7 @@
    "BenTheOldWanderer.png",
    "BentheOldWanderer.png"
   ],
-  "intro": "Ben can be found roaming the Cursed Forest.",
+  "intro": "__TOC__ __NOTOC__ Ben the Old Wanderer is a Level 63 V Blood Carrier.",
   "level": 63.0,
   "unit_id": "109969450",
   "unlock": "",
@@ -582,8 +574,7 @@
     "desc": "While his fight remains unchanged by running away, he will summon his wisps as he gets damaged too."
    }
   ],
-  "brutal": false,
-  "icon": "/icons/ben_the_old_wanderer.png"
+  "brutal": false
  },
  {
   "title": "Christina the Sun Priestess",
@@ -598,7 +589,7 @@
    "ChristinaTheSunPriestess.png",
    "ChristinatheSunPriestess.png"
   ],
-  "intro": "Christina can be found traveling between the churches of Mosswick Village and Dawnbreak Village. She can usually be found roaming the southern roads of Dunley Farmlands, accompanied by 2 Militia Guards.",
+  "intro": "__TOC__ __NOTOC__ Christina the Sun Priestess is a Level 44 V Blood Carrier.",
   "level": 44.0,
   "unit_id": "-99012450",
   "unlock": "",
@@ -657,8 +648,7 @@
     "desc": "She shouts \"I will show you discipline!\" and summons a Militia Crossbowman and Militia Guard to come to her defense."
    }
   ],
-  "brutal": true,
-  "icon": "/icons/christina_the_sun_priestess.png"
+  "brutal": true
  },
  {
   "title": "Clive the Firestarter",
@@ -673,7 +663,7 @@
    "CliveTheFirestarter.png",
    "ClivetheFirestarter.png"
   ],
-  "intro": "Clive can be found in the Bandit Sulphur Quarry, the south-western corner of Farbane Woods.",
+  "intro": "__TOC__ __NOTOC__ Clive the Firestarter is a Level 30 V Blood Carrier.",
   "level": 30.0,
   "unit_id": "1896428751",
   "unlock": "",
@@ -721,8 +711,7 @@
     "desc": "He drops a large bomb at his feet with a large explosion radius that takes a couple seconds to explode."
    }
   ],
-  "brutal": true,
-  "icon": "/icons/clive_the_firestarter.png"
+  "brutal": true
  },
  {
   "title": "Cyril the Cursed Smith",
@@ -737,7 +726,7 @@
    "CyrilTheCursedSmith.png",
    "CyriltheCursedSmith.png"
   ],
-  "intro": "Cyril can be found in the Cursed Village in Cursed Forest.",
+  "intro": "__TOC__ __NOTOC__ Cyril the Cursed Smith is a Level 65 V Blood Carrier.",
   "level": 65.0,
   "unit_id": "326378955",
   "unlock": "",
@@ -810,8 +799,7 @@
     "desc": "Cyril will dash four times in a row. starting at 30% health."
    }
   ],
-  "brutal": false,
-  "icon": "/icons/cyril_the_cursed_smith.png"
+  "brutal": false
  },
  {
   "title": "Dantos the Forgebinder",
@@ -826,7 +814,7 @@
    "DantosTheForgebinder.png",
    "DantostheForgebinder.png"
   ],
-  "intro": "Dantos is found in a small side room within Venom Blades Bastion in Oakveil Woodlands.",
+  "intro": "__TOC__ __NOTOC__ Dantos the Forgebinder is a Level 82 V Blood Carrier.",
   "level": 82.0,
   "unit_id": "173259239",
   "unlock": "",
@@ -870,8 +858,7 @@
    }
   ],
   "attacks": [],
-  "brutal": false,
-  "icon": "/icons/dantos_the_forgebinder.png"
+  "brutal": false
  },
  {
   "title": "Domina the Blade Dancer",
@@ -886,7 +873,7 @@
    "DominaTheBladeDancer.png",
    "DominatheBladeDancer.png"
   ],
-  "intro": "Domina can be found in the Rustlock Village in Gloomrot South.",
+  "intro": "__TOC__ __NOTOC__ Domina the Blade Dancer is a Level 60 V Blood Carrier.",
   "level": 60.0,
   "unit_id": "-1101874342",
   "unlock": "",
@@ -930,8 +917,7 @@
    }
   ],
   "attacks": [],
-  "brutal": false,
-  "icon": "/icons/domina_the_blade_dancer.png"
+  "brutal": false
  },
  {
   "title": "Dracula the Immortal King",
@@ -946,7 +932,7 @@
    "DraculaTheImmortalKing.png",
    "DraculatheImmortalKing.png"
   ],
-  "intro": "Dracula is located at his Castle in the Ruins of Mortium. You must be carrying a Blood Key to pass through the entrance. __TOC__",
+  "intro": "Dracula the Immortal King is a Level 91 V Blood Carrier.",
   "level": 91.0,
   "unit_id": "-327335305",
   "unlock": "",
@@ -1035,8 +1021,7 @@
     "desc": "During his 4th phase as the blood vortex shrinks, he will do a shockwave move (does no damage, like Henry Blackbrew the Doctor) to push you into the vortex."
    }
   ],
-  "brutal": false,
-  "icon": "/icons/dracula_the_immortal_king.png"
+  "brutal": false
  },
  {
   "title": "Errol the Stonebreaker",
@@ -1051,7 +1036,7 @@
    "ErrolTheStonebreaker.png",
    "ErroltheStonebreaker.png"
   ],
-  "intro": "Errol can be found deep inside the Bandit Copper Mine in central Farbane Woods.",
+  "intro": "__TOC__ __NOTOC__ Errol the Stonebreaker is a Level 20 V Blood Carrier.",
   "level": 20.0,
   "unit_id": "-2025101517",
   "unlock": "",
@@ -1096,8 +1081,7 @@
     "desc": "When he shouts \"Lets hear that crunch!\" he slams the ground creating 4 shock waves that explode in every direction."
    }
   ],
-  "brutal": true,
-  "icon": "/icons/errol_the_stonebreaker.png"
+  "brutal": true
  },
  {
   "title": "Finn the Fisherman",
@@ -1112,7 +1096,7 @@
    "FinnTheFisherman.png",
    "FinntheFisherman.png"
   ],
-  "intro": "Finn can be found at the Fishing Lake near the Hallowed Mountains in the northeastern corner of Farbane Woods.",
+  "intro": "__TOC__ __NOTOC__ Finn the Fisherman is a Level 32 V Blood Carrier.",
   "level": 32.0,
   "unit_id": "-2122682556",
   "unlock": "",
@@ -1161,8 +1145,7 @@
     "desc": ": Summons a Young Sea Serpent with a melee bite attack and ranged attack that launches 3 ice projectiles in a fan pattern and applies . Finn may use this attack multiple times if the fight lasts long enough, even if the first serpent is not killed."
    }
   ],
-  "brutal": true,
-  "icon": "/icons/finn_the_fisherman.png"
+  "brutal": true
  },
  {
   "title": "Foulrot the Soultaker",
@@ -1177,7 +1160,7 @@
    "FoulrotTheSoultaker.png",
    "FoulrottheSoultaker.png"
   ],
-  "intro": "Foulrot can be found in the south-eastern Ancient Village in the Cursed Forest.",
+  "intro": "__TOC__ __NOTOC__ Foulrot the Soultaker is a Level 63 V Blood Carrier.",
   "level": 63.0,
   "unit_id": "-1208888966",
   "unlock": "",
@@ -1221,8 +1204,7 @@
    }
   ],
   "attacks": [],
-  "brutal": false,
-  "icon": "/icons/foulrot_the_soultaker.png"
+  "brutal": false
  },
  {
   "title": "Frostmaw the Mountain Terror",
@@ -1237,7 +1219,7 @@
    "FrostmawTheMountainTerror.png",
    "FrostmawtheMountainTerror.png"
   ],
-  "intro": "Frostmaw can be found patrolling the roads of the Hallowed Mountains.",
+  "intro": "__TOC__ __NOTOC__ Frostmaw the Mountain Terror is a Level 53 V Blood Carrier.",
   "level": 53.0,
   "unit_id": "24378719",
   "unlock": "",
@@ -1310,8 +1292,7 @@
     "desc": ": Most of it's attacks will now inflict instead of . His Ice Nova will come out much faster."
    }
   ],
-  "brutal": false,
-  "icon": "/icons/frostmaw_the_mountain_terror.png"
+  "brutal": false
  },
  {
   "title": "Gaius the Cursed Champion",
@@ -1326,7 +1307,7 @@
    "GaiusTheCursedChampion.png",
    "GaiustheCursedChampion.png"
   ],
-  "intro": "Gaius can be found in The Colosseum in the north east of Dunley Farmlands. Interact with the flag to summon him.",
+  "intro": "__TOC__ __NOTOC__ Gaius the Cursed Champion is a Level 55 V Blood Carrier.",
   "level": 55.0,
   "unit_id": "-753453016",
   "unlock": "",
@@ -1360,8 +1341,7 @@
    }
   ],
   "attacks": [],
-  "brutal": false,
-  "icon": "/icons/gaius_the_cursed_champion.png"
+  "brutal": false
  },
  {
   "title": "General Cassius the Betrayer",
@@ -1376,7 +1356,7 @@
    "GeneralCassiusTheBetrayer.png",
    "GeneralCassiustheBetrayer.png"
   ],
-  "intro": "Cassius can be found patrolling the roads in the northern half of the Ruins of Mortium.",
+  "intro": "__TOC__ __NOTOC__ General Cassius the Betrayer is a Level 57 V Blood Carrier.",
   "level": 57.0,
   "unit_id": "-496360395",
   "unlock": "",
@@ -1420,8 +1400,7 @@
    }
   ],
   "attacks": [],
-  "brutal": false,
-  "icon": "/icons/general_cassius_the_betrayer.png"
+  "brutal": false
  },
  {
   "title": "General Elena the Hollow",
@@ -1436,7 +1415,7 @@
    "GeneralElenaTheHollow.png",
    "GeneralElenatheHollow.png"
   ],
-  "intro": "Elena can be found patrolling around the Southern Fortress Ruins in the Ruins of Mortium.",
+  "intro": "__TOC__ __NOTOC__ General Elena the Hollow is a Level 53 V Blood Carrier.",
   "level": 53.0,
   "unit_id": "795262842",
   "unlock": "",
@@ -1497,8 +1476,7 @@
     "desc": "Elena raises an ice pillar from the ground, elevating her from attacks. The pillar can take damage and be destroyed early, and she can still attack while on the ice pillar. It disappears after 10 seconds."
    }
   ],
-  "brutal": false,
-  "icon": "/icons/general_elena_the_hollow.png"
+  "brutal": false
  },
  {
   "title": "General Valencia the Depraved",
@@ -1513,7 +1491,7 @@
    "GeneralValenciaTheDepraved.png",
    "GeneralValenciatheDepraved.png"
   ],
-  "intro": "Valencia can be found in the North Fortress Ruins in Ruins of Mortium.",
+  "intro": "__TOC__ __NOTOC__ General Valencia the Depraved is a Level 84 V Blood Carrier.",
   "level": 84.0,
   "unit_id": "495971434",
   "unlock": "",
@@ -1582,8 +1560,7 @@
     "desc": "Valencia spins her spears back and forth, damaging players who touch it and negating all damage from in front of her."
    }
   ],
-  "brutal": false,
-  "icon": "/icons/general_valencia_the_depraved.png"
+  "brutal": false
  },
  {
   "title": "Gorecrusher the Behemoth",
@@ -1598,7 +1575,7 @@
    "GorecrusherTheBehemoth.png",
    "GorecrushertheBehemoth.png"
   ],
-  "intro": "Gorecrusher can be found roaming the Cursed Forest and sometimes staying in the Lair of the Behemoth for a while. __TOC__",
+  "intro": "__TOC__ __NOTOC__ Gorecrusher the Behemoth is a Level 84 V Blood Carrier.",
   "level": 84.0,
   "unit_id": "-1936575244",
   "unlock": "",
@@ -1674,8 +1651,7 @@
     "desc": "At about 30% health, Gorecrusher will stop to roar and knockback the player, summoning a Gorecrusher Soul in the process which is essentially an illusionary clone of himself. The clone is able to perform all of Gorecrusher's attacks independently of the real one except for his leap, his Wisp Dance and Illusionary summons. If the soul would die it will instead drop down becoming immune and will stop attacking while it regenerates. The soul will resume attacking once it reaches half health and the only way to kill the soul for good is killing Gorecrusher himself."
    }
   ],
-  "brutal": false,
-  "icon": "/icons/gorecrusher_the_behemoth.png"
+  "brutal": false
  },
  {
   "title": "Goreswine the Ravager",
@@ -1690,7 +1666,7 @@
    "GoreswineTheRavager.png",
    "GoreswinetheRavager.png"
   ],
-  "intro": "Goreswine can be found roaming around the southern Farbane Woods, traveling between the Desecrated Cemetery and the Infested Cemetery escorted by four Armoured Skeletons.",
+  "intro": "__TOC__ __NOTOC__ Goreswine the Ravager is a Level 27 V Blood Carrier.",
   "level": 27.0,
   "unit_id": "577478542",
   "unlock": "",
@@ -1756,7 +1732,7 @@
    "GraysonTheArmourer.png",
    "GraysontheArmourer.png"
   ],
-  "intro": "Grayson can be found in the Bandit Armory in the western Farbane Woods.",
+  "intro": "__TOC__ __NOTOC__ Grayson the Armourer is a Level 27 V Blood Carrier.",
   "level": 27.0,
   "unit_id": "1106149033",
   "unlock": "",
@@ -1820,8 +1796,7 @@
     "desc": "He shouts \"You can't stop me!\" and summons a Poacher."
    }
   ],
-  "brutal": true,
-  "icon": "/icons/grayson_the_armourer.png"
+  "brutal": true
  },
  {
   "title": "Grethel the Glassblower",
@@ -1836,7 +1811,7 @@
    "GrethelTheGlassblower.png",
    "GretheltheGlassblower.png"
   ],
-  "intro": "Grethel can be found in the Quartz Quarry in Dunley Farmlands.",
+  "intro": "__TOC__ __NOTOC__ Grethel the Glassblower is a Level 50 V Blood Carrier.",
   "level": 50.0,
   "unit_id": "910988233",
   "unlock": "",
@@ -1870,8 +1845,7 @@
    }
   ],
   "attacks": [],
-  "brutal": false,
-  "icon": "/icons/grethel_the_glassblower.png"
+  "brutal": false
  },
  {
   "title": "Henry Blackbrew the Doctor",
@@ -1886,7 +1860,7 @@
    "HenryBlackbrewTheDoctor.png",
    "HenryBlackbrewtheDoctor.png"
   ],
-  "intro": "Henry can be found in the Trancendum Laboratories in Gloomrot North.",
+  "intro": "__TOC__ __NOTOC__ Henry Blackbrew the Doctor is a Level 74 V Blood Carrier.",
   "level": 74.0,
   "unit_id": "814083983",
   "unlock": "",
@@ -1955,8 +1929,7 @@
     "desc": "He'll charge up a skill at the center of the room and shoot 7 pulses of energy that try to push you against the wall."
    }
   ],
-  "brutal": false,
-  "icon": "/icons/henry_blackbrew_the_doctor.png"
+  "brutal": false
  },
  {
   "title": "Jade the Vampire Hunter",
@@ -1971,7 +1944,7 @@
    "JadeTheVampireHunter.png",
    "JadetheVampireHunter.png"
   ],
-  "intro": "Jade can be found patrolling the roads of the Dunley Farmlands.",
+  "intro": "__TOC__ __NOTOC__ Jade the Vampire Hunter is a Level 57 V Blood Carrier.",
   "level": 57.0,
   "unit_id": "-1968372384",
   "unlock": "",
@@ -2067,8 +2040,7 @@
     "desc": ": She shoots more often, her regular shot can inflict stun and is often lead up with her Silence shot."
    }
   ],
-  "brutal": false,
-  "icon": "/icons/jade_the_vampire_hunter.png"
+  "brutal": false
  },
  {
   "title": "Jakira the Shadow Huntress",
@@ -2083,7 +2055,7 @@
    "JakiraTheShadowHuntress.png",
    "JakiratheShadowHuntress.png"
   ],
-  "intro": "Jakira can be found patrolling the roads of the Southern Oakveil Woodlands area.",
+  "intro": "__TOC__ __NOTOC__ Jakira the Shadow Huntress is a Level 75 V Blood Carrier.",
   "level": 75.0,
   "unit_id": "-1383529374",
   "unlock": "",
@@ -2127,8 +2099,7 @@
    }
   ],
   "attacks": [],
-  "brutal": false,
-  "icon": "/icons/jakira_the_shadow_huntress.png"
+  "brutal": false
  },
  {
   "title": "Keely the Frost Archer",
@@ -2143,7 +2114,7 @@
    "KeelyTheFrostArcher.png",
    "KeelytheFrostArcher.png"
   ],
-  "intro": "Keely can be found in the Bandit Trapper Camp in eastern Farbane Woods.",
+  "intro": "__TOC__ __NOTOC__ Keely the Frost Archer is a Level 20 V Blood Carrier.",
   "level": 20.0,
   "unit_id": "1124739990",
   "unlock": "",
@@ -2195,7 +2166,7 @@
    "KodiaTheFerociousBear.png",
    "KodiatheFerociousBear.png"
   ],
-  "intro": "Kodia can be found in the Bear Cave in eastern Farbane Woods.",
+  "intro": "__TOC__ __NOTOC__ Kodia the Ferocious Bear is a Level 35 V Blood Carrier.",
   "level": 35.0,
   "unit_id": "-1391546313",
   "unlock": "",
@@ -2236,8 +2207,7 @@
     "desc": "It crouches on its haunches before charging forward in a straight line."
    }
   ],
-  "brutal": true,
-  "icon": "/icons/kodia_the_ferocious_bear.png"
+  "brutal": true
  },
  {
   "title": "Kriig the Undead General",
@@ -2252,7 +2222,7 @@
    "KriigTheUndeadGeneral.png",
    "KriigtheUndeadGeneral.png"
   ],
-  "intro": "Kriig can be found in the Haunted Iron Mine in Dunley Farmlands. Another V Blood, Meredith the Bright Archer, also patrols the same area as Kriig and frequently fights him.",
+  "intro": "__TOC__ __NOTOC__ Kriig the Undead General is a Level 47 V Blood Carrier.",
   "level": 47.0,
   "unit_id": "-1365931036",
   "unlock": "",
@@ -2307,8 +2277,7 @@
     "desc": "He summons a shield similar to the player's Ward of the Damned, blocking any attacks that hit it and summoning skeletons that fight alongside Kriig."
    }
   ],
-  "brutal": true,
-  "icon": "/icons/kriig_the_undead_general.png"
+  "brutal": true
  },
  {
   "title": "Leandra the Shadow Priestess",
@@ -2323,7 +2292,7 @@
    "LeandraTheShadowPriestess.png",
    "LeandratheShadowPriestess.png"
   ],
-  "intro": "Leandra can be found in the Church of the Damned in northern Dunley Farmlands.",
+  "intro": "__TOC__ __NOTOC__ Leandra the Shadow Priestess is a Level 47 V Blood Carrier.",
   "level": 47.0,
   "unit_id": "939467639",
   "unlock": "",
@@ -2374,8 +2343,7 @@
     "desc": "She levitates into the air and shouts \"Do you hear them? They're coming!\", and disappears as darkness obscures the edges of the player's vision. She then summons 4 shadow soldiers which will attack the player one after the other before disappearing. Leandra can use this ability multiple times per fight."
    }
   ],
-  "brutal": true,
-  "icon": "/icons/leandra_the_shadow_priestess.png"
+  "brutal": true
  },
  {
   "title": "Lidia the Chaos Archer",
@@ -2390,7 +2358,7 @@
    "LidiaTheChaosArcher.png",
    "LidiatheChaosArcher.png"
   ],
-  "intro": "Lidia can be found patrolling the roadway between Bandit Copper Mine and Bandit Logging Camp in central Farbane Woods.",
+  "intro": "__TOC__ __NOTOC__ Lidia the Chaos Archer is a Level 30 V Blood Carrier.",
   "level": 30.0,
   "unit_id": "763273073",
   "unlock": "",
@@ -2442,7 +2410,7 @@
    "LordStyxTheNightChampion.png",
    "LordStyxtheNightChampion.png"
   ],
-  "intro": "Styx can be found encircling a giant Blood Crystal just south of Gloomrot at Dracula's Demise.",
+  "intro": "__TOC__ __NOTOC__ Lord Styx the Night Champion is a Level 84 V Blood Carrier.",
   "level": 84.0,
   "unit_id": "1112948824",
   "unlock": "Bat Form",
@@ -2519,8 +2487,7 @@
     "desc": "He can now teleport behind the player."
    }
   ],
-  "brutal": false,
-  "icon": "/icons/lord_styx_the_night_champion.png"
+  "brutal": false
  },
  {
   "title": "Lucile the Venom Alchemist",
@@ -2535,7 +2502,7 @@
    "LucileTheVenomAlchemist.png",
    "LuciletheVenomAlchemist.png"
   ],
-  "intro": "Lucile can be found at the Venom Mixing Outpost in the middle of Oakveil Woodlands.",
+  "intro": "__TOC__ __NOTOC__ Lucile the Venom Alchemist is a Level 76 V Blood Carrier.",
   "level": 76.0,
   "unit_id": "1295855316",
   "unlock": "",
@@ -2579,8 +2546,7 @@
    }
   ],
   "attacks": [],
-  "brutal": false,
-  "icon": "/icons/lucile_the_venom_alchemist.png"
+  "brutal": false
  },
  {
   "title": "Mairwyn the Elementalist",
@@ -2595,7 +2561,7 @@
    "MairwynTheElementalist.png",
    "MairwyntheElementalist.png"
   ],
-  "intro": "Mairwyn can be found in the South-East region of Silverlight Hills in Emberleaf Grove.",
+  "intro": "__TOC__ __NOTOC__ Mairwyn the Elementalist is a Level 70 V Blood Carrier.",
   "level": 70.0,
   "unit_id": "-2013903325",
   "unlock": "",
@@ -2672,8 +2638,7 @@
     "desc": "Mairwyn freezes herself and summons a large fireball, the fireball rolls around, throwing small fireballs toward its target. the smaller fireballs can be intercepted by the frozen Mairwyn."
    }
   ],
-  "brutal": false,
-  "icon": "/icons/mairwyn_the_elementalist.png"
+  "brutal": false
  },
  {
   "title": "Maja the Dark Savant",
@@ -2688,7 +2653,7 @@
    "MajaTheDarkSavant.png",
    "MajatheDarkSavant.png"
   ],
-  "intro": "Maja can be found in The Forbidden Tower in the North-East of Dunley Farmlands.",
+  "intro": "__TOC__ __NOTOC__ Maja the Dark Savant is a Level 47 V Blood Carrier.",
   "level": 47.0,
   "unit_id": "1945956671",
   "unlock": "",
@@ -2747,8 +2712,7 @@
     "desc": "She shouts \"Death by a thousand paper cuts!\" or \"The exquisite suffering of a paper cut!\" or \"Here is some mandatory reading!\" or \"Do you also thirst for research?!\", and summons 7 lines of pages that fire at the player, followed by 7 more from a different angle after a delay. These projectiles are spaced further apart than those created by her Paper Barrage ability and can be avoided by standing between them."
    }
   ],
-  "brutal": true,
-  "icon": "/icons/maja_the_dark_savant.png"
+  "brutal": true
  },
  {
   "title": "Matka the Curse Weaver",
@@ -2763,7 +2727,7 @@
    "MatkaTheCurseWeaver.png",
    "MatkatheCurseWeaver.png"
   ],
-  "intro": "Matka can be found in the Nest of the Curse Weaver located in the east of the Cursed Forest.",
+  "intro": "__TOC__ __NOTOC__ Matka the Curse Weaver is a Level 76 V Blood Carrier.",
   "level": 76.0,
   "unit_id": "-910296704",
   "unlock": "",
@@ -2828,8 +2792,7 @@
     "desc": "She will say \"bones of the tree be mine\" and summon five mosquitoes that will hunt you down and explode"
    }
   ],
-  "brutal": false,
-  "icon": "/icons/matka_the_curse_weaver.png"
+  "brutal": false
  },
  {
   "title": "Megara the Serpent Queen",
@@ -2844,7 +2807,7 @@
    "MegaraTheSerpentQueen.png",
    "MegaratheSerpentQueen.png"
   ],
-  "intro": "Megara can be found in the Venom Blades Bastion in Oakveil Woodlands.",
+  "intro": "__TOC__ __NOTOC__ Megara the Serpent Queen is a Level 88 V Blood Carrier.",
   "level": 88.0,
   "unit_id": "591725925",
   "unlock": "",
@@ -2883,8 +2846,7 @@
    }
   ],
   "attacks": [],
-  "brutal": false,
-  "icon": "/icons/megara_the_serpent_queen.png"
+  "brutal": false
  },
  {
   "title": "Meredith the Bright Archer",
@@ -2899,7 +2861,7 @@
    "MeredithTheBrightArcher.png",
    "MerediththeBrightArcher.png"
   ],
-  "intro": "Meredith can be found patrolling the Haunted Iron Mine in southern Dunley Farmlands. She is escorted by 2 Militia Archers and 2 Militia Guards. She will patrol the mine while attacking any undead she comes across, including Kriig the Undead General, but will occasionally exit the mine and take a brief break before returning to her hunt.",
+  "intro": "__TOC__ __NOTOC__ Meredith the Bright Archer is a Level 50 V Blood Carrier.",
   "level": 50.0,
   "unit_id": "850622034",
   "unlock": "",
@@ -2959,8 +2921,7 @@
     "desc": "She shouts \"Light, guide my arrows!\", then shoots 10 arrows upward that will fall around her. This attack stuns the player if they get hit."
    }
   ],
-  "brutal": true,
-  "icon": "/icons/meredith_the_bright_archer.png"
+  "brutal": true
  },
  {
   "title": "Morian the Stormwing Matriarch",
@@ -2975,7 +2936,7 @@
    "MorianTheStormwingMatriarch.png",
    "MoriantheStormwingMatriarch.png"
   ],
-  "intro": "Morian can be found in the Harpy Nest within the Silverlight Hills.",
+  "intro": "__TOC__ __NOTOC__ Morian the Stormwing Matriarch is a Level 70 V Blood Carrier.",
   "level": 70.0,
   "unit_id": "685266977",
   "unlock": "",
@@ -3019,8 +2980,7 @@
    }
   ],
   "attacks": [],
-  "brutal": false,
-  "icon": "/icons/morian_the_stormwing_matriarch.png"
+  "brutal": false
  },
  {
   "title": "Nibbles the Putrid Rat",
@@ -3035,7 +2995,7 @@
    "NibblesThePutridRat.png",
    "NibblesthePutridRat.png"
   ],
-  "intro": "Nibbles cannot spawn naturally, it only appears when summoned via the Vermin Nest. Nibbles will be summoned where the Vermin Nest is placed and will return to that location if de-aggroed. It will not change locations even if the Vermin Nest is moved by the player after it was summoned.",
+  "intro": "__TOC__ __NOTOC__ Nibbles the Putrid Rat is a Level 30 V Blood Carrier.",
   "level": 30.0,
   "unit_id": "-2039908510",
   "unlock": "Rat Form",
@@ -3076,8 +3036,7 @@
     "desc": "Nibbles burrows into the ground, temporarily leaving the fight while summoning 3 Giant Rats. More rats will steadily join the fight until 9 have been summoned in total."
    }
   ],
-  "brutal": true,
-  "icon": "/icons/nibbles_the_putrid_rat.png"
+  "brutal": true
  },
  {
   "title": "Nicholaus the Fallen",
@@ -3092,7 +3051,7 @@
    "NicholausTheFallen.png",
    "NicholaustheFallen.png"
   ],
-  "intro": "Nicholaus can be found in the Forgotten Cemetery in central Farbane Woods.",
+  "intro": "__TOC__ __NOTOC__ Nicholaus the Fallen is a Level 35 V Blood Carrier.",
   "level": 35.0,
   "unit_id": "153390636",
   "unlock": "",
@@ -3152,8 +3111,7 @@
     "desc": "He says \"Let's test that meat suit of yours!\", then summons a large group of 14 Skeletons."
    }
   ],
-  "brutal": true,
-  "icon": "/icons/nicholaus_the_fallen.png"
+  "brutal": true
  },
  {
   "title": "Octavian the Militia Captain",
@@ -3168,7 +3126,7 @@
    "OctavianTheMilitiaCaptain.png",
    "OctaviantheMilitiaCaptain.png"
   ],
-  "intro": "Octavian can be found within the Bastion of Dunley in Dunley Farmlands.",
+  "intro": "__TOC__ __NOTOC__ Octavian the Militia Captain is a Level 58 V Blood Carrier.",
   "level": 58.0,
   "unit_id": "1688478381",
   "unlock": "",
@@ -3246,8 +3204,7 @@
     "desc": ": His Enrage is changed to a jump attack which he will do multiple jumps. He will also chain attack his Wide Swing and Greatsword Reverse."
    }
   ],
-  "brutal": false,
-  "icon": "/icons/octavian_the_militia_captain.png"
+  "brutal": false
  },
  {
   "title": "Polora the Feywalker",
@@ -3262,7 +3219,7 @@
    "PoloraTheFeywalker.png",
    "PoloratheFeywalker.png"
   ],
-  "intro": "Polora can be found in the Gleaming Meadows in western Farbane Woods.",
+  "intro": "__TOC__ __NOTOC__ Polora the Feywalker is a Level 35 V Blood Carrier.",
   "level": 35.0,
   "unit_id": "-484556888",
   "unlock": "",
@@ -3317,8 +3274,7 @@
     "desc": "After losing 25% of her health, Polora will periodically shout \"Spirits, hear me!\" and summon a Pixie. They fire ranged wave-like spirit attacks, but their aiming turn rate is slower. If killed, Polora may resummon a new one."
    }
   ],
-  "brutal": true,
-  "icon": "/icons/polora_the_feywalker.png"
+  "brutal": true
  },
  {
   "title": "Quincey the Bandit King",
@@ -3333,7 +3289,7 @@
    "QuinceyTheBanditKing.png",
    "QuinceytheBanditKing.png"
   ],
-  "intro": "Quincey can be found in the Bandit Stronghold in Farbane Woods. Entering the stronghold requires either the usage of Minor Explosive Boxes, or Bear Form's Bear Form ability.",
+  "intro": "__TOC__ __NOTOC__ Quincey the Bandit King is a Level 37 V Blood Carrier.",
   "level": 37.0,
   "unit_id": "-1659822956",
   "unlock": "",
@@ -3396,8 +3352,7 @@
     "desc": "At half health he shouts \"A rousing battle!\" and does 3 charges in a row. He'll be briefly stunned afterwards."
    }
   ],
-  "brutal": true,
-  "icon": "/icons/quincey_the_bandit_king.png"
+  "brutal": true
  },
  {
   "title": "Raziel the Shepherd",
@@ -3412,7 +3367,7 @@
    "RazielTheShepherd.png",
    "RazieltheShepherd.png"
   ],
-  "intro": "Raziel can be found in the Dunley Monastery, in the Dunley Farmlands region.",
+  "intro": "__TOC__ __NOTOC__ Raziel the Shepherd is a Level 57 V Blood Carrier.",
   "level": 57.0,
   "unit_id": "-680831417",
   "unlock": "",
@@ -3461,8 +3416,7 @@
    }
   ],
   "attacks": [],
-  "brutal": false,
-  "icon": "/icons/raziel_the_shepherd.png"
+  "brutal": false
  },
  {
   "title": "Rufus the Foreman",
@@ -3477,7 +3431,7 @@
    "RufusTheForeman.png",
    "RufustheForeman.png"
   ],
-  "intro": "Rufus can be found in the Bandit Logging Camp in Farbane Woods alongside some other bandits.",
+  "intro": "__TOC__ __NOTOC__ Rufus the Foreman is a Level 20 V Blood Carrier.",
   "level": 20.0,
   "unit_id": "2122229952",
   "unlock": "",
@@ -3526,8 +3480,7 @@
     "desc": "Once Rufus gets to about half health he says \"I'm gonna call you target practice!\" and fires 8 crossbow bolts in rapid succession. After that the weapon will clinck, indicating to the player that the attack is over."
    }
   ],
-  "brutal": false,
-  "icon": "/icons/rufus_the_foreman.png"
+  "brutal": false
  },
  {
   "title": "Simon Belmont the Vampire Hunter",
@@ -3542,7 +3495,7 @@
    "SimonBelmontTheVampireHunter.png",
    "SimonBelmonttheVampireHunter.png"
   ],
-  "intro": "Simon can be found wandering the roads of 3 regions, Farbane Woods, Dunley Farmlands and Silverlight Hills. See his patrol route below:",
+  "intro": "__TOC__ __NOTOC__ Simon Belmont the Vampire Hunter is a Level 80+ V Blood Carrier. Simon Belmont is a uniquely level scaling V Blood Carrier, who starts at level 80, but will always match his opponent's gear level.",
   "level": 80.0,
   "unit_id": "336560131",
   "unlock": "",
@@ -3586,8 +3539,7 @@
    }
   ],
   "attacks": [],
-  "brutal": false,
-  "icon": "/icons/simon_belmont_the_vampire_hunter.png"
+  "brutal": false
  },
  {
   "title": "Sir Erwin the Gallant Cavalier",
@@ -3602,7 +3554,7 @@
    "SirErwinTheGallantCavalier.png",
    "SirErwintheGallantCavalier.png"
   ],
-  "intro": "Sir Erwin can be found at the Horse Racing Track in the west of Dunley Farmlands.",
+  "intro": "__TOC__ __NOTOC__ Sir Erwin the Gallant Cavalier is a Level 46 V Blood Carrier.",
   "level": 46.0,
   "unit_id": "619948378",
   "unlock": "",
@@ -3661,8 +3613,7 @@
     "desc": "His horse rears up on its hind legs, he raises his sword in the air, shouts \"Charger, I think I've got it!\", \"Charge like thunder!\", or \"The Heavens are on my side!\" and charges toward the player while small lightning bolts strike in a wave that follows his charge."
    }
   ],
-  "brutal": true,
-  "icon": "/icons/sir_erwin_the_gallant_cavalier.png"
+  "brutal": true
  },
  {
   "title": "Sir Magnus the Overseer",
@@ -3677,7 +3628,7 @@
    "SirMagnusTheOverseer.png",
    "SirMagnustheOverseer.png"
   ],
-  "intro": "Magnus can be found in the Sacred Silver Mine in Silverlight Hills. Magnus is at the mouth of the mine, blocked by a gate which cannot be opened from the outside. Skirting the western or eastern edge of the mine's perimeter heading north, the player will find an entrance by jumping from a series of ledges. To exit the mine, Magnus must be defeated or sprinted past to open the gate with the interact key (F).",
+  "intro": "__TOC__ __NOTOC__ Sir Magnus the Overseer is a Level 66 V Blood Carrier.",
   "level": 66.0,
   "unit_id": "-26105228",
   "unlock": "",
@@ -3721,8 +3672,7 @@
    }
   ],
   "attacks": [],
-  "brutal": false,
-  "icon": "/icons/sir_magnus_the_overseer.png"
+  "brutal": false
  },
  {
   "title": "Solarus the Immaculate",
@@ -3737,7 +3687,7 @@
    "SolarusTheImmaculate.png",
    "SolarustheImmaculate.png"
   ],
-  "intro": "Solarus can be found inside the Fortress of Light located at the Eastern edge of the Silverlight Hills. __TOC__",
+  "intro": "Solarus the Immaculate is a Level 86 V Blood Carrier.",
   "level": 86.0,
   "unit_id": "-740796338",
   "unlock": "",
@@ -3776,8 +3726,7 @@
    }
   ],
   "attacks": [],
-  "brutal": false,
-  "icon": "/icons/solarus_the_immaculate.png"
+  "brutal": false
  },
  {
   "title": "Stavros the Carver",
@@ -3792,7 +3741,7 @@
    "StavrosTheCarver.png",
    "StavrostheCarver.png"
   ],
-  "intro": "Stavros is found in the Carvers Logging Outpost in the west of Oakveil Woodlands.",
+  "intro": "__TOC__ __NOTOC__ Stavros the Carver is a Level 75 V Blood Carrier.",
   "level": 75.0,
   "unit_id": "-1669199769",
   "unlock": "",
@@ -3836,8 +3785,7 @@
    }
   ],
   "attacks": [],
-  "brutal": false,
-  "icon": "/icons/stavros_the_carver.png"
+  "brutal": false
  },
  {
   "title": "Talzur the Winged Horror",
@@ -3852,7 +3800,7 @@
    "TalzurTheWingedHorror.png",
    "TalzurtheWingedHorror.png"
   ],
-  "intro": "Talzur can be found in the The Dreaded Peak located on the Eastern edge of the Farbane Woods. You will need to use Bat Form in order to reach this area. Talzur will also be found flying around Dracula's Demise, bombarding any player that enters, though she cannot be fought there.",
+  "intro": "Talzur the Winged Horror is a Level 86 V Blood Carrier.",
   "level": 86.0,
   "unit_id": "-393555055",
   "unlock": "",
@@ -3936,8 +3884,7 @@
     "desc": "Starting at around 30% health, The Winged Horror will spawn 2 Chaos vortexes on either side of itself and begin violently batting it's wings, causing a strong gust of wind. The player is pushed back constantly by the wind while the vortexes shoot fireballs towards the player. The batting of it's wings will also spread scorched earth if any is caught in the area."
    }
   ],
-  "brutal": false,
-  "icon": "/icons/talzur_the_winged_horror.png"
+  "brutal": false
  },
  {
   "title": "Terah the Geomancer",
@@ -3952,7 +3899,7 @@
    "TerahTheGeomancer.png",
    "TerahtheGeomancer.png"
   ],
-  "intro": "She can be found in the Bedrock Pass located in the North-Western region of Dunley Farmlands.",
+  "intro": "__TOC__ __NOTOC__ Terah the Geomancer is a Level 53 V Blood Carrier.",
   "level": 53.0,
   "unit_id": "-1065970933",
   "unlock": "",
@@ -3991,8 +3938,7 @@
    }
   ],
   "attacks": [],
-  "brutal": false,
-  "icon": "/icons/terah_the_geomancer.png"
+  "brutal": false
  },
  {
   "title": "Terrorclaw the Ogre",
@@ -4007,7 +3953,7 @@
    "TerrorclawTheOgre.png",
    "TerrorclawtheOgre.png"
   ],
-  "intro": "Ogre can be found in the Frozen Cave within the Hallowed Mountains.",
+  "intro": "__TOC__ __NOTOC__ Terrorclaw the Ogre is a Level 76 V Blood Carrier.",
   "level": 76.0,
   "unit_id": "-1347412392",
   "unlock": "",
@@ -4084,8 +4030,7 @@
     "desc": "Terrorclaw leaps in the air, slamming down in a large area dealing AoE damage. Upon landing, 4 novas of frost radiate out from the center, freezing."
    }
   ],
-  "brutal": false,
-  "icon": "/icons/terrorclaw_the_ogre.png"
+  "brutal": false
  },
  {
   "title": "Tristan the Vampire Hunter",
@@ -4100,7 +4045,7 @@
    "TristanTheVampireHunter.png",
    "TristantheVampireHunter.png"
   ],
-  "intro": "Tristan can be found patrolling on the northern roads of the Farbane Woods. The Militia and Bandits are passive to him and will allow him to pass by them without issue, but he is hostile towards Undead and Creature enemies.",
+  "intro": "__TOC__ __NOTOC__ Tristan the Vampire Hunter is a Level 44 V Blood Carrier.",
   "level": 44.0,
   "unit_id": "-1449631170",
   "unlock": "Blood Hunger",
@@ -4165,8 +4110,7 @@
     "desc": "He throws a fire bomb in the air which explodes into 5 separate bombs, lighting the ground on fire for several seconds when they land. He will often follow up this attack by firing his crossbow immediately afterwards."
    }
   ],
-  "brutal": true,
-  "icon": "/icons/tristan_the_vampire_hunter.png"
+  "brutal": true
  },
  {
   "title": "Ungora the Spider Queen",
@@ -4181,7 +4125,7 @@
    "UngoraTheSpiderQueen.png",
    "UngoratheSpiderQueen.png"
   ],
-  "intro": "Ungora can be found within the Spider Cave in the Cursed Forest region.",
+  "intro": "__TOC__ __NOTOC__ Ungora the Spider Queen is a Level 63 V Blood Carrier.",
   "level": 63.0,
   "unit_id": "-548489519",
   "unlock": "Spider Form",
@@ -4225,8 +4169,7 @@
    }
   ],
   "attacks": [],
-  "brutal": false,
-  "icon": "/icons/ungora_the_spider_queen.png"
+  "brutal": false
  },
  {
   "title": "Vincent the Frostbringer",
@@ -4241,7 +4184,7 @@
    "VincentTheFrostbringer.png",
    "VincenttheFrostbringer.png"
   ],
-  "intro": "Vincent can be found patrolling the central region of the Dunley Farmlands, starting and ending in the Militia Encampment just north of Haunted Iron Mine. His path proceeds southwest before turning north around the eastern side of Mosswick Village, heading to the northern roads of Dunley, then turning south past the eastern side of the Dunley Farmers Market to circle back to his starting point. He is guarded by two Militia Crossbowmen.",
+  "intro": "__TOC__ __NOTOC__ Vincent the Frostbringer is a Level 44 V Blood Carrier.",
   "level": 44.0,
   "unit_id": "-29797003",
   "unlock": "",
@@ -4296,8 +4239,7 @@
     "desc": "He holds his shield in the air and conjures a large vortex of ice around him that inflicts . After a brief delay the vortex detonates, dealing massive damage to players inside it. The explosion deals damage a little further than the area indicates and the damage cannot be blocked by counter or barrier spells but can be dodged with a Veil dash."
    }
   ],
-  "brutal": true,
-  "icon": "/icons/vincent_the_frostbringer.png"
+  "brutal": true
  },
  {
   "title": "Voltatia the Power Master",
@@ -4312,7 +4254,7 @@
    "VoltatiaThePowerMaster.png",
    "VoltatiathePowerMaster.png"
   ],
-  "intro": "Voltatia can be found in the Trancendum Power Plant in Gloomrot North.",
+  "intro": "__TOC__ __NOTOC__ Voltatia the Power Master is a Level 79 V Blood Carrier.",
   "level": 79.0,
   "unit_id": "2054432370",
   "unlock": "",
@@ -4356,8 +4298,7 @@
    }
   ],
   "attacks": [],
-  "brutal": false,
-  "icon": "/icons/voltatia_the_power_master.png"
+  "brutal": false
  },
  {
   "title": "Willfred the Village Elder",
@@ -4372,7 +4313,7 @@
    "WillfredTheVillageElder.png",
    "WillfredtheVillageElder.png"
   ],
-  "intro": "Willfred can be found in the Gracefall Village located in the North-Eastern region of Dunley Farmlands, but can only be fought as Willfred the Werewolf Chief during nighttime. During Daytime, Willfred reverts to human form, becoming Willfred the Village Elder, and dies if you kill him, preventing you from drinking his blood. If human form Willfred is killed, the normal V blood respawn timer will start. It is not possible to try and fight Willfred at lower hp by damaging him during the day first; When Willfred transforms back into werewolf form, all HP is regained.",
+  "intro": "__TOC__ __NOTOC__ Willfred the Village Elder is a Level 64 V Blood Carrier.",
   "level": 64.0,
   "unit_id": "-1007062401",
   "unlock": "",
@@ -4433,8 +4374,7 @@
     "desc": "Willfred will turn invisible and encircle his prey. On Brutal Difficulty, Willfred will also summon a Frost Wolf for every player in combat. When he reveals himself again, Willfred will lunge at you with an attack that inflicts the Heart Strike debuff, This explodes and deals damage after 3 seconds. This attack's application and explosion cannot be countered, only evaded If an invulnerability effect is active when the effect expires, such as that from a successful counter or a dash, no damage will be taken . Occasionally Willfred will summon a copy of himself, which also performs Heart Strike once in close proximity. This appears to trigger randomly. Citation needed"
    }
   ],
-  "brutal": false,
-  "icon": "/icons/willfred_the_village_elder.png"
+  "brutal": false
  },
  {
   "title": "Ziva the Engineer",
@@ -4449,7 +4389,7 @@
    "ZivaTheEngineer.png",
    "ZivatheEngineer.png"
   ],
-  "intro": "Ziva can be found in the Trancendum Machine Factory in Gloomrot South.",
+  "intro": "__TOC__ __NOTOC__ Ziva the Engineer is a Level 60 V Blood Carrier.",
   "level": 60.0,
   "unit_id": "172235178",
   "unlock": "",
@@ -4493,7 +4433,6 @@
    }
   ],
   "attacks": [],
-  "brutal": false,
-  "icon": "/icons/ziva_the_engineer.png"
+  "brutal": false
  }
 ]

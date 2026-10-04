@@ -10,7 +10,7 @@
    "Armour AlucardArmourSet.png",
    "AlucardArmourSet.png"
   ],
-  "intro": "!Item!!Materials!!Structure",
+  "intro": "The Alucard Armour Set is a purly cosmetic armour set and grants no attributes. It is part of the Legacy of Castlevania Premium Pack DLC, and all of its armour pieces can be crafted at the Tailoring Bench. DLC Outfits can be shared with and equipped by vampires who don't own the DLC.",
   "gear_level": 1.0,
   "stats": "",
   "set_bonus": "",
@@ -30,14 +30,13 @@
    "Armour AshfolkCrown.png",
    "AshfolkCrown.png"
   ],
-  "intro": "VRISINGPAGE is a cosmetic Tier 3 Hat. Hats of this tier can be obtained from fishing (1.64%), chests (7.5%) and carriages (10%) in Cursed Forest, Silverlight Hills, Oakveil Woodlands & Gloomrot North.",
+  "intro": "Ashfolk Crown is a cosmetic Tier 3 Hat. Hats of this tier can be obtained from fishing (1.64%), chests (7.5%) and carriages (10%) in Cursed Forest, Silverlight Hills, Oakveil Woodlands & Gloomrot North.",
   "gear_level": null,
   "stats": "None",
   "set_bonus": "",
   "durability": null,
   "salvageable": "No",
-  "is_set": false,
-  "icon": "/icons/ashfolk_crown.png"
+  "is_set": false
  },
  {
   "title": "Ashfolk Crystal Ice Cloak",
@@ -51,14 +50,13 @@
    "Armour AshfolkCrystalIceCloak.png",
    "AshfolkCrystalIceCloak.png"
   ],
-  "intro": "Like many other cloaks, obtaining the VRISINGPAGE comes down to lucky, loot drops from enemies, chests, fishing and carriages. Below is where it can be acquired, the quantity, and the drop chance: !Source !!Amount !!Chance",
+  "intro": "Like many other cloaks, obtaining the Ashfolk Crystal Ice Cloak comes down to lucky, loot drops from enemies, chests, fishing and carriages. Below is where it can be acquired, the quantity, and the drop chance:",
   "gear_level": null,
   "stats": "+18 Max Health +15 Sun Resistance Rating +15 Garlic Resistance Rating +15 Silver Resistance Rating",
   "set_bonus": "",
   "durability": null,
   "salvageable": "4 Cotton Yarn",
-  "is_set": false,
-  "icon": "/icons/ashfolk_crystal_ice_cloak.png"
+  "is_set": false
  },
  {
   "title": "Ashfolk Helmet",
@@ -72,14 +70,13 @@
    "Armour AshfolkHelmet.png",
    "AshfolkHelmet.png"
   ],
-  "intro": "VRISINGPAGE is a cosmetic Head Armour. It can be purchased from the City Goods Vendor in Silverlight Hills for Goldsun Coin.",
+  "intro": "Ashfolk Helmet is a cosmetic Head Armour. It can be purchased from the City Goods Vendor in Silverlight Hills for Goldsun Coin.",
   "gear_level": null,
   "stats": "None",
   "set_bonus": "",
   "durability": null,
   "salvageable": "No",
-  "is_set": false,
-  "icon": "/icons/ashfolk_helmet.png"
+  "is_set": false
  },
  {
   "title": "Ashfolk Wildfire Drape",
@@ -93,14 +90,13 @@
    "Armour AshfolkWildfireDrape.png",
    "AshfolkWildfireDrape.png"
   ],
-  "intro": "Like many other cloaks, obtaining the VRISINGPAGE comes down to lucky, loot drops from enemies, chests, fishing and carriages. Below is where it can be acquired, the quantity, and the drop chance: !Source !!Amount !!Chance",
+  "intro": "Like many other cloaks, obtaining the Ashfolk Wildfire Drape comes down to lucky, loot drops from enemies, chests, fishing and carriages. Below is where it can be acquired, the quantity, and the drop chance:",
   "gear_level": null,
   "stats": "+18 Max Health +15 Sun Resistance Rating +15 Garlic Resistance Rating +15 Silver Resistance Rating",
   "set_bonus": "",
   "durability": null,
   "salvageable": "4 Cotton Yarn",
-  "is_set": false,
-  "icon": "/icons/ashfolk_wildfire_drape.png"
+  "is_set": false
  },
  {
   "title": "Bandit's Hood",
@@ -115,14 +111,13 @@
    "Bandit'SHood.png",
    "Bandit'sHood.png"
   ],
-  "intro": "VRISINGPAGE is a cosmetic Head Armour currently unobtainable.",
+  "intro": "Bandit's Hood is a cosmetic Head Armour currently unobtainable.",
   "gear_level": null,
   "stats": "None",
   "set_bonus": "",
   "durability": null,
   "salvageable": "No",
-  "is_set": false,
-  "icon": "/icons/bandit_s_hood.png"
+  "is_set": false
  },
  {
   "title": "Bear Head",
@@ -136,14 +131,13 @@
    "Armour BearHead.png",
    "BearHead.png"
   ],
-  "intro": "VRISINGPAGE is a cosmetic Head Armour. It can be purchased from the Rural Goods Vendor in Dunley Farmlands for Silver Coin.",
+  "intro": "Bear Head is a cosmetic Head Armour. It can be purchased from the Rural Goods Vendor in Dunley Farmlands for Silver Coin.",
   "gear_level": null,
   "stats": "None",
   "set_bonus": "",
   "durability": null,
   "salvageable": "No",
-  "is_set": false,
-  "icon": "/icons/bear_head.png"
+  "is_set": false
  },
  {
   "title": "Beatrice's Scarf",
@@ -158,14 +152,13 @@
    "Beatrice'SScarf.png",
    "Beatrice'sScarf.png"
   ],
-  "intro": "Like many other cloaks, obtaining the VRISINGPAGE comes down to lucky, loot drops from enemies, chests, fishing and carriages. Below is where it can be acquired, the quantity, and the drop chance: !Source !!Amount !!Chance",
+  "intro": "Like many other cloaks, obtaining the Beatrice's Scarf comes down to lucky, loot drops from enemies, chests, fishing and carriages. Below is where it can be acquired, the quantity, and the drop chance:",
   "gear_level": null,
   "stats": "+18 Max Health +15 Sun Resistance Rating +15 Garlic Resistance Rating +15 Silver Resistance Rating",
   "set_bonus": "",
   "durability": null,
   "salvageable": "4 Cotton Yarn",
-  "is_set": false,
-  "icon": "/icons/beatrice_s_scarf.png"
+  "is_set": false
  },
  {
   "title": "Blood Hunter Armour Set",
@@ -178,7 +171,7 @@
    "Armour BloodHunterArmourSet.png",
    "BloodHunterArmourSet.png"
   ],
-  "intro": "*(2) Increase Weapon Skill Power by . *(3) Increase Gear Level by . *(4) Increase Weapon Cooldown Rate by .",
+  "intro": "The Blood Hunter Armour Set is one of the four upgraded versions of the Hollowfang Armour Set. A blueprint from this set has a 25% chance to drop from the V Bloods Bane, Octavian & Angram. Pieces can be crafted at the Tailoring Bench after researching from within the Study. Set blueprints are sold at the Rural Book Merchant for Silver Coin. __TOC__ __NOTOC__",
   "gear_level": 6.0,
   "stats": "+473 Total Max Health +4.8% Total Physical Power",
   "set_bonus": "(2) Increase Weapon Skill Power by . (3) Increase Gear Level by . (4) Increase Weapon Cooldown Rate by .",
@@ -197,14 +190,13 @@
    "Item BloodmoonBoots.png",
    "BloodmoonBoots.png"
   ],
-  "intro": "VRISINGPAGE was the next tier of boots after Dawnthorn Boots. With the Update 1.0 it was replaced with 4 variants: *Shadowmoon Boots *Grim Knight Boots *Dread Plate Boots *Maleficer Scholar Boots",
+  "intro": "Bloodmoon Boots was the next tier of boots after Dawnthorn Boots. With the Update 1.0 it was replaced with 4 variants: *Shadowmoon Boots *Grim Knight Boots *Dread Plate Boots *Maleficer Scholar Boots",
   "gear_level": 8.0,
   "stats": "+69.8 Max Health",
   "set_bonus": "(2) Increase movement speed by 6%. (4) Increases attack speed by 6% and increases Gear Level by 1.",
   "durability": 1359.0,
   "salvageable": "3 Pristine Leather 3 Silk",
-  "is_set": false,
-  "icon": "/icons/bloodmoon_boots.png"
+  "is_set": false
  },
  {
   "title": "Bloodmoon Chestguard",
@@ -217,14 +209,13 @@
    "Item BloodmoonChestguard.png",
    "BloodmoonChestguard.png"
   ],
-  "intro": "VRISINGPAGE was the next tier of chestguard after Dawnthorn Chestguard. With the Update 1.0 it was replaced with 4 variants: *Shadowmoon Chestguard *Grim Knight Chestguard *Dread Plate Chestguard *Maleficer Scholar Chestguard",
+  "intro": "Bloodmoon Chestguard was the next tier of chestguard after Dawnthorn Chestguard. With the Update 1.0 it was replaced with 4 variants: *Shadowmoon Chestguard *Grim Knight Chestguard *Dread Plate Chestguard *Maleficer Scholar Chestguard",
   "gear_level": 8.0,
   "stats": "+97.7 Max Health",
   "set_bonus": "(2) Increase movement speed by 6%. (4) Increases attack speed by 6% and increases Gear Level by 1.",
   "durability": 1359.0,
   "salvageable": "3 Pristine Leather 3 Silk",
-  "is_set": false,
-  "icon": "/icons/bloodmoon_chestguard.png"
+  "is_set": false
  },
  {
   "title": "Bloodmoon Gloves",
@@ -237,14 +228,13 @@
    "Item BloodmoonGloves.png",
    "BloodmoonGloves.png"
   ],
-  "intro": "VRISINGPAGE was the next tier of gloves after Dawnthorn Gloves. With the Update 1.0 it was replaced with 4 variants: *Shadowmoon Gloves *Grim Knight Gloves *Dread Plate Gloves *Maleficer Scholar Gloves",
+  "intro": "Bloodmoon Gloves was the next tier of gloves after Dawnthorn Gloves. With the Update 1.0 it was replaced with 4 variants: *Shadowmoon Gloves *Grim Knight Gloves *Dread Plate Gloves *Maleficer Scholar Gloves",
   "gear_level": 8.0,
   "stats": "+55.8 Max Health",
   "set_bonus": "(2) Increase movement speed by 6%. (4) Increases attack speed by 6% and increases Gear Level by 1.",
   "durability": 1359.0,
   "salvageable": "3 Pristine Leather 3 Silk",
-  "is_set": false,
-  "icon": "/icons/bloodmoon_gloves.png"
+  "is_set": false
  },
  {
   "title": "Bloodmoon Leggings",
@@ -257,14 +247,13 @@
    "Item BloodmoonLeggings.png",
    "BloodmoonLeggings.png"
   ],
-  "intro": "VRISINGPAGE was the next tier of leggings after Dawnthorn Leggings. With the Update 1.0 it was replaced with 4 variants: *Shadowmoon Leggings *Grim Knight Leggings *Dread Plate Leggings *Maleficer Scholar Leggings",
+  "intro": "Bloodmoon Leggings was the next tier of leggings after Dawnthorn Leggings. With the Update 1.0 it was replaced with 4 variants: *Shadowmoon Leggings *Grim Knight Leggings *Dread Plate Leggings *Maleficer Scholar Leggings",
   "gear_level": 8.0,
   "stats": "+83.8 Max Health",
   "set_bonus": "(2) Increase movement speed by 6%. (4) Increases attack speed by 6% and increases Gear Level by 1.",
   "durability": 1359.0,
   "salvageable": "3 Pristine Leather 3 Silk",
-  "is_set": false,
-  "icon": "/icons/bloodmoon_leggings.png"
+  "is_set": false
  },
  {
   "title": "Bloodstained Drape",
@@ -278,14 +267,13 @@
    "Armour BloodstainedDrape.png",
    "BloodstainedDrape.png"
   ],
-  "intro": "Like many other cloaks, obtaining the VRISINGPAGE comes down to lucky, loot drops from enemies, chests, fishing and carriages. Below is where it can be acquired, the quantity, and the drop chance: !Source !!Amount !!Chance",
+  "intro": "Like many other cloaks, obtaining the Bloodstained Drape comes down to lucky, loot drops from enemies, chests, fishing and carriages. Below is where it can be acquired, the quantity, and the drop chance:",
   "gear_level": null,
   "stats": "+12 Max Health +15 Sun Resistance Rating",
   "set_bonus": "",
   "durability": null,
   "salvageable": "2 Cloth 2 Leather",
-  "is_set": false,
-  "icon": "/icons/bloodstained_drape.png"
+  "is_set": false
  },
  {
   "title": "Boneguard Armour Set",
@@ -298,7 +286,7 @@
    "Armour BoneguardArmourSet.png",
    "BoneguardArmourSet.png"
   ],
-  "intro": "!Item!!Materials!!Structure",
+  "intro": "The Boneguard Armour Set is unlocked after completing the quest Defensive Measures. It is the first tier of armor the player can craft.",
   "gear_level": 1.0,
   "stats": "+89 Total Max Health",
   "set_bonus": "",
@@ -318,14 +306,13 @@
    "Armour BoneguardMask.png",
    "BoneguardMask.png"
   ],
-  "intro": "VRISINGPAGE is a cosmetic Head Armour. It can only be obtained with a 2% chance when looting Sarcophaguses in various graveyard Locations, mainly in Farbane Woods.",
+  "intro": "Boneguard Mask is a cosmetic Head Armour. It can only be obtained with a 2% chance when looting Sarcophaguses in various graveyard Locations, mainly in Farbane Woods.",
   "gear_level": null,
   "stats": "None",
   "set_bonus": "",
   "durability": null,
   "salvageable": "No",
-  "is_set": false,
-  "icon": "/icons/boneguard_mask.png"
+  "is_set": false
  },
  {
   "title": "Bonnet",
@@ -339,14 +326,13 @@
    "Armour Bonnet.png",
    "Bonnet.png"
   ],
-  "intro": "VRISINGPAGE is a cosmetic Tier 2/3 Hat. Hats of this tier can be obtained from fishing (3.14% / 1.64%), chests (7.5%) and carriages (10%) in all regions except the Farbane Woods. Because this hat is uniquely a part of both tier 2 and tier 3 loot pools, fishing in the Cursed Forest yields the highest odds of obtaining it. Alongside other Tier 2 hats, it also has a 1.71% chance to drop from Abomination.",
+  "intro": "Bonnet is a cosmetic Tier 2/3 Hat. Hats of this tier can be obtained from fishing (3.14% / 1.64%), chests (7.5%) and carriages (10%) in all regions except the Farbane Woods. Because this hat is uniquely a part of both tier 2 and tier 3 loot pools, fishing in the Cursed Forest yields the highest odds of obtaining it. Alongside other Tier 2 hats, it also has a 1.71% chance to drop from Abomination.",
   "gear_level": null,
   "stats": "None",
   "set_bonus": "",
   "durability": null,
   "salvageable": "No",
-  "is_set": false,
-  "icon": "/icons/bonnet.png"
+  "is_set": false
  },
  {
   "title": "Cardinal's Cloak",
@@ -361,14 +347,13 @@
    "Cardinal'SCloak.png",
    "Cardinal'sCloak.png"
   ],
-  "intro": "Like many other cloaks, obtaining the VRISINGPAGE comes down to lucky, loot drops from enemies, chests, fishing and carriages. Below is where it can be acquired, the quantity, and the drop chance: !Source !!Amount !!Chance",
+  "intro": "Like many other cloaks, obtaining the Cardinal's Cloak comes down to lucky, loot drops from enemies, chests, fishing and carriages. Below is where it can be acquired, the quantity, and the drop chance:",
   "gear_level": null,
   "stats": "+18 Max Health +15 Sun Resistance Rating +15 Garlic Resistance Rating +15 Silver Resistance Rating",
   "set_bonus": "",
   "durability": null,
   "salvageable": "4 Cotton Yarn",
-  "is_set": false,
-  "icon": "/icons/cardinal_s_cloak.png"
+  "is_set": false
  },
  {
   "title": "Chaos Stitched Drape",
@@ -382,14 +367,13 @@
    "Armour ChaosStitchedDrape.png",
    "ChaosStitchedDrape.png"
   ],
-  "intro": "Like many other cloaks, obtaining the VRISINGPAGE comes down to lucky, loot drops from enemies, chests, fishing and carriages. Below is where it can be acquired, the quantity, and the drop chance: !Source !!Amount !!Chance",
+  "intro": "Like many other cloaks, obtaining the Chaos Stitched Drape comes down to lucky, loot drops from enemies, chests, fishing and carriages. Below is where it can be acquired, the quantity, and the drop chance:",
   "gear_level": null,
   "stats": "+12 Max Health +15 Sun Resistance Rating",
   "set_bonus": "",
   "durability": null,
   "salvageable": "2 Cloth 2 Leather",
-  "is_set": false,
-  "icon": "/icons/chaos_stitched_drape.png"
+  "is_set": false
  },
  {
   "title": "Chemical Soaked Cloak",
@@ -409,8 +393,7 @@
   "set_bonus": "",
   "durability": null,
   "salvageable": "4 Cotton Yarn",
-  "is_set": false,
-  "icon": "/icons/chemical_soaked_cloak.png"
+  "is_set": false
  },
  {
   "title": "Chemical Soaked Drape",
@@ -430,8 +413,7 @@
   "set_bonus": "",
   "durability": null,
   "salvageable": "2 Cloth 2 Leather",
-  "is_set": false,
-  "icon": "/icons/chemical_soaked_drape.png"
+  "is_set": false
  },
  {
   "title": "Chemical Soaked Regalia",
@@ -451,8 +433,7 @@
   "set_bonus": "",
   "durability": null,
   "salvageable": "4 Silk 4 Spectral Dust",
-  "is_set": false,
-  "icon": "/icons/chemical_soaked_regalia.png"
+  "is_set": false
  },
  {
   "title": "Copper Helm",
@@ -466,14 +447,13 @@
    "Armour CopperHelm.png",
    "CopperHelm.png"
   ],
-  "intro": "VRISINGPAGE is a cosmetic Head Armour currently unobtainable.",
+  "intro": "Copper Helm is a cosmetic Head Armour currently unobtainable.",
   "gear_level": null,
   "stats": "None",
   "set_bonus": "",
   "durability": null,
   "salvageable": "No",
-  "is_set": false,
-  "icon": "/icons/copper_helm.png"
+  "is_set": false
  },
  {
   "title": "Crimson Templar Armour Set",
@@ -486,7 +466,7 @@
    "Armour CrimsonTemplarArmourSet.png",
    "CrimsonTemplarArmourSet.png"
   ],
-  "intro": "*(2) Increase Primary Attack Leech by . *(3) Increase Gear Level by . *(4) Increase Damage Reduction by .",
+  "intro": "The Crimson Templar Armour Set is one of the four upgraded versions of the Hollowfang Armour Set. A blueprint from this set has a 25% chance to drop from the V Bloods Bane, Octavian & Angram. They can be crafted at the Tailoring Bench after researching from within the Study. Set blueprints are sold at the Rural Book Merchant for Silver Coin.",
   "gear_level": 6.0,
   "stats": "+473 Total Max Health +7.2% Total Weapon Attack Speed",
   "set_bonus": "(2) Increase Primary Attack Leech by . (3) Increase Gear Level by . (4) Increase Damage Reduction by .",
@@ -506,14 +486,13 @@
    "Armour CrimsonWard.png",
    "CrimsonWard.png"
   ],
-  "intro": "Like many other cloaks, obtaining the VRISINGPAGE comes down to lucky, loot drops from enemies, chests, fishing and carriages. Is also sold at the Treasure Hunter Trade Post for Goldsun Coin 50% of the time. Below is where it can be acquired, the quantity, and the drop chance: !Source !!Amount !!Chance",
+  "intro": "Like many other cloaks, obtaining the Crimson Ward comes down to lucky, loot drops from enemies, chests, fishing and carriages. Is also sold at the Treasure Hunter Trade Post for Goldsun Coin 50% of the time. Below is where it can be acquired, the quantity, and the drop chance:",
   "gear_level": null,
   "stats": "+24 Max Health +15 Sun Resistance Rating +15 Garlic Resistance Rating +15 Silver Resistance Rating +15 Fire Resistance Rating +15 Holy Resistance Rating",
   "set_bonus": "",
   "durability": null,
   "salvageable": "4 Silk 4 Spectral Dust",
-  "is_set": false,
-  "icon": "/icons/crimson_ward.png"
+  "is_set": false
  },
  {
   "title": "Crown of the Archmage",
@@ -528,14 +507,13 @@
    "CrownOfTheArchmage.png",
    "CrownoftheArchmage.png"
   ],
-  "intro": "VRISINGPAGE is a cosmetic Tier 3 Hat. Hats of this tier can be obtained from fishing (1.64%), chests (7.5%) and carriages (10%) in Cursed Forest, Silverlight Hills, Oakveil Woodlands & Gloomrot North. It was made available in Update 1.1.",
+  "intro": "Crown of the Archmage is a cosmetic Tier 3 Hat. Hats of this tier can be obtained from fishing (1.64%), chests (7.5%) and carriages (10%) in Cursed Forest, Silverlight Hills, Oakveil Woodlands & Gloomrot North. It was made available in Update 1.1.",
   "gear_level": null,
   "stats": "None",
   "set_bonus": "",
   "durability": null,
   "salvageable": "No",
-  "is_set": false,
-  "icon": "/icons/crown_of_the_archmage.png"
+  "is_set": false
  },
  {
   "title": "Dark Leather Mantle",
@@ -549,14 +527,13 @@
    "Armour DarkLeatherMantle.png",
    "DarkLeatherMantle.png"
   ],
-  "intro": "Like many other cloaks, obtaining the VRISINGPAGE comes down to lucky, loot drops from enemies, chests, fishing and carriages. Below is where it can be acquired, the quantity, and the drop chance: !Source !!Amount !!Chance",
+  "intro": "Like many other cloaks, obtaining the Dark Leather Mantle comes down to lucky, loot drops from enemies, chests, fishing and carriages. Below is where it can be acquired, the quantity, and the drop chance:",
   "gear_level": null,
   "stats": "+12 Max Health +15 Sun Resistance Rating",
   "set_bonus": "",
   "durability": null,
   "salvageable": "2 Cloth 2 Leather",
-  "is_set": false,
-  "icon": "/icons/dark_leather_mantle.png"
+  "is_set": false
  },
  {
   "title": "Dark Magus Armour Set",
@@ -569,7 +546,7 @@
    "Armour DarkMagusArmourSet.png",
    "DarkMagusArmourSet.png"
   ],
-  "intro": "*(2) Increase Spell Cooldown Rate by . *(3) Increase Gear Level by . *(4) Increase Spell Leech by .",
+  "intro": "The Dark Magus Armour Set is one of the four upgraded versions of the Hollowfang Armour Set. A blueprint from this set has a 25% chance to drop from the V Bloods Bane, Octavian & Angram. Pieces can be crafted at the Tailoring Bench after researching from within the Study. Set blueprints are sold at the Rural Book Merchant for Silver Coin.",
   "gear_level": 6.0,
   "stats": "+473 Total Max Health +6% Total Bonus Spell Power",
   "set_bonus": "(2) Increase Spell Cooldown Rate by . (3) Increase Gear Level by . (4) Increase Spell Leech by .",
@@ -588,7 +565,7 @@
    "Armour DawnthornArmourSet.png",
    "DawnthornArmourSet.png"
   ],
-  "intro": "*(2) Increase Movement Speed by . *(4) Increase Gear Level by .",
+  "intro": "The Dawnthorn Armour Set can be crafted at the Tailoring Bench after unlocking the recipe by slaying Angram the Purifier.",
   "gear_level": 7.0,
   "stats": "+580 Total Max Health",
   "set_bonus": "(2) Increase Movement Speed by . (4) Increase Gear Level by .",
@@ -608,14 +585,13 @@
    "Armour DeerHead.png",
    "DeerHead.png"
   ],
-  "intro": "VRISINGPAGE is a cosmetic Head Armour. It can be purchased from the Rural Goods Vendor in Dunley Farmlands for Silver Coin.",
+  "intro": "Deer Head is a cosmetic Head Armour. It can be purchased from the Rural Goods Vendor in Dunley Farmlands for Silver Coin.",
   "gear_level": null,
   "stats": "None",
   "set_bonus": "",
   "durability": null,
   "salvageable": "No",
-  "is_set": false,
-  "icon": "/icons/deer_head.png"
+  "is_set": false
  },
  {
   "title": "Dracula's Dread Armour Set",
@@ -629,7 +605,7 @@
    "Dracula'SDreadArmourSet.png",
    "Dracula'sDreadArmourSet.png"
   ],
-  "intro": "*(2) Increases Weapon Skill Power by . *(3) Increase Weapon Cooldown Rate by . *(4) Veil attacks deal bonus damage.",
+  "intro": "The Dracula's Dread Armour Set is the upgraded versions of the Dread Plate Armour Set. All of its armour pieces can be crafted at the Tailoring Bench after having been unlocked by slaying Adam the Firstborn, Megara the Serpent Queen, Solarus the Immaculate & Talzur the Winged Horror respectively.",
   "gear_level": 9.0,
   "stats": "+812 Total Max Health +4.8 Total Bonus Physical Power",
   "set_bonus": "(2) Increases Weapon Skill Power by . (3) Increase Weapon Cooldown Rate by . (4) Veil attacks deal bonus damage.",
@@ -649,7 +625,7 @@
    "Dracula'SGrimArmourSet.png",
    "Dracula'sGrimArmourSet.png"
   ],
-  "intro": "*(2) Increases Primary Attack Leech by . *(3) Increase Damage Reduction by . *(4) Veil attacks heal for additional max health and gain attack speed for after using a Veil.",
+  "intro": "The Dracula's Grim Armour Set is the upgraded versions of the Grim Knight Armour Set. All of its armour pieces can be crafted at the Tailoring Bench after having been unlocked by slaying Adam the Firstborn, Megara the Serpent Queen, Solarus the Immaculate & Talzur the Winged Horror respectively.",
   "gear_level": 9.0,
   "stats": "+812 Total Max Health +7.2% Total Weapon Attack Speed",
   "set_bonus": "(2) Increases Primary Attack Leech by . '(3) Increase Damage Reduction by . '(4) Veil attacks heal for additional max health and gain attack speed for after using a Veil.",
@@ -669,7 +645,7 @@
    "Dracula'SMaleficerArmourSet.png",
    "Dracula'sMaleficerArmourSet.png"
   ],
-  "intro": "*(2) Increase Spell Cooldown Rate by . *(3) Increase Spell Leech by . *(4) Gain Spell Critical Chance for after using a Veil.",
+  "intro": "The Dracula's Maleficer Armour Set is the upgraded versions of the Maleficer Scholar Armour Set. All of its armour pieces can be crafted at the Tailoring Bench after having been unlocked by slaying Adam the Firstborn, Megara the Serpent Queen, Solarus the Immaculate & Talzur the Winged Horror respectively.",
   "gear_level": 9.0,
   "stats": "+812 Total Max Health +6% Total Bonus Spell Power",
   "set_bonus": "(2) Increase Spell Cooldown Rate by . (3) Increase Spell Leech by . (4) Gain Spell Critical Chance for after using a Veil.",
@@ -689,7 +665,7 @@
    "Dracula'SShadowArmourSet.png",
    "Dracula'sShadowArmourSet.png"
   ],
-  "intro": "*(2) Increases Movement Speed by . *(3) Increases Veil Cooldown Rate by . *(4) Gain Physical Critical Chance and movement speed for after using a Veil.",
+  "intro": "The Dracula's Shadow Armour Set is the upgraded versions of the Shadowmoon Armour Set. All of its armour pieces can be crafted at the Tailoring Bench after having been unlocked by slaying Adam the Firstborn, Megara the Serpent Queen, Solarus the Immaculate & Talzur the Winged Horror respectively.",
   "gear_level": 9.0,
   "stats": "+812 Total Max Health +8% Total Physical Critical Chance",
   "set_bonus": "(2) Increases Movement Speed by . (3) Increases Veil Cooldown Rate by . (4) Gain Physical Critical Chance and movement speed for after using a Veil.",
@@ -708,7 +684,7 @@
    "Armour DreadPlateArmourSet.png",
    "DreadPlateArmourSet.png"
   ],
-  "intro": "*(2) Increase Weapon Skill Power by . *(3) Increase Weapon Cooldown Rate by . *(4) Increase Gear Level by .",
+  "intro": "__TOC__ __NOTOC__ The Dread Plate Armour Set is one of the four upgraded versions of the Dawnthorn Armour Set. All of its armour pieces can be crafted at the Tailoring Bench after researching from within the Athenaeum. Set blueprints are sold at the City Book Vendor for Goldsun Coin.",
   "gear_level": 8.0,
   "stats": "+694 Total Max Health +4.8% Total Bonus Physical Power",
   "set_bonus": "(2) Increase Weapon Skill Power by . (3) Increase Weapon Cooldown Rate by . (4) Increase Gear Level by .",
@@ -727,7 +703,7 @@
    "Armour DuskwatcherArmourSet.png",
    "DuskwatcherArmourSet.png"
   ],
-  "intro": "*(2) Increase Movement Speed by . *(3) Increase Gear Level by . *(4) Increase Veil Cooldown Rate by .",
+  "intro": "The Duskwatcher Armour Set is one of the four upgraded versions of the Hollowfang Armour Set. A blueprint from this set has a 25% chance to drop from the V Bloods Bane, Octavian & Angram. Pieces can be crafted at the Tailoring Bench after researching from within the Study. Set blueprints are sold at the Rural Book Merchant for Silver Coin.",
   "gear_level": 6.0,
   "stats": "+473 Total Max Health +8% Total Physical Critical Chance",
   "set_bonus": "(2) Increase Movement Speed by . (3) Increase Gear Level by . (4) Increase Veil Cooldown Rate by .",
@@ -748,14 +724,13 @@
    "Footman'SHelmet.png",
    "Footman'sHelmet.png"
   ],
-  "intro": "VRISINGPAGE is a cosmetic Tier 2 Hat. Hats of this tier can be obtained from fishing (3.14%), chests (7.5%) and carriages (10%) in Dunley Farmlands, Ruins of Mortium, Gloomrot South. Alongside other Tier 2 hats, it also has a 1.71% chance to drop from Abomination.",
+  "intro": "Footman's Helmet is a cosmetic Tier 2 Hat. Hats of this tier can be obtained from fishing (3.14%), chests (7.5%) and carriages (10%) in Dunley Farmlands, Ruins of Mortium, Gloomrot South. Alongside other Tier 2 hats, it also has a 1.71% chance to drop from Abomination.",
   "gear_level": null,
   "stats": "None",
   "set_bonus": "",
   "durability": null,
   "salvageable": "No",
-  "is_set": false,
-  "icon": "/icons/footman_s_helmet.png"
+  "is_set": false
  },
  {
   "title": "Glacial Stitched Drape",
@@ -769,14 +744,13 @@
    "Armour GlacialStitchedDrape.png",
    "GlacialStitchedDrape.png"
   ],
-  "intro": "Like many other cloaks, obtaining the VRISINGPAGE comes down to lucky, loot drops from enemies, chests, fishing and carriages. Below is where it can be acquired, the quantity, and the drop chance: !Source !!Amount !!Chance",
+  "intro": "Like many other cloaks, obtaining the Glacial Stitched Drape comes down to lucky, loot drops from enemies, chests, fishing and carriages. Below is where it can be acquired, the quantity, and the drop chance:",
   "gear_level": null,
   "stats": "+12 Max Health +15 Sun Resistance Rating",
   "set_bonus": "",
   "durability": null,
   "salvageable": "2 Cloth 2 Leather",
-  "is_set": false,
-  "icon": "/icons/glacial_stitched_drape.png"
+  "is_set": false
  },
  {
   "title": "Grim Knight Armour Set",
@@ -789,7 +763,7 @@
    "Armour GrimKnightArmourSet.png",
    "GrimKnightArmourSet.png"
   ],
-  "intro": "*(2) Increase Primary Attack Leech by . *(3) Increase Damage Reduction by . *(4) Increase Gear Level by .",
+  "intro": "__TOC__ __NOTOC__ The Grim Knight Armour Set is one of the four upgraded versions of the Dawnthorn Armour Set. All of its armour pieces can be crafted at the Tailoring Bench after researching from within the Athenaeum. Set blueprints are sold at the City Book Vendor for Goldsun Coin.",
   "gear_level": 8.0,
   "stats": "+694 Total Max Health 7.2% Total Weapon Attack Speed",
   "set_bonus": "(2) Increase Primary Attack Leech by . (3) Increase Damage Reduction by . (4) Increase Gear Level by .",
@@ -808,7 +782,7 @@
    "Armour GrimRangerArmourSet.png",
    "GrimRangerArmourSet.png"
   ],
-  "intro": "*(2) Increase Weapon Skill Power by . *(4) Increase Gear Level by .",
+  "intro": "The Grim Ranger Armour Set is one of the four upgraded versions of the Nightstalker Armour Set. All of its armour pieces can be crafted at the Simple Workbench after researching from within the Research Desk. It is also sold at the Shady Book Dealer for Copper Coins. __TOC__ __NOTOC__",
   "gear_level": 4.0,
   "stats": "+282 Total Max Health +4.8% Total Bonus Physical Power",
   "set_bonus": "(2) Increase Weapon Skill Power by . (4) Increase Gear Level by .",
@@ -829,14 +803,13 @@
    "Hermit'SShawl.png",
    "Hermit'sShawl.png"
   ],
-  "intro": "Like many other cloaks, obtaining the VRISINGPAGE comes down to luck, loot drops from enemies, chests, fishing and carriages. Below is where it can be acquired, the quantity, and the drop chance: !Source !!Amount !!Chance",
+  "intro": "Like many other cloaks, obtaining the Hermit's Shawl comes down to luck, loot drops from enemies, chests, fishing and carriages. Below is where it can be acquired, the quantity, and the drop chance:",
   "gear_level": null,
   "stats": "+18 Max Health +15 Sun Resistance Rating +15 Garlic Resistance Rating +15 Silver Resistance Rating",
   "set_bonus": "",
   "durability": null,
   "salvageable": "4 Cotton Yarn",
-  "is_set": false,
-  "icon": "/icons/hermit_s_shawl.png"
+  "is_set": false
  },
  {
   "title": "Hollowfang Armour Set",
@@ -849,7 +822,7 @@
    "Armour HollowfangArmourSet.png",
    "HollowfangArmourSet.png"
   ],
-  "intro": "* (2) Increase Bonus Physical Power by and Bonus Spell Power by . * (4) Increase Damage Reduction by .",
+  "intro": "The Hollowfang Armour Set can be crafted at the Tailoring Bench after unlocking the recipe by slaying Quincey the Bandit King.",
   "gear_level": 5.0,
   "stats": "+373 Total Max Health",
   "set_bonus": "(2) Increase Bonus Physical Power by and Bonus Spell Power by . (4) Increase Damage Reduction by .",
@@ -869,14 +842,13 @@
    "Armour HollowfangHeadgear.png",
    "HollowfangHeadgear.png"
   ],
-  "intro": "VRISINGPAGE is a cosmetic Head Armour currently unobtainable.",
+  "intro": "Hollowfang Headgear is a cosmetic Head Armour currently unobtainable.",
   "gear_level": null,
   "stats": "None",
   "set_bonus": "",
   "durability": null,
   "salvageable": "No",
-  "is_set": false,
-  "icon": "/icons/hollowfang_headgear.png"
+  "is_set": false
  },
  {
   "title": "Hunter's Cloak",
@@ -891,14 +863,13 @@
    "Hunter'SCloak.png",
    "Hunter'sCloak.png"
   ],
-  "intro": "VRISINGPAGE recipe unlocks upon slaying Beatrice the Tailor.",
+  "intro": "Hunter's Cloak recipe unlocks upon slaying Beatrice the Tailor.",
   "gear_level": null,
   "stats": "+18 Max Health +15 Sun Resistance Rating +15 Garlic Resistance Rating +15 Silver Resistance Rating",
   "set_bonus": "",
   "durability": null,
   "salvageable": "4 Cotton Yarn",
-  "is_set": false,
-  "icon": "/icons/hunter_s_cloak.png"
+  "is_set": false
  },
  {
   "title": "Immortal King's Cloak",
@@ -919,8 +890,7 @@
   "set_bonus": "",
   "durability": null,
   "salvageable": "4 Cotton Yarn",
-  "is_set": false,
-  "icon": "/icons/immortal_king_s_cloak.png"
+  "is_set": false
  },
  {
   "title": "Immortal King's Drape",
@@ -941,8 +911,7 @@
   "set_bonus": "",
   "durability": null,
   "salvageable": "2 Cloth 2 Leather",
-  "is_set": false,
-  "icon": "/icons/immortal_king_s_drape.png"
+  "is_set": false
  },
  {
   "title": "Immortal King's Greathelm",
@@ -957,14 +926,13 @@
    "ImmortalKing'SGreathelm.png",
    "ImmortalKing'sGreathelm.png"
   ],
-  "intro": "!Item !!style=\"width:25%\"| Materials !!Structure",
+  "intro": "Immortal King's Greathelm is part of the Dracula's Relics Pack (DLC), it has to be crafted through the inventory. DLC Hats can be shared with and equipped by vampires who don't own the DLC.",
   "gear_level": null,
   "stats": "",
   "set_bonus": "",
   "durability": null,
   "salvageable": "2 Copper Ingot 2 Leather",
-  "is_set": false,
-  "icon": "/icons/immortal_king_s_greathelm.png"
+  "is_set": false
  },
  {
   "title": "Immortal King's Mantle",
@@ -985,8 +953,7 @@
   "set_bonus": "",
   "durability": null,
   "salvageable": "4 Silk 4 Spectral Dust",
-  "is_set": false,
-  "icon": "/icons/immortal_king_s_mantle.png"
+  "is_set": false
  },
  {
   "title": "Iron Helm",
@@ -1000,14 +967,13 @@
    "Armour IronHelm.png",
    "IronHelm.png"
   ],
-  "intro": "VRISINGPAGE is a cosmetic Head Armour currently unobtainable.",
+  "intro": "Iron Helm is a cosmetic Head Armour currently unobtainable.",
   "gear_level": null,
   "stats": "None",
   "set_bonus": "",
   "durability": null,
   "salvageable": "No",
-  "is_set": false,
-  "icon": "/icons/iron_helm.png"
+  "is_set": false
  },
  {
   "title": "Knight's Helmet",
@@ -1022,14 +988,13 @@
    "Knight'SHelmet.png",
    "Knight'sHelmet.png"
   ],
-  "intro": "VRISINGPAGE is a cosmetic Tier 3 Hat. Hats of this tier can be obtained from fishing (1.64%), chests (7.5%) and carriages (10%) in Cursed Forest, Silverlight Hills, Oakveil Woodlands & Gloomrot North.",
+  "intro": "Knight's Helmet is a cosmetic Tier 3 Hat. Hats of this tier can be obtained from fishing (1.64%), chests (7.5%) and carriages (10%) in Cursed Forest, Silverlight Hills, Oakveil Woodlands & Gloomrot North.",
   "gear_level": null,
   "stats": "None",
   "set_bonus": "",
   "durability": null,
   "salvageable": "No",
-  "is_set": false,
-  "icon": "/icons/knight_s_helmet.png"
+  "is_set": false
  },
  {
   "title": "Maid's Cap",
@@ -1044,14 +1009,13 @@
    "Maid'SCap.png",
    "Maid'sCap.png"
   ],
-  "intro": "VRISINGPAGE is a cosmetic Tier 1 Hat. Like many other Hats, obtaining the VRISINGPAGE comes down to lucky, loot drops from fishing (3.17%), chests (7.5%) and carriages (10%) Farbane Woods.",
+  "intro": "Maid's Cap is a cosmetic Tier 1 Hat. Like many other Hats, obtaining the Maid's Cap comes down to lucky, loot drops from fishing (3.17%), chests (7.5%) and carriages (10%) Farbane Woods.",
   "gear_level": null,
   "stats": "None",
   "set_bonus": "",
   "durability": null,
   "salvageable": "No",
-  "is_set": false,
-  "icon": "/icons/maid_s_cap.png"
+  "is_set": false
  },
  {
   "title": "Maid's Scarf",
@@ -1066,14 +1030,13 @@
    "Maid'SScarf.png",
    "Maid'sScarf.png"
   ],
-  "intro": "VRISINGPAGE is a cosmetic Tier 2 Hat. Hats of this tier can be obtained from fishing (3.14%), chests (7.5%) and carriages (10%) in Dunley Farmlands, Ruins of Mortium, Gloomrot South. Alongside other Tier 2 hats, it also has a 1.71% chance to drop from Abomination.",
+  "intro": "Maid's Scarf is a cosmetic Tier 2 Hat. Hats of this tier can be obtained from fishing (3.14%), chests (7.5%) and carriages (10%) in Dunley Farmlands, Ruins of Mortium, Gloomrot South. Alongside other Tier 2 hats, it also has a 1.71% chance to drop from Abomination.",
   "gear_level": null,
   "stats": "None",
   "set_bonus": "",
   "durability": null,
   "salvageable": "No",
-  "is_set": false,
-  "icon": "/icons/maid_s_scarf.png"
+  "is_set": false
  },
  {
   "title": "Maleficer Scholar Armour Set",
@@ -1086,7 +1049,7 @@
    "Armour MaleficerScholarArmourSet.png",
    "MaleficerScholarArmourSet.png"
   ],
-  "intro": "*(2) Increase Spell Cooldown Rate by . *(3) Increase Spell Leech by . *(4) Increase Gear Level by .",
+  "intro": "__TOC__ __NOTOC__ The Maleficer Scholar Armour Set is one of the four upgraded versions of the Dawnthorn Armour Set. All of its armour pieces can be crafted at the Tailoring Bench after researching them at the Athenaeum. Set blueprints are sold at the City Book Vendor for Goldsun Coin.",
   "gear_level": 8.0,
   "stats": "+694 Total Max Health +6% Total Bonus Spell Power",
   "set_bonus": "(2) Increase Spell Cooldown Rate by . (3) Increase Spell Leech by . (4) Increase Gear Level by .",
@@ -1106,14 +1069,13 @@
    "Armour ManaShawl.png",
    "ManaShawl.png"
   ],
-  "intro": "Like many other cloaks, obtaining the VRISINGPAGE comes down to luck, loot drops from enemies, chests, fishing and carriages. Below is where it can be acquired, the quantity, and the drop chance: !Source !!Amount !!Chance",
+  "intro": "Like many other cloaks, obtaining the Mana Shawl comes down to luck, loot drops from enemies, chests, fishing and carriages. Below is where it can be acquired, the quantity, and the drop chance:",
   "gear_level": null,
   "stats": "+18 Max Health +15 Sun Resistance Rating +15 Garlic Resistance Rating +15 Silver Resistance Rating",
   "set_bonus": "",
   "durability": null,
   "salvageable": "4 Cotton Yarn",
-  "is_set": false,
-  "icon": "/icons/mana_shawl.png"
+  "is_set": false
  },
  {
   "title": "Marauder Armour Set",
@@ -1126,7 +1088,7 @@
    "Armour MarauderArmourSet.png",
    "MarauderArmourSet.png"
   ],
-  "intro": "*(2) Increase Primary Attack Leech by . *(4) Increase Gear Level by .",
+  "intro": "The Marauder Armour Set is one of the four upgraded versions of the Nightstalker Armour Set. All of its armour pieces can be crafted at the Simple Workbench after researching from within the Research Desk. It is also sold at the Shady Book Dealer for Copper Coins.",
   "gear_level": 4.0,
   "stats": "+282 Total Max Health +7.2% Total Weapon Attack Speed",
   "set_bonus": "(2) Increase Primary Attack Leech by . (4) Increase Gear Level by .",
@@ -1145,14 +1107,13 @@
    "Item MercilessHollowfangBoots.png",
    "MercilessHollowfangBoots.png"
   ],
-  "intro": "VRISINGPAGE was the next tier of boots after Hollowfang Boots. With the Update 1.0 it was replaced with 4 variants: *Duskwatcher Boots *Crimson Templar Boots *Blood Hunter Boots *Dark Magus Boots",
+  "intro": "Merciless Hollowfang Boots was the next tier of boots after Hollowfang Boots. With the Update 1.0 it was replaced with 4 variants: *Duskwatcher Boots *Crimson Templar Boots *Blood Hunter Boots *Dark Magus Boots",
   "gear_level": 6.0,
   "stats": "+46.3 Max Health",
   "set_bonus": "(2) Increase movement speed by 4%. (4) Increase attack speed by 4% and increase Gear Level by 1.",
   "durability": 914.0,
   "salvageable": "9 Iron Ingot",
-  "is_set": false,
-  "icon": "/icons/merciless_hollowfang_boots.png"
+  "is_set": false
  },
  {
   "title": "Merciless Hollowfang Gloves",
@@ -1165,14 +1126,13 @@
    "Item MercilessHollowfangGloves.png",
    "MercilessHollowfangGloves.png"
   ],
-  "intro": "VRISINGPAGE was the next tier of gloves after Hollowfang Gloves. With the Update 1.0 it was replaced with 4 variants: *Duskwatcher Gloves *Crimson Templar Gloves *Blood Hunter Gloves *Dark Magus Gloves",
+  "intro": "Merciless Hollowfang Gloves was the next tier of gloves after Hollowfang Gloves. With the Update 1.0 it was replaced with 4 variants: *Duskwatcher Gloves *Crimson Templar Gloves *Blood Hunter Gloves *Dark Magus Gloves",
   "gear_level": 6.0,
   "stats": "+37 Max Health",
   "set_bonus": "(2) Increase movement speed by 4%. (4) Increase attack speed by 4% and increase Gear Level by 1.",
   "durability": 914.0,
   "salvageable": "9 Iron Ingot",
-  "is_set": false,
-  "icon": "/icons/merciless_hollowfang_gloves.png"
+  "is_set": false
  },
  {
   "title": "Merciless Hollowfang Leggings",
@@ -1185,14 +1145,13 @@
    "Item MercilessHollowfangLeggings.png",
    "MercilessHollowfangLeggings.png"
   ],
-  "intro": "VRISINGPAGE was the next tier of leggings after Hollowfang Leggings. With the Update 1.0 it was replaced with 4 variants: *Duskwatcher Leggings *Crimson Templar Leggings *Blood Hunter Leggings *Dark Magus Leggings",
+  "intro": "Merciless Hollowfang Leggings was the next tier of leggings after Hollowfang Leggings. With the Update 1.0 it was replaced with 4 variants: *Duskwatcher Leggings *Crimson Templar Leggings *Blood Hunter Leggings *Dark Magus Leggings",
   "gear_level": 6.0,
   "stats": "+55.5 Max Health",
   "set_bonus": "(2) Increase movement speed by 4%. (4) Increase attack speed by 4% and increase Gear Level by 1.",
   "durability": 914.0,
   "salvageable": "9 Iron Ingot",
-  "is_set": false,
-  "icon": "/icons/merciless_hollowfang_leggings.png"
+  "is_set": false
  },
  {
   "title": "Merciless Hollowfang Vest",
@@ -1206,14 +1165,13 @@
    "Armour MercilessHollowfangVest.png",
    "MercilessHollowfangVest.png"
   ],
-  "intro": "VRISINGPAGE was the next tier of chestguard after Hollowfang Chestguard. With the Update 1.0 it was replaced with 4 variants: *Duskwatcher Chestguard *Crimson Templar Chestguard *Blood Hunter Chestguard *Dark Magus Chestguard",
+  "intro": "Merciless Hollowfang Vest was the next tier of chestguard after Hollowfang Chestguard. With the Update 1.0 it was replaced with 4 variants: *Duskwatcher Chestguard *Crimson Templar Chestguard *Blood Hunter Chestguard *Dark Magus Chestguard",
   "gear_level": 6.0,
   "stats": "+64.8 Max Health",
   "set_bonus": "(2) Increase movement speed by 4%. (4) Increase attack speed by 4% and increase Gear Level by 1.",
   "durability": 914.0,
   "salvageable": "9 Iron Ingot",
-  "is_set": false,
-  "icon": "/icons/merciless_hollowfang_vest.png"
+  "is_set": false
  },
  {
   "title": "Midnight Ball Gown",
@@ -1226,14 +1184,13 @@
    "Armour MidnightBallGown.png",
    "MidnightBallGown.png"
   ],
-  "intro": "!Item!!Materials!!Structure",
+  "intro": "The Midnight Ball Gown is a purly cosmetic armour set and grants no attributes. All of its armour pieces can be crafted at the Tailoring Bench after having been unlocked by slaying Maja the Dark Savant.",
   "gear_level": 1.0,
   "stats": "",
   "set_bonus": "",
   "durability": 347.0,
   "salvageable": "27 Total Cloth 9 Total Wool Thread",
-  "is_set": true,
-  "icon": "/icons/midnight_ball_gown.png"
+  "is_set": true
  },
  {
   "title": "Midnight Nobleman Set",
@@ -1246,7 +1203,7 @@
    "Armour MidnightNoblemanSet.png",
    "MidnightNoblemanSet.png"
   ],
-  "intro": "!Item!!Materials!!Structure",
+  "intro": "The Midnight Nobleman Set is a purly cosmetic armour set and grants no attributes. All of its armour pieces can be crafted at the Tailoring Bench after having been unlocked by slaying Maja the Dark Savant.",
   "gear_level": 1.0,
   "stats": "",
   "set_bonus": "",
@@ -1266,14 +1223,13 @@
    "Armour MilitiaHelmet.png",
    "MilitiaHelmet.png"
   ],
-  "intro": "VRISINGPAGE is a cosmetic Tier 1/2 Hat. Hats of this tier can be obtained from fishing (3.17%), chests (7.5%) and carriages (10%) in Farbane Woods / Dunley Farmlands, Ruins of Mortium, Gloomrot South. Because this hat is uniquely a part of both tier 1 and tier 2 loot pools, fishing in the Cursed Forest yields the highest odds of obtaining it. Alongside other Tier 2 hats, it also has a 1.71% chance to drop from Abomination.",
+  "intro": "Militia Helmet is a cosmetic Tier 1/2 Hat. Hats of this tier can be obtained from fishing (3.17%), chests (7.5%) and carriages (10%) in Farbane Woods / Dunley Farmlands, Ruins of Mortium, Gloomrot South. Because this hat is uniquely a part of both tier 1 and tier 2 loot pools, fishing in the Cursed Forest yields the highest odds of obtaining it. Alongside other Tier 2 hats, it also has a 1.71% chance to drop from Abomination.",
   "gear_level": null,
   "stats": "None",
   "set_bonus": "",
   "durability": null,
   "salvageable": "No",
-  "is_set": false,
-  "icon": "/icons/militia_helmet.png"
+  "is_set": false
  },
  {
   "title": "Mitre",
@@ -1287,14 +1243,13 @@
    "Armour Mitre.png",
    "Mitre.png"
   ],
-  "intro": "VRISINGPAGE is a cosmetic Head Armour. It can be purchased from the City Goods Vendor in Silverlight Hills for Goldsun Coin.",
+  "intro": "Mitre is a cosmetic Head Armour. It can be purchased from the City Goods Vendor in Silverlight Hills for Goldsun Coin.",
   "gear_level": null,
   "stats": "None",
   "set_bonus": "",
   "durability": null,
   "salvageable": "No",
-  "is_set": false,
-  "icon": "/icons/mitre.png"
+  "is_set": false
  },
  {
   "title": "Necromancer's Mitre",
@@ -1309,14 +1264,13 @@
    "Necromancer'SMitre.png",
    "Necromancer'sMitre.png"
   ],
-  "intro": "VRISINGPAGE is a cosmetic Head Armour. It can be acquired from the Shady Goods Dealer in Farbane Woods for Copper Coin.",
+  "intro": "Necromancer's Mitre is a cosmetic Head Armour. It can be acquired from the Shady Goods Dealer in Farbane Woods for Copper Coin.",
   "gear_level": null,
   "stats": "None",
   "set_bonus": "",
   "durability": null,
   "salvageable": "No",
-  "is_set": false,
-  "icon": "/icons/necromancer_s_mitre.png"
+  "is_set": false
  },
  {
   "title": "Nightlurker Head",
@@ -1330,14 +1284,13 @@
    "Armour NightlurkerHead.png",
    "NightlurkerHead.png"
   ],
-  "intro": "VRISINGPAGE is a cosmetic Head Armour that was recently made available in Update 1.1. It has a 2% chance to drop from Night Lurkers in the easternmost region of the Cursed Forest.",
+  "intro": "Nightlurker Head is a cosmetic Head Armour that was recently made available in Update 1.1. It has a 2% chance to drop from Night Lurkers in the easternmost region of the Cursed Forest.",
   "gear_level": null,
   "stats": "None",
   "set_bonus": "",
   "durability": null,
   "salvageable": "No",
-  "is_set": false,
-  "icon": "/icons/nightlurker_head.png"
+  "is_set": false
  },
  {
   "title": "Nightstalker Armour Set",
@@ -1350,7 +1303,7 @@
    "Armour NightstalkerArmourSet.png",
    "NightstalkerArmourSet.png"
   ],
-  "intro": "!Item!!Materials!!Structure",
+  "intro": "The Nightstalker Armour Set can be crafted at the Simple Workbench in V Rising.",
   "gear_level": 3.0,
   "stats": "+204 Total Max Health",
   "set_bonus": "",
@@ -1369,7 +1322,7 @@
    "Armour OpulentNightArmourSet.png",
    "OpulentNightArmourSet.png"
   ],
-  "intro": "!Item!!Materials!!Structure",
+  "intro": "The Opulent Night Armour Set is a purely cosmetic armour set and grants no attributes. It is part of the Eternal Dominance Pack DLC, and all of its armour pieces can be crafted at the Tailoring Bench. DLC Outfits can be shared with and equipped by vampires who don't own the DLC.",
   "gear_level": 1.0,
   "stats": "",
   "set_bonus": "",
@@ -1389,14 +1342,13 @@
    "Armour OpulentNightVisage.png",
    "OpulentNightVisage.png"
   ],
-  "intro": "!Item !!style=\"width:25%\"| Materials !!Structure",
+  "intro": "Opulent Night Visage is part of the Eternal Dominance Pack (DLC), it has to be crafted through the inventory. DLC Hats can be shared with and equipped by vampires who don't own the DLC.",
   "gear_level": null,
   "stats": "",
   "set_bonus": "",
   "durability": null,
   "salvageable": "2 Copper Ingot 2 Leather",
-  "is_set": false,
-  "icon": "/icons/opulent_night_visage.png"
+  "is_set": false
  },
  {
   "title": "Paladin's Helmet",
@@ -1411,14 +1363,13 @@
    "Paladin'SHelmet.png",
    "Paladin'sHelmet.png"
   ],
-  "intro": "VRISINGPAGE is a cosmetic Tier 3 Hat. Hats of this tier can be obtained from fishing (1.64%), chests (7.5%) and carriages (10%) in Cursed Forest, Silverlight Hills, Oakveil Woodlands & Gloomrot North.",
+  "intro": "Paladin's Helmet is a cosmetic Tier 3 Hat. Hats of this tier can be obtained from fishing (1.64%), chests (7.5%) and carriages (10%) in Cursed Forest, Silverlight Hills, Oakveil Woodlands & Gloomrot North.",
   "gear_level": null,
   "stats": "None",
   "set_bonus": "",
   "durability": null,
   "salvageable": "No",
-  "is_set": false,
-  "icon": "/icons/paladin_s_helmet.png"
+  "is_set": false
  },
  {
   "title": "Phantom's Veil",
@@ -1433,14 +1384,13 @@
    "Phantom'SVeil.png",
    "Phantom'sVeil.png"
   ],
-  "intro": "VRISINGPAGE recipe unlocks upon slaying Sir Magnus the Overseer.",
+  "intro": "Phantom's Veil recipe unlocks upon slaying Sir Magnus the Overseer.",
   "gear_level": null,
   "stats": "+24 Max Health +15 Sun Resistance Rating +15 Garlic Resistance Rating +15 Silver Resistance Rating +15 Fire Resistance Rating +15 Holy Resistance Rating",
   "set_bonus": "",
   "durability": null,
   "salvageable": "4 Silk 4 Spectral Dust",
-  "is_set": false,
-  "icon": "/icons/phantom_s_veil.png"
+  "is_set": false
  },
  {
   "title": "Pilgrim's Hat",
@@ -1455,14 +1405,13 @@
    "Pilgrim'SHat.png",
    "Pilgrim'sHat.png"
   ],
-  "intro": "VRISINGPAGE is a cosmetic Head Armour. It can be acquired from the Shady Goods Dealer in Farbane Woods for Copper Coin.",
+  "intro": "Pilgrim's Hat is a cosmetic Head Armour. It can be acquired from the Shady Goods Dealer in Farbane Woods for Copper Coin.",
   "gear_level": null,
   "stats": "None",
   "set_bonus": "",
   "durability": null,
   "salvageable": "No",
-  "is_set": false,
-  "icon": "/icons/pilgrim_s_hat.png"
+  "is_set": false
  },
  {
   "title": "Plague Doctor Mask",
@@ -1476,14 +1425,13 @@
    "Armour PlagueDoctorMask.png",
    "PlagueDoctorMask.png"
   ],
-  "intro": "!Item !!Materials !!Source",
+  "intro": "Plague Doctor Mask is part of the Sinister Evolution Pack (DLC), it has to be crafted through the inventory. DLC Hats can be shared with and equipped by vampires who don't own the DLC.",
   "gear_level": null,
   "stats": "",
   "set_bonus": "",
   "durability": null,
   "salvageable": "2 Copper Ingot 2 Leather",
-  "is_set": false,
-  "icon": "/icons/plague_doctor_mask.png"
+  "is_set": false
  },
  {
   "title": "Plated Boneguard Armour Set",
@@ -1496,7 +1444,7 @@
    "Armour PlatedBoneguardArmourSet.png",
    "PlatedBoneguardArmourSet.png"
   ],
-  "intro": "*(2) Increase Bonus Max Health by . *(4) Increase Bonus Physical Power by .",
+  "intro": "The Plated Boneguard Armour Set can be crafted at the Simple Workbench in V Rising.",
   "gear_level": 2.0,
   "stats": "+138 Total Max Health",
   "set_bonus": "(2) Increase Bonus Max Health by . (4) Increase Bonus Physical Power by .",
@@ -1516,14 +1464,13 @@
    "Armour PurpleFeatheredCape.png",
    "PurpleFeatheredCape.png"
   ],
-  "intro": "Like many other cloaks, obtaining the VRISINGPAGE comes down to lucky, loot drops from enemies, chests, fishing and carriages. Below is where it can be acquired, the quantity, and the drop chance: !Source !!Amount !!Chance",
+  "intro": "Like many other cloaks, obtaining the Purple Feathered Cape comes down to lucky, loot drops from enemies, chests, fishing and carriages. Below is where it can be acquired, the quantity, and the drop chance:",
   "gear_level": null,
   "stats": "+18 Max Health +15 Sun Resistance Rating +15 Garlic Resistance Rating +15 Silver Resistance Rating",
   "set_bonus": "",
   "durability": null,
   "salvageable": "4 Cotton Yarn",
-  "is_set": false,
-  "icon": "/icons/purple_feathered_cape.png"
+  "is_set": false
  },
  {
   "title": "Razer Hood",
@@ -1537,14 +1484,13 @@
    "Armour RazerHood.png",
    "RazerHood.png"
   ],
-  "intro": "VRISINGPAGE is a cosmetic Tier 2/3 Hat. Hats of this tier can be obtained from fishing (3.14% / 1.64%), chests (7.5%) and carriages (10%) in all regions except the Farbane Woods. Because this hat is uniquely a part of both tier 2 and tier 3 loot pools, fishing in the Cursed Forest yields the highest odds of obtaining it. Alongside other Tier 2 hats, it also has a 1.71% chance to drop from Abomination. If one owns the Razer Night Serpent Pack (DLC), it becomes a craftable item through the inventory.",
+  "intro": "Razer Hood is a cosmetic Tier 2/3 Hat. Hats of this tier can be obtained from fishing (3.14% / 1.64%), chests (7.5%) and carriages (10%) in all regions except the Farbane Woods. Because this hat is uniquely a part of both tier 2 and tier 3 loot pools, fishing in the Cursed Forest yields the highest odds of obtaining it. Alongside other Tier 2 hats, it also has a 1.71% chance to drop from Abomination. If one owns the Razer Night Serpent Pack (DLC), it becomes a craftable item through the inventory.",
   "gear_level": null,
   "stats": "None",
   "set_bonus": "",
   "durability": null,
   "salvageable": "No",
-  "is_set": false,
-  "icon": "/icons/razer_hood.png"
+  "is_set": false
  },
  {
   "title": "Razer Serpent Cloak",
@@ -1558,14 +1504,13 @@
    "Armour RazerSerpentCloak.png",
    "RazerSerpentCloak.png"
   ],
-  "intro": "Like many other cloaks, obtaining the VRISINGPAGE comes down to lucky, loot drops from enemies, chests, fishing and carriages. It is twice as rare as other tier 2 cloaks. If one owns the Razer Night Serpent Pack (DLC), it becomes a craftable item after slaying Beatrice the Tailor.",
+  "intro": "Like many other cloaks, obtaining the Razer Serpent Cloak comes down to lucky, loot drops from enemies, chests, fishing and carriages. It is twice as rare as other tier 2 cloaks. If one owns the Razer Night Serpent Pack (DLC), it becomes a craftable item after slaying Beatrice the Tailor.",
   "gear_level": null,
   "stats": "+18 Max Health +15 Sun Resistance Rating +15 Garlic Resistance Rating +15 Silver Resistance Rating",
   "set_bonus": "",
   "durability": null,
   "salvageable": "4 Cotton Yarn",
-  "is_set": false,
-  "icon": "/icons/razer_serpent_cloak.png"
+  "is_set": false
  },
  {
   "title": "Razer Serpent Mantle",
@@ -1579,14 +1524,13 @@
    "Armour RazerSerpentMantle.png",
    "RazerSerpentMantle.png"
   ],
-  "intro": "Like many other cloaks, obtaining the VRISINGPAGE comes down to lucky, loot drops from enemies, chests, fishing and carriages. It is twice as rare as other tier 3 cloaks. If one owns the Razer Night Serpent Pack (DLC), it becomes a craftable item after slaying Sir Magnus the Overseer.",
+  "intro": "Like many other cloaks, obtaining the Razer Serpent Mantle comes down to lucky, loot drops from enemies, chests, fishing and carriages. It is twice as rare as other tier 3 cloaks. If one owns the Razer Night Serpent Pack (DLC), it becomes a craftable item after slaying Sir Magnus the Overseer.",
   "gear_level": null,
   "stats": "+24 Max Health +15 Sun Resistance Rating +15 Garlic Resistance Rating +15 Silver Resistance Rating +15 Fire Resistance Rating +15 Holy Resistance Rating",
   "set_bonus": "",
   "durability": null,
   "salvageable": "4 Silk 4 Spectral Dust",
-  "is_set": false,
-  "icon": "/icons/razer_serpent_mantle.png"
+  "is_set": false
  },
  {
   "title": "Razer Serpent Wrap",
@@ -1600,14 +1544,13 @@
    "Armour RazerSerpentWrap.png",
    "RazerSerpentWrap.png"
   ],
-  "intro": "Like many other cloaks, obtaining the VRISINGPAGE comes down to lucky, loot drops from enemies, chests, fishing and carriages. It is twice as rare as other tier 1 cloaks. If one owns the Razer Night Serpent Pack (DLC), it becomes a craftable item after slaying Keely the Frost Archer.",
+  "intro": "Like many other cloaks, obtaining the Razer Serpent Wrap comes down to lucky, loot drops from enemies, chests, fishing and carriages. It is twice as rare as other tier 1 cloaks. If one owns the Razer Night Serpent Pack (DLC), it becomes a craftable item after slaying Keely the Frost Archer.",
   "gear_level": null,
   "stats": "+12 Max Health +15 Sun Resistance Rating",
   "set_bonus": "",
   "durability": null,
   "salvageable": "2 Cloth 2 Leather",
-  "is_set": false,
-  "icon": "/icons/razer_serpent_wrap.png"
+  "is_set": false
  },
  {
   "title": "Royal Mantle of Ashfolk Kings",
@@ -1622,14 +1565,13 @@
    "RoyalMantleOfAshfolkKings.png",
    "RoyalMantleofAshfolkKings.png"
   ],
-  "intro": "Like many other cloaks, obtaining the VRISINGPAGE comes down to lucky, loot drops from enemies, chests, fishing and carriages. Is also sold at the Treasure Hunter Trade Post for Goldsun Coin 50% of the time. Below is where it can be acquired, the quantity, and the drop chance: !Source !!Amount !!Chance",
+  "intro": "Like many other cloaks, obtaining the Royal Mantle of Ashfolk Kings comes down to lucky, loot drops from enemies, chests, fishing and carriages. Is also sold at the Treasure Hunter Trade Post for Goldsun Coin 50% of the time. Below is where it can be acquired, the quantity, and the drop chance:",
   "gear_level": null,
   "stats": "+24 Max Health +15 Sun Resistance Rating +15 Garlic Resistance Rating +15 Silver Resistance Rating +15 Fire Resistance Rating +15 Holy Resistance Rating",
   "set_bonus": "",
   "durability": null,
   "salvageable": "4 Silk 4 Spectral Dust",
-  "is_set": false,
-  "icon": "/icons/royal_mantle_of_ashfolk_kings.png"
+  "is_set": false
  },
  {
   "title": "Royal Veil of the Jester",
@@ -1644,14 +1586,13 @@
    "RoyalVeilOfTheJester.png",
    "RoyalVeiloftheJester.png"
   ],
-  "intro": "Like many other cloaks, obtaining the VRISINGPAGE comes down to lucky, loot drops from enemies, chests, fishing and carriages. Is also sold at the Treasure Hunter Trade Post for Goldsun Coin 50% of the time. Below is where it can be acquired, the quantity, and the drop chance: !Source !!Amount !!Chance",
+  "intro": "Like many other cloaks, obtaining the Royal Veil of the Jester comes down to lucky, loot drops from enemies, chests, fishing and carriages. Is also sold at the Treasure Hunter Trade Post for Goldsun Coin 50% of the time. Below is where it can be acquired, the quantity, and the drop chance:",
   "gear_level": null,
   "stats": "+24 Max Health +15 Sun Resistance Rating +15 Garlic Resistance Rating +15 Silver Resistance Rating +15 Fire Resistance Rating +15 Holy Resistance Rating",
   "set_bonus": "",
   "durability": null,
   "salvageable": "4 Silk 4 Spectral Dust",
-  "is_set": false,
-  "icon": "/icons/royal_veil_of_the_jester.png"
+  "is_set": false
  },
  {
   "title": "Rusted Helmet",
@@ -1665,14 +1606,13 @@
    "Armour RustedHelmet.png",
    "RustedHelmet.png"
   ],
-  "intro": "VRISINGPAGE is a cosmetic Tier 1 Hat. Hats of this tier can be obtained from fishing (3.17%), chests (7.5%) and carriages (10%) in Farbane Woods. It can also be purchased from the Shady Goods Dealer in Farbane Woods for Copper Coin.",
+  "intro": "Rusted Helmet is a cosmetic Tier 1 Hat. Hats of this tier can be obtained from fishing (3.17%), chests (7.5%) and carriages (10%) in Farbane Woods. It can also be purchased from the Shady Goods Dealer in Farbane Woods for Copper Coin.",
   "gear_level": null,
   "stats": "None",
   "set_bonus": "",
   "durability": null,
   "salvageable": "No",
-  "is_set": false,
-  "icon": "/icons/rusted_helmet.png"
+  "is_set": false
  },
  {
   "title": "Sanguine Faceguard",
@@ -1686,14 +1626,13 @@
    "Armour SanguineFaceguard.png",
    "SanguineFaceguard.png"
   ],
-  "intro": "VRISINGPAGE is a cosmetic Head Armour currently unobtainable.",
+  "intro": "Sanguine Faceguard is a cosmetic Head Armour currently unobtainable.",
   "gear_level": null,
   "stats": "None",
   "set_bonus": "",
   "durability": null,
   "salvageable": "No",
-  "is_set": false,
-  "icon": "/icons/sanguine_faceguard.png"
+  "is_set": false
  },
  {
   "title": "Scarecrow Mask",
@@ -1707,14 +1646,13 @@
    "Armour ScarecrowMask.png",
    "ScarecrowMask.png"
   ],
-  "intro": "VRISINGPAGE is a cosmetic Head Armour. It has a 2.5% chance to drop from Scarecrows and 0.5% chance from Scarecrow Dummies.",
+  "intro": "Scarecrow Mask is a cosmetic Head Armour. It has a 2.5% chance to drop from Scarecrows and 0.5% chance from Scarecrow Dummies.",
   "gear_level": null,
   "stats": "None",
   "set_bonus": "",
   "durability": null,
   "salvageable": "No",
-  "is_set": false,
-  "icon": "/icons/scarecrow_mask.png"
+  "is_set": false
  },
  {
   "title": "Shadewalker Armour Set",
@@ -1727,7 +1665,7 @@
    "Armour ShadewalkerArmourSet.png",
    "ShadewalkerArmourSet.png"
   ],
-  "intro": "*(2) Increase Movement speed by . *(4) Increase Gear Level by .",
+  "intro": "The Shadewalker Armour Set is one of the four upgraded versions of the Nightstalker Armour Set. All of its armour pieces can be crafted at the Simple Workbench after researching from within the Research Desk. It is also sold at the Shady Book Dealer for Copper Coins.",
   "gear_level": 4.0,
   "stats": "+282 Total Max Health +8% Total Physical Critical Chance.",
   "set_bonus": "(2) Increase Movement speed by . (4) Increase Gear Level by .",
@@ -1746,7 +1684,7 @@
    "Armour ShadowmoonArmourSet.png",
    "ShadowmoonArmourSet.png"
   ],
-  "intro": "*(2) Increase Movement Speed by . *(3) Increase Veil Cooldown Rate by . *(4) Increase Gear Level by .",
+  "intro": "__TOC__ __NOTOC__ The Shadowmoon Armour Set is one of the four upgraded versions of the Dawnthorn Armour Set. All of its armour pieces can be crafted at the Tailoring Bench after researching from within the Athenaeum. Set blueprints are sold at the City Book Vendor for Goldsun Coin.",
   "gear_level": 8.0,
   "stats": "+694 Total Max Health 8% Total Physical Critical Chance",
   "set_bonus": "(2) Increase Movement Speed by . (3) Increase Veil Cooldown Rate by . (4) Increase Gear Level by .",
@@ -1765,7 +1703,7 @@
    "Armour ShanoaArmourSet.png",
    "ShanoaArmourSet.png"
   ],
-  "intro": "!Item!!Materials!!Structure",
+  "intro": "The Shanoa Armour Set is a purly cosmetic armour set and grants no attributes. It is part of the Legacy of Castlevania Premium Pack DLC, and all of its armour pieces can be crafted at the Tailoring Bench. DLC Outfits can be shared with and equipped by vampires who don't own the DLC.",
   "gear_level": 1.0,
   "stats": "",
   "set_bonus": "",
@@ -1786,14 +1724,13 @@
    "ShroudOfTheForest.png",
    "ShroudoftheForest.png"
   ],
-  "intro": "VRISINGPAGE recipe unlocks upon slaying Ben the Old Wanderer. It prevents the accumulation of Curse of the Forest in the Cursed Forest and removes any existing stacks.",
+  "intro": "Shroud of the Forest recipe unlocks upon slaying Ben the Old Wanderer. It prevents the accumulation of Curse of the Forest in the Cursed Forest and removes any existing stacks.",
   "gear_level": null,
   "stats": "Makes the wearer immune to the Curse of the Forest",
   "set_bonus": "",
   "durability": null,
   "salvageable": "40 Pristine Hide 40 Plant Fibre 8 Ghost Shroom",
-  "is_set": false,
-  "icon": "/icons/shroud_of_the_forest.png"
+  "is_set": false
  },
  {
   "title": "Slave Helmet",
@@ -1807,14 +1744,13 @@
    "Armour SlaveHelmet.png",
    "SlaveHelmet.png"
   ],
-  "intro": "VRISINGPAGE is a cosmetic Head Armour currently unobtainable.",
+  "intro": "Slave Helmet is a cosmetic Head Armour currently unobtainable.",
   "gear_level": null,
   "stats": "None",
   "set_bonus": "",
   "durability": null,
   "salvageable": "No",
-  "is_set": false,
-  "icon": "/icons/slave_helmet.png"
+  "is_set": false
  },
  {
   "title": "Soma Cruz Armour Set",
@@ -1827,7 +1763,7 @@
    "Armour SomaCruzArmourSet.png",
    "SomaCruzArmourSet.png"
   ],
-  "intro": "!Item!!Materials!!Structure",
+  "intro": "The Soma Cruz Armour Set is a purly cosmetic armour set and grants no attributes. It is part of the Legacy of Castlevania Premium Pack DLC, and all of its armour pieces can be crafted at the Tailoring Bench. DLC Outfits can be shared with and equipped by vampires who don't own the DLC.",
   "gear_level": 1.0,
   "stats": "",
   "set_bonus": "",
@@ -1847,14 +1783,13 @@
    "Armour StrawHat.png",
    "StrawHat.png"
   ],
-  "intro": "VRISINGPAGE is a cosmetic Tier 1 Head Armour. Like many other Hats, obtaining the VRISINGPAGE comes down to lucky, loot drops from fishing (3.17%), chests (7.5%) and carriages (10%) Farbane Woods. May be purchased from the Shady Goods Dealer in Farbane Woods for Copper Coin.",
+  "intro": "Straw Hat is a cosmetic Tier 1 Head Armour. Like many other Hats, obtaining the Straw Hat comes down to lucky, loot drops from fishing (3.17%), chests (7.5%) and carriages (10%) Farbane Woods. May be purchased from the Shady Goods Dealer in Farbane Woods for Copper Coin.",
   "gear_level": null,
   "stats": "None",
   "set_bonus": "",
   "durability": null,
   "salvageable": "No",
-  "is_set": false,
-  "icon": "/icons/straw_hat.png"
+  "is_set": false
  },
  {
   "title": "Tail of the Archfiend",
@@ -1869,14 +1804,13 @@
    "TailOfTheArchfiend.png",
    "TailoftheArchfiend.png"
   ],
-  "intro": "Like many other cloaks, obtaining the VRISINGPAGE comes down to lucky, loot drops from enemies, chests, fishing and carriages. Is also sold at the Treasure Hunter Trade Post for Goldsun Coin 50% of the time. Below is where it can be acquired, the quantity, and the drop chance: !Source !!Amount !!Chance",
+  "intro": "Like many other cloaks, obtaining the Tail of the Archfiend comes down to lucky, loot drops from enemies, chests, fishing and carriages. Is also sold at the Treasure Hunter Trade Post for Goldsun Coin 50% of the time. Below is where it can be acquired, the quantity, and the drop chance:",
   "gear_level": null,
   "stats": "+24 Max Health +15 Sun Resistance Rating +15 Garlic Resistance Rating +15 Silver Resistance Rating +15 Fire Resistance Rating +15 Holy Resistance Rating",
   "set_bonus": "",
   "durability": null,
   "salvageable": "4 Silk 4 Spectral Dust",
-  "is_set": false,
-  "icon": "/icons/tail_of_the_archfiend.png"
+  "is_set": false
  },
  {
   "title": "Tatters Of The Undead",
@@ -1890,14 +1824,13 @@
    "Armour TattersOfTheUndead.png",
    "TattersOfTheUndead.png"
   ],
-  "intro": "Like many other cloaks, obtaining the VRISINGPAGE comes down to lucky, loot drops from enemies, chests, fishing and carriages. Below is where it can be acquired, the quantity, and the drop chance: !Source !!Amount !!Chance",
+  "intro": "Like many other cloaks, obtaining the Tatters Of The Undead comes down to lucky, loot drops from enemies, chests, fishing and carriages. Below is where it can be acquired, the quantity, and the drop chance:",
   "gear_level": null,
   "stats": "+12 Max Health +15 Sun Resistance Rating",
   "set_bonus": "",
   "durability": null,
   "salvageable": "2 Cloth 2 Leather",
-  "is_set": false,
-  "icon": "/icons/tatters_of_the_undead.png"
+  "is_set": false
  },
  {
   "title": "Thousand-Stitch Cloak",
@@ -1911,14 +1844,13 @@
    "Armour Thousand-StitchCloak.png",
    "Thousand-StitchCloak.png"
   ],
-  "intro": "Like many other cloaks, obtaining the VRISINGPAGE comes down to lucky, loot drops from enemies, chests, fishing and carriages. Below is where it can be acquired, the quantity, and the drop chance: !Source !!Amount !!Chance",
+  "intro": "Like many other cloaks, obtaining the Thousand-Stitch Cloak comes down to lucky, loot drops from enemies, chests, fishing and carriages. Below is where it can be acquired, the quantity, and the drop chance:",
   "gear_level": null,
   "stats": "+18 Max Health +15 Sun Resistance Rating +15 Garlic Resistance Rating +15 Silver Resistance Rating",
   "set_bonus": "",
   "durability": null,
   "salvageable": "4 Cotton Yarn",
-  "is_set": false,
-  "icon": "/icons/thousand_stitch_cloak.png"
+  "is_set": false
  },
  {
   "title": "Toki Feathered Cape",
@@ -1932,14 +1864,13 @@
    "Armour TokiFeatheredCape.png",
    "TokiFeatheredCape.png"
   ],
-  "intro": "Like many other cloaks, obtaining the VRISINGPAGE comes down to luck, loot drops from enemies, chests, fishing and carriages. Below is where it can be acquired, the quantity, and the drop chance: !Source !!Amount !!Chance",
+  "intro": "Like many other cloaks, obtaining the Toki Feathered Cape comes down to luck, loot drops from enemies, chests, fishing and carriages. Below is where it can be acquired, the quantity, and the drop chance:",
   "gear_level": null,
   "stats": "+18 Max Health +15 Sun Resistance Rating +15 Garlic Resistance Rating +15 Silver Resistance Rating",
   "set_bonus": "",
   "durability": null,
   "salvageable": "4 Cotton Yarn",
-  "is_set": false,
-  "icon": "/icons/toki_feathered_cape.png"
+  "is_set": false
  },
  {
   "title": "Top Hat",
@@ -1953,14 +1884,13 @@
    "Armour TopHat.png",
    "TopHat.png"
   ],
-  "intro": "VRISINGPAGE is a cosmetic Tier 3 Hat. Hats of this tier can be obtained from fishing (1.64%), chests (7.5%) and carriages (10%) in Cursed Forest, Silverlight Hills, Oakveil Woodlands & Gloomrot North. It can be purchased from the Rural Goods Vendor in Dunley Farmlands for Silver Coin.",
+  "intro": "Top Hat is a cosmetic Tier 3 Hat. Hats of this tier can be obtained from fishing (1.64%), chests (7.5%) and carriages (10%) in Cursed Forest, Silverlight Hills, Oakveil Woodlands & Gloomrot North. It can be purchased from the Rural Goods Vendor in Dunley Farmlands for Silver Coin.",
   "gear_level": null,
   "stats": "None",
   "set_bonus": "",
   "durability": null,
   "salvageable": "No",
-  "is_set": false,
-  "icon": "/icons/top_hat.png"
+  "is_set": false
  },
  {
   "title": "Traveller's Wrap",
@@ -1975,14 +1905,13 @@
    "Traveller'SWrap.png",
    "Traveller'sWrap.png"
   ],
-  "intro": "VRISINGPAGE recipe unlocks upon slaying Keely the Frost Archer.",
+  "intro": "Traveller's Wrap recipe unlocks upon slaying Keely the Frost Archer.",
   "gear_level": null,
   "stats": "+12 Max Health +15 Sun Resistance Rating",
   "set_bonus": "",
   "durability": null,
   "salvageable": "2 Cloth 2 Leather",
-  "is_set": false,
-  "icon": "/icons/traveller_s_wrap.png"
+  "is_set": false
  },
  {
   "title": "Twilight Cowl",
@@ -1996,14 +1925,13 @@
    "Armour TwilightCowl.png",
    "TwilightCowl.png"
   ],
-  "intro": "VRISINGPAGE is a cosmetic Head Armour currently unobtainable.",
+  "intro": "Twilight Cowl is a cosmetic Head Armour currently unobtainable.",
   "gear_level": null,
   "stats": "None",
   "set_bonus": "",
   "durability": null,
   "salvageable": "No",
-  "is_set": false,
-  "icon": "/icons/twilight_cowl.png"
+  "is_set": false
  },
  {
   "title": "Undead General Helmet",
@@ -2017,14 +1945,13 @@
    "Armour UndeadGeneralHelmet.png",
    "UndeadGeneralHelmet.png"
   ],
-  "intro": "VRISINGPAGE is a cosmetic Tier 3 Hat. Hats of this tier can be obtained from fishing (1.64%), chests (7.5%) and carriages (10%) in Cursed Forest, Silverlight Hills, Oakveil Woodlands & Gloomrot North. It was made available in Update 1.1.",
+  "intro": "Undead General Helmet is a cosmetic Tier 3 Hat. Hats of this tier can be obtained from fishing (1.64%), chests (7.5%) and carriages (10%) in Cursed Forest, Silverlight Hills, Oakveil Woodlands & Gloomrot North. It was made available in Update 1.1.",
   "gear_level": null,
   "stats": "None",
   "set_bonus": "",
   "durability": null,
   "salvageable": "No",
-  "is_set": false,
-  "icon": "/icons/undead_general_helmet.png"
+  "is_set": false
  },
  {
   "title": "Vampire Hunter",
@@ -2038,14 +1965,13 @@
    "Armour VampireHunter.png",
    "VampireHunter.png"
   ],
-  "intro": "Has a 15% chance to drop from either Tristan the Vampire Hunter, Jade the Vampire Hunter or Simon Belmont the Vampire Hunter.",
+  "intro": "Vampire Hunter (known in-game as Vampire Hunter Headgear) is a cosmetic Head Armour. It is the original variant, while an alternate with the same name was made available in Update 1.1.",
   "gear_level": null,
   "stats": "None",
   "set_bonus": "",
   "durability": null,
   "salvageable": "No",
-  "is_set": false,
-  "icon": "/icons/vampire_hunter.png"
+  "is_set": false
  },
  {
   "title": "Vampire Hunter 2",
@@ -2059,14 +1985,13 @@
    "Armour VampireHunter2.png",
    "VampireHunter2.png"
   ],
-  "intro": "Has a 5% chance to drop from either Tristan the Vampire Hunter or Jade the Vampire Hunter.",
+  "intro": "Vampire Hunter 2 (known in-game as Vampire Hunter Headgear) is a cosmetic Head Armour, recently made available in Update 1.1. It goes by the same name as the original variant, with a slightly altered appearance.",
   "gear_level": null,
   "stats": "None",
   "set_bonus": "",
   "durability": null,
   "salvageable": "No",
-  "is_set": false,
-  "icon": "/icons/vampire_hunter_2.png"
+  "is_set": false
  },
  {
   "title": "Vampire Hunter's Mantle",
@@ -2081,14 +2006,13 @@
    "VampireHunter'SMantle.png",
    "VampireHunter'sMantle.png"
   ],
-  "intro": "Like many other cloaks, obtaining the VRISINGPAGE comes down to lucky, loot drops from enemies, chests, fishing and carriages. Below is where it can be acquired, the quantity, and the drop chance: !Source !!Amount !!Chance",
+  "intro": "Like many other cloaks, obtaining the Vampire Hunter's Mantle comes down to lucky, loot drops from enemies, chests, fishing and carriages. Below is where it can be acquired, the quantity, and the drop chance:",
   "gear_level": null,
   "stats": "+12 Max Health +15 Sun Resistance Rating",
   "set_bonus": "",
   "durability": null,
   "salvageable": "2 Cloth 2 Leather",
-  "is_set": false,
-  "icon": "/icons/vampire_hunter_s_mantle.png"
+  "is_set": false
  },
  {
   "title": "War Torn Wine Cloak",
@@ -2102,14 +2026,13 @@
    "Armour WarTornWineCloak.png",
    "WarTornWineCloak.png"
   ],
-  "intro": "Like many other cloaks, obtaining the VRISINGPAGE comes down to lucky, loot drops from enemies, chests, fishing and carriages. Below is where it can be acquired, the quantity, and the drop chance: !Source !!Amount !!Chance",
+  "intro": "Like many other cloaks, obtaining the War Torn Wine Cloak comes down to lucky, loot drops from enemies, chests, fishing and carriages. Below is where it can be acquired, the quantity, and the drop chance:",
   "gear_level": null,
   "stats": "+18 Max Health +15 Sun Resistance Rating +15 Garlic Resistance Rating +15 Silver Resistance Rating",
   "set_bonus": "",
   "durability": null,
   "salvageable": "4 Cotton Yarn",
-  "is_set": false,
-  "icon": "/icons/war_torn_wine_cloak.png"
+  "is_set": false
  },
  {
   "title": "Warlock Armour Set",
@@ -2122,7 +2045,7 @@
    "Armour WarlockArmourSet.png",
    "WarlockArmourSet.png"
   ],
-  "intro": "*(2) Increase Spell Cooldown Rate by . *(4) Increase Gear Level by .",
+  "intro": "The Warlock Armour Set is one of the four upgraded versions of the Nightstalker Armour Set. All of its armour pieces can be crafted at the Simple Workbench after researching from within the Research Desk. It is also sold at the Shady Book Dealer for Copper Coins.",
   "gear_level": 4.0,
   "stats": "+282 Total Max Health +7.2% Total Bonus Spell Power",
   "set_bonus": "(2) Increase Spell Cooldown Rate by . (4) Increase Gear Level by .",
@@ -2142,14 +2065,13 @@
    "Armour WerewolfHead.png",
    "WerewolfHead.png"
   ],
-  "intro": "VRISINGPAGE is a cosmetic Head Armour currently unobtainable.",
+  "intro": "Werewolf Head is a cosmetic Head Armour currently unobtainable.",
   "gear_level": null,
   "stats": "None",
   "set_bonus": "",
   "durability": null,
   "salvageable": "No",
-  "is_set": false,
-  "icon": "/icons/werewolf_head.png"
+  "is_set": false
  },
  {
   "title": "Wolf Head",
@@ -2163,13 +2085,12 @@
    "Armour WolfHead.png",
    "WolfHead.png"
   ],
-  "intro": "VRISINGPAGE is a cosmetic Head Armour. It can be purchased from the Rural Goods Vendor in Dunley Farmlands for Silver Coin.",
+  "intro": "Wolf Head is a cosmetic Head Armour. It can be purchased from the Rural Goods Vendor in Dunley Farmlands for Silver Coin.",
   "gear_level": null,
   "stats": "None",
   "set_bonus": "",
   "durability": null,
   "salvageable": "No",
-  "is_set": false,
-  "icon": "/icons/wolf_head.png"
+  "is_set": false
  }
 ]
