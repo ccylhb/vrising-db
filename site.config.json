@@ -19,13 +19,63 @@
   },
   "favicon": "🩸",
   "nav": [
-    { "label": "Home", "href": "/" },
-    { "label": "V Blood", "href": "/vblood/", "tool": true },
-    { "label": "Weapons", "href": "/weapons/" },
-    { "label": "Armor", "href": "/armor/" },
-    { "label": "Consumables", "href": "/consumables/" },
-    { "label": "Rankings", "href": "/rankings/", "tool": true },
-    { "label": "Loot Finder", "href": "/loot-finder/", "tool": true }
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "V Blood",
+      "href": "/vblood/",
+      "tool": true
+    },
+    {
+      "label": "Weapons",
+      "href": "/weapons/"
+    },
+    {
+      "label": "Armor",
+      "href": "/armor/"
+    },
+    {
+      "label": "Consumables",
+      "href": "/consumables/"
+    },
+    {
+      "label": "Rankings",
+      "href": "/rankings/",
+      "tool": true
+    },
+    {
+      "label": "Loot Finder",
+      "href": "/loot-finder/",
+      "tool": true
+    }
   ],
-  "footerNote": "Fan-made database. V Rising is a trademark of Stunlock Studios. Not affiliated with the game developer or VRising Wiki."
+  "footerNote": "Fan-made database. V Rising is a trademark of Stunlock Studios. Not affiliated with the game developer or VRising Wiki.",
+  "sisterSites": [
+    {
+      "name": "IcarusDB",
+      "url": "https://icarus.lootseer.com",
+      "blurb": "Weapon durability, food buffs and creature health per biome."
+    },
+    {
+      "name": "ValheimDB",
+      "url": "https://valheim.lootseer.com",
+      "blurb": "Weapon damage per tier, food health and creature resistances."
+    },
+    {
+      "name": "RimWorldDB",
+      "url": "https://rimworld.lootseer.com",
+      "blurb": "Weapon DPS, apparel armour, nutrition and animal combat power."
+    },
+    {
+      "name": "DayZDB",
+      "url": "https://dayz.lootseer.com",
+      "blurb": "Food energy, water, ammo damage and penetration."
+    }
+  ],
+  "hubSite": {
+    "name": "LootSeer",
+    "url": "https://lootseer.com"
+  }
 }
