@@ -1,6 +1,7 @@
 ---
 import Base from "../../layouts/Base.astro";
 import Related from "../../components/Related.astro";
+import { consumableDesc } from "../../lib/seo";
 import consumables from "../../data/vrising_consumables.json";
 
 export async function getStaticPaths() {
@@ -20,7 +21,7 @@ if (c.salvageable) infoRows.push(["Salvage", String(c.salvageable)]);
 
 <Base
   title={`${c.title} — V Rising Consumable Effect`}
-  description={`${c.title} is a ${c.item_type || "consumable"} in V Rising.${c.description ? " " + c.description : ""}`}
+  description={consumableDesc(c)}
 >
   <p style="margin:0"><a href="/consumables/">← All consumables</a></p>
   <h1 class="icon-h1">

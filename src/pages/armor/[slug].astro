@@ -1,6 +1,7 @@
 ---
 import Base from "../../layouts/Base.astro";
 import Related from "../../components/Related.astro";
+import { armorDesc } from "../../lib/seo";
 import armor from "../../data/vrising_armor.json";
 
 export async function getStaticPaths() {
@@ -19,7 +20,7 @@ if (a.salvageable) infoRows.push(["Salvage", String(a.salvageable)]);
 
 <Base
   title={`${a.title} — V Rising Armor Stats (Gear ${a.gear_level ?? "—"})`}
-  description={`${a.title}: gear level ${a.gear_level ?? "—"}${a.stats ? ", " + a.stats : ""}${a.set_bonus ? ". Set bonus: " + a.set_bonus : ""} in V Rising.`}
+  description={armorDesc(a)}
 >
   <p style="margin:0"><a href="/armor/">← All armour</a></p>
   <h1 class="icon-h1">

@@ -1,6 +1,7 @@
 ---
 import Base from "../../layouts/Base.astro";
 import Related from "../../components/Related.astro";
+import { weaponDesc } from "../../lib/seo";
 import weapons from "../../data/vrising_weapons.json";
 
 export async function getStaticPaths() {
@@ -19,7 +20,7 @@ if (w.salvageable) infoRows.push(["Salvage", String(w.salvageable)]);
 
 <Base
   title={`${w.title} — V Rising Weapon Stats (Gear ${w.gear_level ?? "—"}, ${w.physical_power ?? "—"} Power)`}
-  description={`${w.title}: gear level ${w.gear_level ?? "—"}, ${w.physical_power ?? "—"} physical power${w.weapon_type ? ", a " + w.weapon_type : ""} in V Rising${w.stats ? ", bonus: " + w.stats : ""}.`}
+  description={weaponDesc(w)}
 >
   <p style="margin:0"><a href="/weapons/">← All weapons</a></p>
   <h1 class="icon-h1">
