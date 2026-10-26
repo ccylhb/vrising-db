@@ -5,3 +5,4 @@ scripts/cache/
 _bak_tmp*/
 dist.bak/
 _push.log
+_bing_*.log
